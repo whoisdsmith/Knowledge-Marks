@@ -1,0 +1,70 @@
+## Tools and Plugins
+
+_Sexy Applications for your Command Line Interface._
+
+-   [ack3](https://github.com/beyondgrep/ack3) - Greplike tool, optimized for programmers.
+-   [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs.
+-   [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
+-   [autojump](https://github.com/wting/autojump) - cd command that learns
+-   [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
+-   [buku](https://github.com/jarun/Buku) - command-line bookmark manager.
+-   [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
+-   [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
+-   [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
+-   [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
+-   [df-show](https://github.com/roberthawdon/dfshow) - Interactive directory and file browser with a similar feel to the `ls` command.
+-   [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting Containers and Services.
+-   [dry](https://github.com/moncho/dry) - Docker manager for the terminal.
+-   [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
+-   [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
+-   [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
+-   [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+-   [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface.
+-   [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Checking the latest news headlines from various news outlets on the web.
+-   [glances](https://github.com/nicolargo/glances) - top/htop alternative.
+-   [googler](https://github.com/jarun/googler) - Search Google from your terminal.
+-   [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
+-   [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
+-   [howdoi](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
+-   [htop](https://hisham.hm/htop/) - Cool looking and interactive process viewer 'replacement' for the top command.
+-   [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
+-   [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
+-   [jaymock-cli](https://github.com/unmock/jaymock-cli) - Mock an API and generate fake JSON test data, right from the terminal.
+-   [jq.node](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
+-   [jrnl](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
+-   [k](https://github.com/supercrabtree/k) - Directory listings for zsh with git features.
+-   [kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
+-   [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
+-   [lf](https://github.com/gokcehan/lf) - Terminal file manager.
+-   [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+-   [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
+-   [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+-   [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
+-   [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
+-   [nnn](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
+-   [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
+-   [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
+-   [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
+-   [ripgrep](https://github.com/BurntSushi/ripgrep) - Code-searching tool like ack and the\_silver\_searcher, but faster.
+-   [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+-   [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
+-   [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
+-   [taskell](https://taskell.app/) - Command-line Trello-like kanban-board/TODO lists.
+-   [taskwarrior](https://taskwarrior.org/) - Command-line TODO list manager.
+-   [the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
+-   [tig](https://github.com/jonas/tig) - Text mode interface for git.
+-   [tiv](https://github.com/stefanhaustein/TerminalImageViewer) - Text mode terminal image viewer.
+-   [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
+-   [tmux](https://tmux.github.io/) - Terminal multiplexer.
+-   [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
+-   [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
+-   [tre](https://github.com/dduan/tre) - Improved `tree` command that knows git, creates shell alias for quick opening, and more!
+-   [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
+-   [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
+-   [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
+-   [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
+-   [yadm](https://yadm.io) - Seamless git-based management of your dotfiles.
+-   [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
+-   [z](https://github.com/rupa/z) - Tool to jump to folders based on history matching a given regex
+-   [z.lua](https://github.com/skywind3000/z.lua) - New cd command that helps you navigate faster by learning your habits.
+-   [zoxide](https://github.com/ajeetdsouza/zoxide) - cd anywhere without typing in long paths.
