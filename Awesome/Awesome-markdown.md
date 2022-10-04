@@ -1,6 +1,5 @@
 # A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 
-Awesome Series @ Write Kit
 
 [Markdown (Syntax & Extensions, Documentation & Cheat Sheets, Libraries, ...)](https://github.com/writekit/awesome-markdown) • [Markdown Editors & (Pre)viewers](https://github.com/writekit/awesome-markdown-editors) • [Books (Services, Hand-Written, Auto-Built w/ Open Data, ...)](https://github.com/writekit/awesome-books)
 
@@ -9,13 +8,6 @@ A collection of awesome markdown goodies (libraries, services, editors, tools, c
 Note: ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png ":octocat:") stands for the GitHub page and 💎 stands for the RubyGems page.
 
 ___
-
-\[ANNOUNCEMENT\] Looking for the latest news, tools, tips & tricks, and more about markdown and friends? Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manuscriptsnews)) channel on twitter for updates.
-
-___
-
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
-
 ## Table of Contents
 
 -   [Markdown](https://github.com/mundimark/awesome-markdown/blob/master/README.md#markdown)
