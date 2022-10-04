@@ -104,7 +104,7 @@
 
 - [TheITBros – We Know So You Don't Have To](https://theitbros.com/)
 
-- [[[index]] - anagora.org](https://anagora.org/index)
+- [index - anagora.org](https://anagora.org/index)
 
 - [Jeff Huang · Extracting Data from Tracking Devices](https://jeffhuang.com/extracting_data_from_tracking_devices/)
 
@@ -239,6 +239,7 @@
 - [Blog](https://www.marcusnoble.co.uk/)
 
 - [https://www.giantpandacv.com](https://www.giantpandacv.com/)
+[Content](Content.md)
 
 - [Bret Fisher - Docker Mastery and Kubernetes Mastery](https://www.bretfisher.com/)
 
