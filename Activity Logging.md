@@ -1,4 +1,5 @@
-## Activity Logging
+# Activity Logging
+---
 
 - [Python lifelogging Projects (Oct 2021)](https://www.libhunt.com/l/python/topic/lifelogging)
 
@@ -9,3 +10,5 @@
 - [Dogsheep | dogsheep.github.io](https://dogsheep.github.io/)
 
 - [arbtt: the automatic, rule-based time tracker](http://arbtt.nomeata.de/)
+
+---

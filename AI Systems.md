@@ -1,4 +1,5 @@
-## AI Systems
+# AI Systems
+----
 
 - [Library of AI tools for creators](https://library.phygital.plus/)
 
@@ -35,3 +36,5 @@
 - [eBrevia | AI for Intelligent Contract Analytics](https://ebrevia.com/)
 
 - [iManage](https://imanage.com/)
+
+---

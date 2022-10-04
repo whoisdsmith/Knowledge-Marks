@@ -1,4 +1,4 @@
-# ► Adblocking 
+#  Adblocking 
 
 * **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - Adblocking Tests
 * **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Block Spotify Ads
@@ -7,7 +7,7 @@
 
 ***
 
-## ▷ Adblocking Extensions
+##  Adblocking Extensions
 
 * **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Lite](https://github.com/gorhill/uBlock/releases?q=uBOLite)
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
@@ -30,7 +30,7 @@
 
 ***
 
-## ▷ DNS Adblocking
+##  DNS Adblocking
 
 * **[DNS Providers](https://kb.adguard.com/en/general/dns-providers)** - DNS Provider Index
 * **[DNS Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)** - DNS Host File Blocking
@@ -65,7 +65,7 @@
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
 ***
-► Antivirus
+ Antivirus
 
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Tools / Resources
 * **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
@@ -142,9 +142,9 @@
 
 ***
 
-# ► Privacy
+#  Privacy
 
-## ▷ Privacy Tools
+##  Privacy Tools
 
 * **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)** - Indexes of Privacy Tools / Services
 * **[Privacy Matters](https://www.securemessagingapps.com/)** - Privacy Based Messaging App Comparisons
@@ -251,7 +251,7 @@
 
 ***
 
-## ▷ Privacy Extensions
+##  Privacy Extensions
 
 * **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/KevinRoebert/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [Decentraleyes](https://decentraleyes.org/), [Ping Blocker](https://github.com/dessant/ping-blocker), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
@@ -315,7 +315,7 @@
 
 ***
 
-## ▷ Browser Tools
+##  Browser Tools
 
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - Onion-Routed Browser
 * **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
@@ -410,7 +410,7 @@
 
 ***
 
-## ▷ Search Engines
+##  Search Engines
 
 * **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
 * **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bang)
@@ -432,7 +432,7 @@
 
 ***
 
-## ▷ Email Services
+##  Email Services
 
 * **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)**
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Email Addresses
@@ -452,7 +452,8 @@
 * [torbirdy](https://trac.torproject.org/projects/tor/wiki/torbirdy) - Connect to Mozilla Thunderbird via Tor 
 
 ***
- ► VPN
+
+## VPN
 
 * **[VPN Comparison Chart](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/)** - Compare VPN Privacy Polices
 * **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
@@ -514,9 +515,9 @@
 
 ***
 
-# ► Proxy
+#  Proxy
 
-## ▷ Proxy Apps
+##  Proxy Apps
 
 * **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * **[Lantern](https://lantern.io/en_US/index.html)** 
@@ -539,7 +540,7 @@
 
 ***
 
-## ▷ Proxy Sites
+##  Proxy Sites
 
 * **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)** - Lists of Proxies
 * **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**

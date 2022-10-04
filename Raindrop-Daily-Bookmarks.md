@@ -1,6 +1,6 @@
 # Raindrop-Daily-Bookmarks
 ---
-/git
+
 
 ```raindrop
 collection: 0

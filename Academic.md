@@ -1,4 +1,5 @@
 ## Academic
+---
 
 - [Copyscape Plagiarism Checker - Duplicate Content Detection Software](https://www.copyscape.com/)
 
@@ -49,3 +50,4 @@
 - [Researchgate](https://www.researchgate.net/search/publication?q=)
 
 - [Scilit.net](https://www.scilit.net/)
+---

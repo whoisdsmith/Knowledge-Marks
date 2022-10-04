@@ -1,4 +1,5 @@
-## Advanced Searching
+# Advanced Searching
+----
 
 - [Epieos, the ultimate OSINT tool](https://epieos.com/)
 
@@ -7,3 +8,4 @@
 - [ExoneraTor – Tor Metrics](https://metrics.torproject.org/exonerator.html)
 
 - [Riddler.io](https://riddler.io/)
+---

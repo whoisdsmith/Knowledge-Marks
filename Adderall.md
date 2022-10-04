@@ -1,4 +1,5 @@
-## Adderall
+# Adderall
+---
 
 - [Enhancement stimulants: perceived motivational and cognitive advantages](https://www.frontiersin.org/articles/10.3389/fnins.2013.00198/full)
 
@@ -101,3 +102,5 @@
 - [Efficacy of modafinil compared to dextroamphetamine for the treatment of attention deficit hyperactivity disorder in adults - PubMed](https://pubmed.ncbi.nlm.nih.gov/11191692/)
 
 - [Pediatric Neurology Briefs](https://www.pediatricneurologybriefs.com/article/10.15844/pedneurbriefs-19-6-10/)
+
+---
