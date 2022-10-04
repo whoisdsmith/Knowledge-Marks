@@ -1,0 +1,65 @@
+## Customization
+
+-   **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
+-   **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals)
+-   **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
+-   [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - Windows Customization Apps
+-   [ScreenStyler](https://screenstyler.com/) - Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)
+-   [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
+-   [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) - Desktop Customization
+-   [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
+-   [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers etc.
+-   [msstyleEditor](https://github.com/nptr/msstyleEditor) - Windows Visual Style Editor
+-   [DynaWin](https://github.com/Apollo199999999/DynaWin) or [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
+-   [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
+-   [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
+-   [Ricing Guide](http://www.ricing.chloechantelle.com/) - Windows Ricing Guide
+-   [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/windows-ricing) - Windows Ricing Tools
+-   [LineStep](http://litestep.net/) - Customize Desktop Interface
+-   [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - Windows Auto Personalization / Debloating Script
+-   [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.whirlwindfx.com/pages/signalrgb), [LiquidCTL](https://github.com/liquidctl/liquidctl) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
+-   [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
+-   [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - Audio Visualizer / FX Engine for Keyboards, Mice & Accessories
+-   [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Soundpacks
+-   [Darker](https://github.com/angelwzr/darker) - Dark / Light Mode Theme Switcher
+-   [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows
+-   [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - Applies Win 10 Accent Color to OS
+-   [ModernWinver](https://github.com/torchgm/NewModernWinver) - Modernize the About Windows Screen
+-   [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Custom Context Menu Manager
+-   [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Modern & Fluent Flyouts for Windows / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+-   [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windowfx_premium)
+-   [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
+-   [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)
+-   [Taskbar Tweaker](https://tweaker.rammichael.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) or [Valaut](http://www.valaut.phpnet.us/) - Taskbar Customization Tools
+-   [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
+-   [RoundedTB](https://github.com/torchgm/RoundedTB) - Rounded Taskbar Corners
+-   [TaskbarX](https://chrisandriessen.nl/taskbarx/) - Change Taskbar Icon Positions
+-   [WinCenterTile](https://github.com/valinet/WinCenterTitle) - Center Windows Titlebar Text
+-   [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
+-   [SimpleClassicTheme](https://github.com/WinClassic/SimpleClassicTheme) or [ClassicServ](https://discord.com/invite/GqFJs2cXDQ) - Classic Windows Theme
+-   [Jabba The Hud](https://codeberg.org/elberro/jabba-the-hud) - Windows HUD Tweak
+-   [Blackbox 4 Windows](http://blackbox4windows.com/) - Custom Windows Shells / Widgets
+-   [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
+-   [ValliStart](https://www.deviantart.com/jaxoriginals/art/ValliStart-Start-menu-replacement-893506095) - Windows Start Menu Skin
+-   [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
+-   [Emoji.ico](https://github.com/davzoku/emoji.ico) - Emoji Folder Icons
+-   [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
+-   [Cursors 4U](https://www.cursors-4u.com/) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
+-   [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
+-   [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
+-   [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
+-   [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
+-   [terminal.sexy](https://terminal.sexy/), [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
+-   [Tabby](https://tabby.sh/) - Modern Terminal Theme
+-   [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
+-   [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Retro Cathode Terminal Theme
+-   [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon Terminal Themes
+-   [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
+-   [MyDockFinder](https://www.mydockfinder.com/) - MacOS Theme for Windows 10
+-   [Taskbar11](https://github.com/jetspiking/Taskbar11) - Change Windows 11 Taskbar Position & Size
+-   [MicaForEveryone](https://github.com/minusium/MicaForEveryone) - Enable Titlebar Backdrop Effect on Windows 11
+-   [Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - Disable Win11 Rounder Corners
+-   [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
+-   [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Windows 11
+
+___

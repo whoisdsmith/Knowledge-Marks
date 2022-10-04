@@ -1,0 +1,110 @@
+# Documents / Articles
+
+-   **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
+-   **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
+-   **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
+-   [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
+-   [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
+-   [Heystacks](https://heystacks.org/) - Public Google Docs
+-   [Alex Catalogue](http://www.infomotions.com/alex/) - English / Philosophy Documents
+-   [FindPDFDoc](http://www.findpdfdoc.com/) - Document Search
+-   [PDFSlide](https://pdfslide.net/) - Document Search
+-   [EDoc](https://edoc.tips/) - Document Search
+-   [IDoc](https://idoc.pub/) - Document Search
+-   [academic.microsoft](https://academic.microsoft.com/home) - Document Search
+-   [lens](https://www.lens.org/) - Document Search
+-   [base-search](https://www.base-search.net/) - Document Search
+-   [dimensions](https://app.dimensions.ai/discover/publication) - Document Search
+-   [Share OSF](https://share.osf.io/) - Document Search
+-   [VDocuments](https://vdocuments.site/) - Document Search
+-   [repo.zenk](https://repo.zenk-security.com/) - Document Search
+-   [docplayer](https://docplayer.net/) - Document Search
+-   [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search
+-   [Higher Intellect](https://preterhuman.net/) - Document Search
+-   [qDoc](https://qdoc.tips/) - Document Search
+-   [ReadSomethingGreat](https://www.readsomethinggreat.com/) - Internet Articles
+-   [Google Scholar](https://scholar.google.com/) - Articles
+-   [Mendeley](https://www.mendeley.com/) - Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
+-   [DOAJ](https://doaj.org/) - Journals / Articles
+-   [ResearchGate](https://www.researchgate.net/) - Science Articles
+-   [SciLit](https://www.scilit.net/) - Science Articles
+-   [MyScienceWork](https://www.mysciencework.com/) - Science Articles
+-   [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
+-   [Academia](https://www.academia.edu/) - Academic Papers
+-   [Scinapse](https://scinapse.io/) - Academic Paper Search
+-   [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search
+-   [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers
+-   [FreeFullPDF](https://freefullpdf.com/) - Science / Articles
+-   [CiteSeerX](https://citeseerx.ist.psu.edu/index) - Science / Articles
+-   [KUNDOC](https://coek.info/) - Science / Articles
+-   [Papers We Love](https://paperswelove.org/) - Science / Articles / [GitHub](https://github.com/papers-we-love/papers-we-love)
+-   [Awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) - Transformer for Detection and Segmentation Papers
+-   [Springer](https://link.springer.com/) - Science / Articles
+-   [Science.gov](https://www.science.gov/) - Science / Articles / Documents
+-   [Liebertpub](https://liebertpub.com/) - Science / Journals / Papers / Books
+-   [DOKU.PUB](https://doku.pub/) - Science / Articles
+-   [ESJI](http://www.esjindex.org/) - Science / Journals
+-   [Clarivate](https://mjl.clarivate.com/) - Science / Journals
+-   [SciAlert](https://scialert.net/) - Science / Journals
+-   [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets
+-   [Zenodo](https://zenodo.org/) - Articles / Documents / Datasets
+-   [Dataone](https://www.dataone.org/) - Datasets
+-   [Kaggle](https://www.kaggle.com/datasets) - Datasets
+-   [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
+-   [DBpedia](https://www.dbpedia.org/) - Datasets
+-   [mdpi](https://www.mdpi.com/) - Articles
+-   [longdom](https://www.longdom.org/) - Articles
+-   [Scholarpedia](http://www.scholarpedia.org/) - Articles
+-   [DOAJ](https://www.doaj.org/) - Journals / Articles
+-   [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
+-   [Docracy](https://www.docracy.com/) - Legal Documents
+-   [E-International Relations](https://www.e-ir.info/) - International Relation Articles
+-   [Legal Core](https://core.ac.uk/) - Papers / Academic
+-   [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals
+-   [OpenMD](https://openmd.com/) - Medical Journals
+-   [Free Medical Journals](http://www.freemedicaljournals.com/) - Medical Journals
+-   [Bioline](http://www.bioline.org.br/) - Bioscience Journals
+-   [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
+-   [Open Knowledge Maps](https://openknowledgemaps.org/) - Research Papers
+-   [Internet Archive Scholar](https://scholar.archive.org/) - Research Papers
+-   [Paper Panda](https://paperpanda.app/) - Research Papers
+-   [Open Access Library](https://www.oalib.com/) - Research Papers
+-   [Paperity](https://paperity.org/) - Research Papers
+-   [OpenAire](https://explore.openaire.eu/) - Research Papers
+-   [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
+-   [RePEc](http://repec.org/) - Economic Research Papers
+-   [PsyArXiv](https://psyarxiv.com/) - Articles / Psychological Sciences
+-   [SkillCommons](https://www.skillscommons.org/) - Work Training Documents
+-   [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers
+-   [LAC](https://www.bac-lac.gc.ca/eng/Pages/home.aspx) - Canadian Document Archive
+-   [Pandora](http://pandora.nla.gov.au/) - Australian Document Archive
+-   [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
+-   [EThOS](https://ethos.bl.uk/SearchResults.do) - Doctoral Theses
+-   [ndltd](http://search.ndltd.org/) - Search theses and dissertations
+-   [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses
+-   [oatd](https://oatd.org/) - Theses / Dissertations
+-   [CIRES](https://cires.colorado.edu/) - Environmental Research Data
+-   [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
+-   [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive
+-   [CIA Publications](https://www.cia.gov/resources/publications/) - History / Reports
+-   [FBI Vault](https://vault.fbi.gov/) - Declassified Documents
+-   [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
+-   [DDOS](https://ddosecrets.com/) - Transparency Collective
+-   [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
+-   [NSA Archive](https://nsarchive.gwu.edu/) - Reports
+-   [NAP](https://www.nap.edu/) - Reports
+-   [WikiLeaks](https://wikileaks.org/) - Leaked Documents
+-   [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
+-   [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
+-   [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
+-   [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - NASA Documents
+-   [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
+-   [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
+-   [CourtListerner](https://www.courtlistener.com/recap/) - Pacer Documents
+-   [Aleph](https://github.com/alephdata/aleph) - Document Index Tool
+-   [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google
+-   [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0)
+-   [ZealDocs](https://zealdocs.org/) - Document Viewer
+-   [Sioyek](https://sioyek.info/) - Research Paper / Technical Document Viewer
+
+___

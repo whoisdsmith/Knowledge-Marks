@@ -1,0 +1,173 @@
+# Internet Tools
+
+-   **[Internet Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)** - Internet & Browser Privacy Tools
+-   **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Manage / Save Passwords
+-   **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - Email Sites with a Focus on Privacy
+-   **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Email Addresses
+-   **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development & Hosting Tools
+-   **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/) or [GetEmoji](https://getemoji.com/) - Emoji Index
+-   [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services
+-   [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
+-   [Nativefier](https://github.com/nativefier/nativefier) - Turn Sites into Desktop Apps
+-   [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
+-   [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
+-   [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
+-   [OONI](https://ooni.org/) - Test Site Blocking / Network Speed
+-   [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - OpenSSH Client / Server
+-   [TCP Optimizer](https://www.speedguide.net/downloads.php/) - Network Optimizer
+-   [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - Internet Traffic Control / Monitor
+-   [Natlas](https://github.com/natlas/natlas) or [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - Network Scanner
+-   [WiFi Analyzer](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n) - WiFi Analyzer
+-   [Arcai](https://arcai.com/) - WiFi Speed Control
+-   [Nmap](https://nmap.org/) - Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)
+-   [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - ARP Spoofer / Kick Users from WiFi
+-   [AreWeDown?](https://github.com/shukriadams/arewedown) - HTTP Uptime Monitor
+-   [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
+-   [WiFiCard](https://wificard.io/) - WiFi Info QRCode Generator
+-   [Master Networks & Scanning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_master_networks_.26amp.3B_scanning) - Network & Network Scanning Tutorials
+-   [RustCat](https://github.com/robiot/rustcat) - Port Listener
+-   [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
+-   [.new](https://whats.new/shortcuts) - New Project Shortcuts
+-   [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
+-   [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - RSS Feed Search
+-   [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Creator
+-   [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
+-   [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS Feed for Sites Missing It
+-   [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds & Tools
+-   [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
+-   [sheet-posting](https://www.sheet-posting.me/) - Convert Google Spreadsheets into Blogs & RSS Feeds
+-   [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds
+-   [Clovery](https://webcatalog.io/clovery/) - Multi-Google App Program
+-   [PyPasser](https://github.com/xHossein/PyPasser) - Bypass ReCaptcha v3 & v2
+-   [Rescan](https://rescan.io/) - Find Out Technologies Used to Build Any Site
+-   [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites
+-   [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
+-   [WebMailExtractor](https://www.webemailextractor.com/#trynow) - Extract Emails / Phone #s from Webpages
+-   [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification
+-   [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
+-   [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
+-   [SocialBlade](https://socialblade.com/) - Social Media Stats
+-   [LiveCounts](https://livecounts.io/) - Live Social Media Stats
+-   [Post Generator](https://postgenerator.online/) - Convert Article to Social Media Post
+-   [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
+-   [Abogrow](https://www.abogrow.com/compose) - Preview Social Media Posts
+-   [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Manager
+-   [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
+-   [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
+-   [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
+-   [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
+-   [Got Your Back](https://github.com/jay0lee/got-your-back) - Backup Gmail Messages
+-   [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
+-   [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts
+-   [Eiverr](https://www.eiverr.com/) - Premium Account Cookies
+-   [Voice Dictation](https://dictation.io/) - Type with Voice
+-   [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage / Store Bookmarks
+-   [Instapaper](https://www.instapaper.com/) - Bookmarking Tool
+-   [Pilgrim](http://pilgrim.are.na/) - Tree Style Path Bookmarking
+-   [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox
+-   [wallabag](https://wallabag.org/) - Save and Classify Articles
+-   [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
+-   [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps
+-   [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
+-   [Telescope](https://telescope.ac/) - Publishing Platform
+-   [Odie](http://odie.us/) - Publish Google Docs to Web
+-   [Hamsket](https://github.com/TheGoddessInari/hamsket), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge), [Rambox](https://github.com/ramboxapp/download/releases) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
+-   [Slapdash](https://slapdash.com/) - Connect Cloud Apps
+-   [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
+-   [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) - Messaging Platforms
+-   [Twist](https://twist.com/) - Collaboration Chat Manager
+-   [Hack.chat](https://hack.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chat
+-   [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - Chat App
+-   [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
+-   [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](http://bitchx.sourceforge.net/) - IRC Clients
+-   [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms
+-   [LAN Messenger](https://lanmessenger.github.io/) - FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)
+-   [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
+-   [Slink](https://slink.chat/) - Aim Inspired Chat Client
+-   [ARP Chat](https://github.com/kognise/arpchat) - ARP Chat Client
+-   [Rocket Chat](https://rocket.chat/) - Self-Hosted Chat Client
+-   [Delta Chat](https://delta.chat/en/) - Email Based Messenger
+-   [PingMe](https://github.com/kha7iq/pingme) - Multi-App Notifications
+-   [SnapRecovery](https://github.com/sdushantha/snaprecovery) - Snapchat Recovery Tool
+-   [Snapchat Data Extractor](https://gist.github.com/programminghoch10/fa37e0da8b2efc5cb8077e59d000771d) - Extract Snapchat Photo / Video Details
+-   [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
+-   [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
+-   [Video Chat Apps / Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_chat) - Video Calls
+-   [Zoom Escaper](https://zoomescaper.com/) - Self-Sabotage Video Calls to Escape Meetings
+-   [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls
+-   [Live Curtain](https://livecurtain.com/) - Countdown Curtain For Online Meeting
+-   [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/), [Google Voice](https://voice.google.com/) or [DogeHouse](https://dogehouse.tv/) - Voice Chat
+-   [IMumble](https://www.imumble.nl/), [VoicePacket](https://www.voicepacket.net/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
+-   [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
+-   [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
+-   [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - No Verification Required Email Sites
+-   [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - Send & Receive Mail
+-   [Fedora Email](https://fedora.email/) - Email Web Client
+-   [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
+-   [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - EDU Email Address'
+-   [BeFree](https://beefree.io/templates/free/) - Email Templates
+-   [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - Free Mail Certificate
+-   [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
+-   [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement Tracker
+-   [Cleanfox](https://www.cleanfox.io/) - Easily Clean Email Inbox
+-   [Unroll](https://unroll.me/) or [UnsubScan](https://github.com/LGUG2Z/unsubscan) - Easily Unsubscribe from Emails
+-   [Epieos](https://tools.epieos.com/) - Retrieve Info Linked to Email Address
+-   [nBox](https://nbox.notif.me/) - Sign Up Anywhere without Email
+-   [zMail](http://zmail.sourceforge.net/) or [Emkei's Fake Mailer](https://emkei.cz/) - Send Fake Emails
+-   [MailBait](https://mailbait.info/) - Fill Inbox with Mail
+-   [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - Check Email Validity & Usage
+-   [Useplaintext](https://useplaintext.email/) - How-To Use plaintext Email
+-   [Briskine](https://www.briskine.com/) - Email Templates
+-   [Signature Maker](https://signature-maker.net/) - Email Signature Creator
+-   [Mail-in a Box](https://mailinabox.email/) - Self Host a Mail Server / [GitHub](https://github.com/mail-in-a-box/mailinabox)
+-   [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - Create Infinite Yandex Accounts
+-   [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - Generate Unlimited Gmail Accounts via the Dot Trick
+-   [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - Bulk Gmail Junk Deleter
+-   [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - Bypass Google Colab Limit Colab
+-   [YakYak](https://github.com/yakyak/yakyak) - Google Hangouts Desktop Client
+-   [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - Instagram Desktop Messenger
+-   [SentRanker](https://sentranker.com/) - Social Media Sentiment Scanner
+-   [ExportComments](https://exportcomments.com/) - Export Social Media Comments
+-   [divr.it](https://dlvrit.com/) - Social Media Automation Tool
+-   [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
+-   [socid_extractor](https://github.com/soxoj/socid_extractor) - Extract Social Media User Info from Pages
+-   [Hamachi](https://vpn.net/) - VPN / LAN Emulator
+-   [WikiStalk](https://github.com/altilunium/wistalk) - Analyze Wikipedia User's Activity
+-   [InspectContent](https://inspectcontent.com/) - Site Keyword Inspector
+-   [Personal Link Hompages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_personal_link_homepages) - Display Your Links / Sites
+-   [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
+-   [EasyMailForGmail](https://easymailforgmail.com/) - Gmail Desktop Client
+-   [Namechk](https://namechk.com/), [CheckUserNames](https://knowem.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
+-   [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts
+-   [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)
+-   [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - Check Your IP Address
+-   [IP Location](https://iplocation.net/) - IP Location Check
+-   [IP List](http://magic-cookie.co.uk/iplist.html) - Convert CIDR Notation to UP Range
+-   [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests
+-   [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Networkappers](https://networkappers.com/), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
+-   [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed
+-   [NeverSSL](http://neverssl.com/) - Fix Public WiFi Login Pages
+-   [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
+-   [IP2Proxy](https://www.ip2proxy.com/) - Proxy / VPN IP Detector
+-   [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once
+-   [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
+-   [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download tumblr Photos / Videos
+-   [Tumgir](https://www.tumgir.com/) - Tumblr Web Viewer
+-   [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - List of ActivityPub based projects
+-   [Percollate](https://github.com/danburzo/percollate) - Format Pages for PDF / EPub / HTML
+-   [StartOS](https://startos.app/) - 90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos)
+-   [Gate2Home](https://gate2home.com/) - Keyboard Emulator
+-   [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - Printer / PDF Version of Webpages
+-   [Textise](https://textise.net/) - Remove Everything from a Page Except Text
+-   [Toptal](https://www.toptal.com/designers/colorfilter) - Colorblind Web Page Filter
+-   [FaxZero](https://faxzero.com/) - Free Internet Faxing
+-   [Misc-Download-Scripts](https://github.com/simon987/Misc-Download-Scripts) - Download Scripts for Multiple Sites
+-   [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - Evaluate, Compare & Format
+-   [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages
+-   [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) / [Fork](https://www.9bis.net/kitty/#!index.md), [GitHub](https://github.com/cyd01/KiTTY/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/)
+-   [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
+-   [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage
+-   [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
+-   [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker
+
+___

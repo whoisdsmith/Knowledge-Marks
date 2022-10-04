@@ -1,0 +1,55 @@
+# API Tools
+---
+- [WHOIS API | WHOIS Lookup API | Domain WHOIS API](https://www.whoxy.com/)
+- [API Spyonweb.com](https://api.spyonweb.com/)
+- [Api.c99.nl](https://api.c99.nl/)
+- [Insomnia](https://insomnia.rest/)
+- [Postman.com](https://www.postman.com/)
+-   [API List](https://apilist.fun/)
+- [APIsList](https://apislist.com/)
+- [Awesome APIs](https://github.com/TonnyL/Awesome_APIs)
+- [Public API Lists](https://github.com/public-api-lists/public-api-lists)
+- [Public APIs](https://github.com/public-apis/public-apis) 
+- [Public APIs](https://www.public-apis.ml/) - API Indexes
+-   [Insomnia](https://insomnia.rest/) - API Client
+-   [Strapi](https://strapi.io/) - API Designer
+-   [RapidAPI](https://rapidapi.com/) 
+- [FastAPI](https://github.com/tiangolo/fastapi) - API Framework
+-   [tRPC](https://trpc.io/) - Build Typesafe APIs
+-   [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
+-   [WebAuthn](https://webauthn.io/) - Data Security Authentication API
+-   [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
+-   [hoppscotch](https://hoppscotch.io/) - API Development Ecosystem 
+- [GitHub](https://github.com/hoppscotch/hoppscotch)
+-   [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
+-   [Mockable](https://www.mockable.io/) 
+- [MockLab](https://get.mocklab.io/) - Mock APIs
+-   [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
+-   [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups
+-   [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
+-   [Pipedream](https://pipedream.com/) - Connect APIs 
+- [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
+-   [Shizuku](https://shizuku.rikka.app/) - Connect Apps to APIs
+-   [NativeScript](https://github.com/NativeScript/NativeScript) - Access APIs from JavaScript
+-   [Stein](https://steinhq.com/) - Turn Google Sheets into Database API 
+- [GitHub](https://github.com/SteinHQ)
+-   [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket
+-   [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
+-   [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root
+-   [Algolia](https://www.algolia.com/)
+- [TypeSense](https://typesense.org/)
+- [StorkSearch](https://stork-search.net/)
+- [Solr](https://solr.apache.org/)
+- [MeiliSearch](https://meilisearch.com/)
+- [Sphinx](http://sphinxsearch.com/) 
+- [FusionBot](https://www.fusionbot.com/) - Search API
+-   [Reacher](https://reacher.email/) - Email Verification API
+-   [instagrapi](https://github.com/adw0rd/instagrapi) - Unofficial Instagram API for Python
+-   [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API
+-   [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
+-   [Plaid](https://plaid.com/) - Financial Account API 
+- [GitHub](https://github.com/plaid)
+-   [MxPlayer-RestApi](https://github.com/KapilYadav-dev/MxPlayer-RestApi) - MxPlayer API
+-   [aftership](https://www.aftership.com/) - Shipment Tracking API
+-   [ipinfo.io](https://ipinfo.io/) - IP Data API
+---

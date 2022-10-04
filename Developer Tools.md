@@ -1,0 +1,118 @@
+# Developer Tools
+---
+
+-   **[List.community](https://list.community/)** - Programming / Development GitHub Lists
+-   [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.app/) - Mac Dev Tools
+-   [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) - Design Resource Sites
+-   [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - Image & Graphic Design Tools
+-   [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
+-   [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - Privacy Focused Developer Software
+-   [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
+-   [Consul](https://www.consul.io/) - Development App Network / [GitHub](https://github.com/hashicorp/consul)
+-   [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - Systadmin Resources
+-   [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
+-   [Mage](https://www.mage.ai/) - Data Science Pipelines
+-   [SuperNova](https://www.supernova.io/) - Design System Manager
+-   [Eco Design System](https://www.eosdesignsystem.com/) or [Interplay](https://interplayapp.com/) - Product Design Tool
+-   [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - Developer Bot Index
+-   [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
+-   [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
+-   [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/) - Developer Forum
+-   [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
+-   [The Devs Network](https://thedevs.network/) - Developer Chat
+-   [StackShare](https://stackshare.io/) - Tech Stack Collaboration
+-   [Codever](https://www.codever.land/) - Bookmarks Manager for Developers
+-   [sli.dev](https://sli.dev/) - Markdown to Slideshow
+-   [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
+-   [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
+-   [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
+-   [The Favicon Finder](https://besticon.herokuapp.com/) - Find Favicons on Sites
+-   [Favicon Maker](https://formito.com/tools/favicon) or [react favicon](https://react-favicon.com/) - Create Favicons
+-   [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers
+-   [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
+-   [HTML Dog](https://htmldog.com/) - Front End Tutorials & Examples
+-   [Responsively](https://responsively.app/) - Responsive Dev Design Tool
+-   [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
+-   [the component gallery](https://component.gallery/) - Design Components Gallery
+-   [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
+-   [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template
+-   [codex-readme](https://github.com/tom-doerr/codex-readme) - Generate README with AI
+-   [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
+-   [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them
+-   [MKLicense](https://github.com/cezaraugusto/mklicense) - License Generation CLI
+-   [Know the License](https://knowthelicense.codescoring.com/) - Detect Open Source Licenses
+-   [Console](https://console.substack.com/) - Subscribe to a List of Open Source Projects
+-   [Copy.ai](https://www.copy.ai/) - Marketing Description Generator
+-   [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
+-   [Mysterium Network](https://www.mysterium.network/) - Open Web Protocol
+-   [Webhook.site](https://webhook.site/) - Webhook Tool
+-   [Scoop](https://www.scoop.it/) - Content Curation Tool
+-   [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams
+-   [ASCII Flow](https://asciiflow.com/) - Draw ASCII Diagrams
+-   [Ainize](https://ainize.ai/) - Launchpad for Open-Source AI projects
+-   [DBeaver](https://dbeaver.io/) - Universal Database Tool
+-   [Egui Node Graph](https://github.com/setzer22/egui_node_graph) - Build Node Graph Apps in Rust
+-   Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
+-   [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Big Data Resource Index
+-   [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
+-   [ToolJet](https://tooljet.com/) - Internal Tool Framework / Deployment / [GitHub](https://github.com/ToolJet/ToolJet)
+-   [Deps.dev](https://deps.dev/) - Open Source Package Search
+-   [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - Package Manager / Deployment
+-   [Upgraderoo](https://upgraderoo.janez.tech/) - Automatic NPM Package Updates
+-   [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
+-   [Balena](https://www.balena.io/) - Build / Manage IoT Groups
+-   [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty), [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
+-   [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF Resources
+-   [Advisory Database](https://github.com/github/advisory-database) - Security Vulnerability Database
+-   [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
+-   [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
+-   [CI/CD Security](https://github.com/myugan/awesome-cicd-security) - CI/CD Security Resources Awesome
+-   [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
+-   [Kubescape](https://github.com/armosec/kubescape) - Kubernetes Tool
+-   [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
+-   [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
+-   [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
+-   [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
+-   [Lorem.space](https://lorem.space/), [Placeem](https://placem.at/), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
+-   [Rejoiner](https://rejoiner.io/) - Uniform GraphQL Schema from gRPC Microservices / [GitHub](https://github.com/google/rejoiner)
+-   [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
+-   [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
+-   [CoreFTP](http://www.coreftp.com/) - FTP Client
+-   [Cumcord](https://cumcord.com/) - Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
+-   [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
+-   [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
+-   **[discord.py](https://github.com/Rapptz/discord.py)**, [Kord](https://github.com/kordlib/kord), [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) - Discord API Wrapper
+-   [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
+-   [Discord-panel](https://github.com/Notavone/discord-panel) - Discord Bot Server Manager
+-   [Javacord](https://javacord.org/) - Discord Bot Creation Library
+-   [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - Discord Bot Builder
+-   [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
+-   [botwiki](https://botwiki.org/) - Learn How to Make Bots
+-   [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
+-   [Fetchip](https://www.fetchip.software/) - Chrome Extension Creator
+-   [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
+-   [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
+-   [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
+-   [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
+-   [XunLei](https://www.xunlei.com/) - Shared Computing / Blockchain
+-   [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
+-   [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
+-   [OpenCV](https://opencv.org/) - A.I. Vision Library
+-   [AForge.NET](https://github.com/andrewkirillov/AForge.NET) - A.I. Vision Framework
+-   [OpenCog](https://opencog.org/) - Artificial Intelligence Framework / [GitHub](https://github.com/opencog)
+-   [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
+-   [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
+-   [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
+-   [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
+-   [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - Open Source Data Engineering Projects
+-   [data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - Docker Compose Files for Data Engineering
+-   [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes
+-   [Watchtower](https://github.com/containrrr/watchtower) - Automate Docker Container Image Updates
+-   [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
+-   [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
+-   [DVC](https://dvc.org/) - Machine Learning Version Control
+-   [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset
+-   [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
+-   [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
+-   [devSwag](https://devswag.io/) - Developer Giveaways
+-   [is-a.dev](https://www.is-a.dev/) - Developer Homepages
