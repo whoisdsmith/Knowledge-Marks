@@ -1,6 +1,5 @@
 # Awesomeness-Index
 ---
-
 [Awesome Custom Search Engines](Awesome%20Custom%20Search%20Engines.md)
 [Awesome Deploy your own](Awesome%20Deploy%20your%20own.md)
 [Awesome Dev Fun](Awesome%20Dev%20Fun.md)
@@ -36,6 +35,7 @@
 [Awesome-Obsidian](Awesome-Obsidian.md)
 [Awesome-Online-Tools](Awesome-Online-Tools.md)
 [Awesome-Open-Source-Mac-Apps](Awesome-Open-Source-Mac-Apps.md)
+[awesome-osint](awesome-osint.md)
 [awesome-podcasts](awesome-podcasts.md)
 [Awesome-RegEx](Awesome-RegEx.md)
 [Awesome-Research](Awesome-Research.md)
@@ -48,3 +48,6 @@
 [Awesome-Writing](Awesome-Writing.md)
 [Awesome-zsh-plugins](Awesome-zsh-plugins.md)
 [Awesome4Beginners](Awesome4Beginners.md)
+[awesome-hacker-search-engines](awesome-hacker-search-engines.md) 
+
+---
