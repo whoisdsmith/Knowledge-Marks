@@ -248,24 +248,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
-#### Browser Startpages
-
-**[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) / [Source Code](https://pastebin.com/CczqreS4), **[monknow](https://www.monknow.com/)**, [8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [clippingmini](https://www.clippingmini.com/), [klepit](https://www.klepit.com/), [draggo](http://draggo.com/), [atavi](https://atavi.com/), [homepage](https://homepage.ninja/), [bookmarkee](https://www.bookmarkee.com/), [pearltrees](https://www.pearltrees.com/), [lasso](https://www.lasso.net/), [nextcloud](https://apps.nextcloud.com/apps/bookmarks), [cling](https://cling.com/), [symbaloo](https://www.symbaloo.com/), [tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/Harshit-T/nightly), [Protopage](https://www.protopage.com/)
-
-#bookmark 
-***
-
-#### Bookmark Managers
-
-[saved.io](https://saved.io/), [BookmarkOS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/), [Diigo](https://diigo.com/), [Papaly](https://papaly.com/), [linkding](https://github.com/sissbruecker/linkding), [linkace](https://www.linkace.org/), [tagpacker](https://tagpacker.com/), [yabs](https://www.yabs.io/), [readthedocs](https://shaarli.readthedocs.io/en/master/), [mission-control](https://mission-control.app/), [histre](https://histre.com/), [brainytab](https://brainytab.com/), [saveforlater](http://saveforlater.com/), [tryzulu](https://tryzulu.com/), [contentle](https://contentle.com/), [clipix](https://www.clipix.com/), [webcull](https://webcull.com/), [colllect](https://colllect.io/), [sqworl](https://sqworl.com/), [trovenow](https://trovenow.com/), [ggather](https://web.ggather.com/), [openoox](https://openoox.com/), [dropmark](https://www.dropmark.com/), [bookmarkme](https://bookmarkme.io/), [bublup](https://www.bublup.com/), [bkmark](https://bkmark.io/)    
-
-#bookmark 
-
-**Extensions** 
-
-[MyMark](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Bookmarkify](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Omni](https://github.com/alyssaxuu/omni), [Centroly](https://centroly.com/)
-
-#bookmark 
+#### [[Bookmarks](Bookmarks.md)
 ***
 
 #### Bulk File Renamers 
@@ -1572,11 +1555,7 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 
 ***
 
-#### Password-Protected Bookmarks
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/webext-private-bookmarks/), [Chrome](https://chrome.google.com/webstore/detail/private-bookmarks/cbheenbihjdgbmbogbefcgnpfoflhnhl)
-
-#bookmark 
+#### [Bookmarks](Bookmarks.md)
 ***
 
 #### Password Data Breach Check

@@ -67,8 +67,8 @@
 - [causefx/Organizr: HTPC/Homelab Services Organizer - Written in PHP](https://github.com/causefx/Organizr)
 - [bastienwirtz/homer: A very simple static homepage for your server.](https://github.com/bastienwirtz/homer)
 - [tomershvueli/homepage: A simple, standalone, self-hosted PHP page that is your window to your server and the web.](https://github.com/tomershvueli/homepage)
-- [pawelmalak/flame: Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.](https://github.com/pawelmalak/flame) #bookmark 
-- [rmountjoy92/DashMachine: Another web application bookmark dashboard, with fun features.](https://github.com/rmountjoy92/DashMachine) #bookmark 
+[Bookmarks](Bookmarks.md)
+[Bookmarks](Bookmarks.md)
 - [phntxx/dashboard: a nice and simple dashboard / landing page.](https://github.com/phntxx/dashboard)
 ---
 ### Dashboard Tools

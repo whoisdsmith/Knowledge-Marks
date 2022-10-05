@@ -46,15 +46,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Leanote](http://leanote.org/) — your own Evernote. [GitHub](https://github.com/leanote/leanote)
 - [Bangle.io](https://bangle.io/) — web only WYSIWYG note taking app that saves notes locally in markdown. [GitHub](https://github.com/bangle-io/bangle-io)
 
-### 🏷 Deploy your own `Bookmarks service`
-- [Unmark](https://github.com/cdevroe/unmark) — application for bookmarks. [(Tutplus tutorial from 2014)](https://computers.tutsplus.com/tutorials/host-your-own-bookmarking-webapp-with-unmark--cms-21385)
-- [Bookmarks](https://github.com/dyu/bookmarks) — self-hosted bookmarking app that can import bookmarks from delicious and chrome.
-- [xBrowserSync](https://www.xbrowsersync.org/) — secure and anonymous bookmarking server with browser plugins and mobile app. [(GitHub)](https://github.com/xbrowsersync)
-- [Nextcloud Bookmarks](https://apps.nextcloud.com/apps/bookmarks) — bookmark app for Nextcloud with browser plugins, mobile and desktop apps. [(GitHub)](https://github.com/nextcloud/bookmarks)
-- [LinkAce](https://www.linkace.org/) — bookmark archive with tags, lists and sharing features. [(GitHub)](https://github.com/Kovah/LinkAce)
-- [Linkding](https://github.com/sissbruecker/linkding) — simple bookmarks with tags and neat UI.
-
-#bookmark 
+[Bookmarks](Bookmarks.md)
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
@@ -157,7 +149,7 @@ with compression and encryption.
 - [LessPass](https://lesspass.com/) — stateless password manager. [(GitHub)](https://github.com/lesspass/lesspass)
 
 ### 🤥 Deploy your own `Read it Later`
-- [Shiori](https://github.com/go-shiori/shiori) — simple bookmarks manager written intended as a simple clone of Pocket. #bookmark
+[Bookmarks](Bookmarks.md)
 - [Wallabag](https://www.wallabag.org/en) — self hostable application for saving web pages.
 - [Shaark](https://github.com/MarceauKa/shaark) — knowledge storage for web links, notes, pictures and passwords with clean web UI.
 

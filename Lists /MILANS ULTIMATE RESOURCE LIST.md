@@ -27,9 +27,7 @@ Adobe [Photoshop](https://www.google.com/url?q=https://www.google.com/url?q%3Dht
 
 [ColorZilla](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228442900%26amp;usg%3DAOvVaw2k14TP2rRBKSmQXbRKtA0g&sa=D&source=docs&ust=1645230228974346&usg=AOvVaw3SU1uZhR2VbnQf-TyZ6zNL) — color from web picker
 
-[Dropmark](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.dropmark.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228443486%26amp;usg%3DAOvVaw25pZyb0410g7HbP91diSxH&sa=D&source=docs&ust=1645230228974537&usg=AOvVaw2zB3qU31aNcAonr_6SPTRe) — bookmarking + collections  #bookmark 
-
-[Are.na](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://are.na%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228444249%26amp;usg%3DAOvVaw296wBCxU4Z5kWDjwKPw3oG&sa=D&source=docs&ust=1645230228974748&usg=AOvVaw1QyeYnGCBC1mjGVqUYHxw8) — bookmarking + collections, inspo #bookmark 
+[[Bookmarks](Bookmarks.md)
 
 [Window Resizer](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228444963%26amp;usg%3DAOvVaw1Or8FZbG-sARqGcActDrTM&sa=D&source=docs&ust=1645230228974958&usg=AOvVaw0uKbvkflgfPOnhfYfBckZu) — adjusting viewport size, also use Chrome Inspector (right click > Inspect > adjust viewport icon in top left) ★
 
@@ -820,8 +818,7 @@ Articles:
 [http://usemodify.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://usemodify.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228696501%26amp;usg%3DAOvVaw3vt2WvdjsoNxp68MTZ2NQq&sa=D&source=docs&ust=1645230229021826&usg=AOvVaw30-TrkF4uGvdfa5YYYDWql) ★ 
 
 [https://fontsinuse.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://fontsinuse.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228697142%26amp;usg%3DAOvVaw1KL50XWIhBEI-SysLrcJcH&sa=D&source=docs&ust=1645230229021923&usg=AOvVaw3CU3EPMDhIbw8MAasJ58i_) ★ – resource of websites showcasing various fonts in use (also check out their [blog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://fontsinuse.com/blog%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228697535%26amp;usg%3DAOvVaw1HRhq4WB6zichVbYE1O2PA&sa=D&source=docs&ust=1645230229022017&usg=AOvVaw0eK8VWXqKg6_AauQCsYABe))
-
-[https://fontface.ninja](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://fontface.ninja/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228698043%26amp;usg%3DAOvVaw0tq62dnlPwCDtyKljB3KKX&sa=D&source=docs&ust=1645230229022119&usg=AOvVaw35_T1BxtVINDhXbNJhGx_a) ★ — free Google Chrome browser extension that allows you to inspect, try, buy and bookmark fonts on any website #bookmark 
+[[Bookmarks](Bookmarks.md)
 
 [https://v-fonts.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://v-fonts.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228698642%26amp;usg%3DAOvVaw1m7s2n4_bexpRuR_KO7TiX&sa=D&source=docs&ust=1645230229022216&usg=AOvVaw1WrEUzmNaKW6MjeIdb207X) ★ — variable fonts (also check out the [Variable Fonts](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/variablefonts%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228699045%26amp;usg%3DAOvVaw3hqJRo-_yVjJKun25QeODM&sa=D&source=docs&ust=1645230229022291&usg=AOvVaw0W6iZuLsenIMcWRZ1QG9It) twitter)
 

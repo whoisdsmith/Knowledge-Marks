@@ -1910,17 +1910,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 -   [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
 -   [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 
-> Bookmarklets #bookmark 
-
--   [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/) #bookmark 
--   [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y) #bookmark 
--   [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar) #bookmark 
--   [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes,
+[Bookmarks](Bookmarks.md)
     
     s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
     
 -   [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
--   [HTML\_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard #bookmark 
+[Bookmarks](Bookmarks.md)
 -   [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 -   [follow.it](https://follow.it/surfing) - Follow websites while browsing the net!
 
@@ -3570,7 +3565,7 @@ See also [Operations / IT OPS](https://github.com/MorganGeek/bookmarks#operation
 -   [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
 -   [Yacy](https://yacy.net/en/index.html) - is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.
 -   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
--   [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io/) #bookmark 
+[Bookmarks](Bookmarks.md)
 -   [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 -   [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting networks and technology aiming at re-decentralizing the Internet.
 -   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. ArchiveBox is a powerful self-hosted internet archiving solution written in Python 3. You feed it URLs of pages you want to archive, and it saves them to disk in a variety of formats depending on the configuration and the content it detects.

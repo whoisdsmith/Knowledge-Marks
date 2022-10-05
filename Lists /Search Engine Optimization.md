@@ -192,10 +192,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 - [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Paste in your rich snippets or url to test it.
 - [Twitter card validator](https://cards-dev.twitter.com/validator) - Enter the URL of the page with the meta tags to validate.
 
-### Bookmarklets
-
-- [OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet) - An open-source bookmarklet that shows you on-page SEO and social meta data information. #bookmark 
-- [SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet) - A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO. #bookmark 
+[Bookmarks](Bookmarks.md)
 
 ### Browser Extensions
 

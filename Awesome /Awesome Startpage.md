@@ -28,7 +28,7 @@
 ### Hosted
 
 - [flame](https://github.com/pawelmalak/flame) - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use. 
-- [Galax's Startpage](https://github.com/Galax028/startpage) - A minimal startpage made in React.js with customizable bookmarks. #bookmark
+[Bookmarks](Bookmarks.md)
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
 - [Organizr](https://github.com/causefx/Organizr) - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 - [pomme-page](https://github.com/kikiklang/pomme-page) - Pretty cool startpage with colorful tiles.
@@ -48,7 +48,7 @@
 - [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
-- [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.  #bookmark 
+[Bookmarks](Bookmarks.md)
 - [StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
 - [Tea Green](https://github.com/sadparadiseinhell/tea-green) - Startpage with Weather and To-Do List features.
@@ -65,7 +65,7 @@
 
 - [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
 - [Derigo Dash](https://chrome.google.com/webstore/detail/derigo-dash/aiadgflpmkcihappkfkbgehghkiadnip) - Customize your browser startpage with a user friendly interface
-- [hexagonTab](https://chrome.google.com/webstore/detail/hexagontab/hjapnkiokjkamfjenbdagacmpkobjlgi) - Save bookmarks to your start page on a unique hexagonal grid. Also available for [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/hexagontab/) #bookmark
+[Bookmarks](Bookmarks.md)
 - [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab.
 - [mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers.
 - [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) -  A minimal starpage for Chrome and Firefox.

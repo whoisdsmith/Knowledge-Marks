@@ -160,8 +160,7 @@ List of useful, silly and [awesome](https://github.com/jnv/lists/blob/main/READM
 -   [bioinformatics-compbio-tools](https://github.com/lancelafontaine/bioinformatics-compbio-tools) – Bioinformatics and computational biology tools.
 -   [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
 -   [BNN-ANN-papers](https://github.com/takyamamoto/BNN-ANN-papers) – Papers about Biological and Artificial Neural Networks related to (Computational) Neuroscience
--   [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web #bookmark 
-    -   [https://sacha.me/bookmarklets/](https://sacha.me/bookmarklets/)
+[Bookmarks](Bookmarks.md)
 -   [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners.
 -   [bots](https://github.com/hackerkid/bots) – Tools for building bots
 -   [breakfast-repo](https://github.com/ashleygwilliams/breakfast-repo) – Videos, recordings, and podcasts to accompany our morning coffee.

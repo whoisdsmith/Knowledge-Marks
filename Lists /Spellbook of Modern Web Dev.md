@@ -2390,7 +2390,7 @@ A Subset for __Architecture and Infrastructure__
   * Assistant
     * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
     * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-    * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) #bookmark 
+[Bookmarks](Bookmarks.md)
     * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
     * [Quokka.js - Live Scratchpad for JavaScript](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
   * Integration

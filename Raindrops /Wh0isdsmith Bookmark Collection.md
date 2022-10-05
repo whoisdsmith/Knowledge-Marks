@@ -26,7 +26,7 @@
 - [Vynchronize](https://vynchronize.herokuapp.com/)
 - [Wakelet - Save, organize and share content](https://wakelet.com/)
 - [Webassembly.studio](http://ww25.webassembly.studio/?subid1=20220914-1024-359d-aee8-64729db1bd0f)
-- [WebCull - Ad-Free and Privacy-Focused Bookmark Manager](https://webcull.com/) #bookmark 
+[Bookmarks](Bookmarks.md)
 - [Spotfy - Listen to music for free](https://spotfy.one/)
 - [Spotifeed](https://spotifeed.timdorr.com/)
 - [Home](https://stealth.org/)
@@ -204,7 +204,7 @@
 - [Ulysses-Journal-Import](https://github.com/smarj/Ulysses-Journal-Import)
 - [day-one-clone](https://github.com/Macronius/day-one-clone)
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-- [bookmarks](https://github.com/MorganGeek/bookmarks) #bookmark 
+[Bookmarks](Bookmarks.md)
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 - [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists)
 - [overshare-kit](https://github.com/overshare/overshare-kit)
