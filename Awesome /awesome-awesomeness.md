@@ -28,7 +28,7 @@ A curated list of amazingly awesome awesomeness.
     -   [Elixir](https://github.com/h4cc/awesome-elixir)
     -   [Elm](https://github.com/isRuslan/awesome-elm)
     -   Erlang
-        -   [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
+        -   [by @0xAX](https://github.com/0xAX/erlang-bookmarks) #bookmark 
         -   [by @drobakowski](https://github.com/drobakowski/awesome-erlang)
         -   [by @unbalancedparentheses](https://github.com/unbalancedparentheses/spawnedshelter)
     -   [F#](https://github.com/fsprojects/awesome-fsharp)
@@ -76,7 +76,7 @@ A curated list of amazingly awesome awesomeness.
         -   [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
     -   [R](https://github.com/qinwf/awesome-R)
     -   Ruby
-        -   [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
+        -   [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks) #bookmark 
         -   [by @markets](https://github.com/markets/awesome-ruby)
         -   [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
         -   [by @asyraffff](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
@@ -218,7 +218,7 @@ A curated list of amazingly awesome awesomeness.
     -   [Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
     -   [Free Services](https://github.com/ripienaar/free-for-dev)
     -   Frontend
-        -   [by @dypsilon](https://github.com/dypsilon/frontend-dev-bookmarks)
+        -   [by @dypsilon](https://github.com/dypsilon/frontend-dev-bookmarks) #bookmark 
         -   [by @moklick](https://github.com/moklick/frontend-stuff)
     -   [Game Development](https://github.com/ellisonleao/magictools)
     -   [Games](https://github.com/leereilly/games)
@@ -336,7 +336,7 @@ A curated list of amazingly awesome awesomeness.
     -   [Startup](https://github.com/KrishMunot/awesome-startup)
     -   [Static Analysis](https://github.com/mre/awesome-static-analysis/)
     -   [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-    -   [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+    -   [Sublime Text](https://github.com/dreikanter/sublime-bookmarks) #bookmark 
     -   [Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology)
     -   [SVG](https://github.com/willianjusten/awesome-svg)
     -   [Swedish](https://github.com/gurre/awesome-swedish-opensource)

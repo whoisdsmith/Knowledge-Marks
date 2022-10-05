@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/jVhwmtb.png)** - For mobile users
-
-***
-*** 
-
 # ► Image Editing
 
 * **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - Image Editing Software & Sites
@@ -343,11 +332,6 @@
 * [IndieKids](https://www.indiekids.io/) - Printable Coloring Pages
 
 ***
-
-## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)
-
-***
-
 ## ▷ 3D Models
 
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models) - 3D Model Download Sites

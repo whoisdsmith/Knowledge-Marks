@@ -54,6 +54,8 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [LinkAce](https://www.linkace.org/) — bookmark archive with tags, lists and sharing features. [(GitHub)](https://github.com/Kovah/LinkAce)
 - [Linkding](https://github.com/sissbruecker/linkding) — simple bookmarks with tags and neat UI.
 
+#bookmark 
+
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
 - [Kutt](https://kutt.it/) — modern URL shortener with support for custom domains. [(GitHub)](https://github.com/thedevs-network/kutt)
@@ -155,7 +157,7 @@ with compression and encryption.
 - [LessPass](https://lesspass.com/) — stateless password manager. [(GitHub)](https://github.com/lesspass/lesspass)
 
 ### 🤥 Deploy your own `Read it Later`
-- [Shiori](https://github.com/go-shiori/shiori) — simple bookmarks manager written intended as a simple clone of Pocket.
+- [Shiori](https://github.com/go-shiori/shiori) — simple bookmarks manager written intended as a simple clone of Pocket. #bookmark
 - [Wallabag](https://www.wallabag.org/en) — self hostable application for saving web pages.
 - [Shaark](https://github.com/MarceauKa/shaark) — knowledge storage for web links, notes, pictures and passwords with clean web UI.
 

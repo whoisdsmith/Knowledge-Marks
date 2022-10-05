@@ -61,7 +61,7 @@
 - [bCisive - online decision mapping](https://www.bcisiveonline.com/)
 - [Notabase](https://notabase.io/)
 - [Apps with 'Knowledge Management' feature](https://alternativeto.net/feature/knowledge-management/)
-- [Go beyond Bookmarks with BrainTool, the online Topic Manager](https://braintool.org/)
+- [Go beyond Bookmarks with BrainTool, the online Topic Manager](https://braintool.org/) #bookmark 
 - [bundleIQ | Think Better](https://www.bundleiq.com/)
 - [capacities – Your second brain](http://capacities.io/)
 - [You need a wiki](https://youneedawiki.com/app)

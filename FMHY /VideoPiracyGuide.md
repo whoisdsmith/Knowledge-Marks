@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/nwESZ1A.png)** - For mobile users
-
-***
-***
-
 # ► Streaming Sites
 
 * **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - Multi-Site Search
@@ -257,11 +246,6 @@
 * [Blind User Audio Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blind_user_audio_drives) or [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users 
 
 ***
-
-## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_streaming)
-
-***
-
 # ► TV Streaming
 
 * **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
@@ -593,14 +577,6 @@
 
 ***
 
-# ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
-
-***
-
-# ► [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)
-
-***
-
 # ► Download Sites
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
@@ -788,11 +764,6 @@
 * [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders 
 
 ***
-
-## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_downloading)
-
-***
-
 # ► Torrent Apps
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
@@ -879,11 +850,6 @@
 * [Aniloader](https://github.com/Xanahol/Aniloader) or [AniTorrent](https://github.com/Kajiya-aru/AniTorrent) - Anime Torrent Autodownloader
 
 ***
-
-## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_torrenting)
-
-***
-
 # ► Tracking / Discovery
 
 * **[TrailerPunk](https://trailerpunk.com/)** - Newest Movie Trailers
@@ -942,7 +908,7 @@
 * [CouchMoney](https://couchmoney.tv/) - Movie Recommendations for Trakt 
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes 
 * [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies 
-* [Random Movies / Series Bookmark Script](https://pastebin.com/PDsm2SSC) - Find Random Movies / Shows
+* [Random Movies / Series Bookmark Script](https://pastebin.com/PDsm2SSC) - Find Random Movies / Shows 
 * [imdb-compare-shows](https://daumann.github.io/imdb-compare-shows/) or [Series Rating Chart](https://www.neetcoder.com/app/) - Compare TV Shows by Ratings
 * [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
 * [RatingsGraph](https://www.ratingraph.com/) - Movie / TV Ratings Graphs

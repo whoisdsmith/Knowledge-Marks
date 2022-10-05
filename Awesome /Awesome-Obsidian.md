@@ -102,7 +102,7 @@ Firefox add-on to copy a selection or link as formatted Markdown
 An unofficial Obsidian clipper for Chrome, that allows you to easily clip a selection to a note in Obsidian
 [Joost Plattel](https://github.com/jplattel)
 
-[Obsidian Bookmark](https://github.com/Liamballin/ObsidianBookmark)
+[Obsidian Bookmark](https://github.com/Liamballin/ObsidianBookmark)  #bookmark
 A Chrome extension and nodejs server to allow web clipping to Obsidian.
 [Liamballin](https://github.com/Liamballin)
 

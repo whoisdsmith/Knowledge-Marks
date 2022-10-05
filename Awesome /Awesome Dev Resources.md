@@ -1782,7 +1782,7 @@
  &nbsp; | PlayerDB | Query Minecraft, Steam and XBox Accounts | [Website](https://playerdb.co/) |  |
  &nbsp; | PM2.5 Open Data Portal | Open low-cost PM2.5 sensor data | [Website](https://pm25.lass-net.org/#apis) |  |
  &nbsp; | PM25.in | Air quality of China | [Website](http://www.pm25.in/api_doc) |  |
- &nbsp; | Pocket | Bookmarking service | [Website](https://getpocket.com/developer/) |  |
+ &nbsp; | Pocket | Bookmarking service | [Website](https://getpocket.com/developer/) |  | #bookmark 
  &nbsp; | Podio | File sharing and productivity | [Website](https://developers.podio.com) |  |
  &nbsp; | PoetryDB | Enables you to get instant data from our vast poetry collection | [Website](https://github.com/thundercomb/poetrydb#readme) |  |
  &nbsp; | Pokéapi | Pokémon Information | [Website](https://pokeapi.co) |  |
@@ -2736,7 +2736,7 @@
  &nbsp; | Monday | Programmatically access and update data inside a monday.com account | [Website](https://api.developer.monday.com/docs) |  |
  &nbsp; | Notion | Integrate with Notion | [Website](https://developers.notion.com/docs/getting-started) |  |
  &nbsp; | PandaDoc | DocGen and eSignatures API | [Website](https://developers.pandadoc.com) |  |
- &nbsp; | Pocket | Bookmarking service | [Website](https://getpocket.com/developer/) |  |
+ &nbsp; | Pocket | Bookmarking service | [Website](https://getpocket.com/developer/) |  | #bookmark 
  &nbsp; | Podio | File sharing and productivity | [Website](https://developers.podio.com) |  |
  &nbsp; | PrexView | Data from XML or JSON to PDF, HTML or Image | [Website](https://prexview.com) |  |
  &nbsp; | Restpack | Provides screenshot, HTML to PDF and content extraction APIs | [Website](https://restpack.io/) |  |

@@ -1033,7 +1033,7 @@ Only main chapters:
   🔸 [**sherlock**](https://github.com/sherlock-project/sherlock) - hunt down social media accounts by username across social networks.  
   🔸 [**OWASP Threat Dragon**](https://owasp.org/www-project-threat-dragon/) - is a tool used to create threat model diagrams and to record possible threats.  
 
-##### ▪️ Pentests bookmarks collection
+##### ▪️ Pentests bookmarks collection #bookmark 
 
   🔸 [**PTES**](http://www.pentest-standard.org/index.php/Main_Page) - the penetration testing execution standard.  
   🔸 [**Pentests MindMap**](https://www.amanhardikar.com/mindmaps/Practice.html) - amazing mind map with vulnerable apps and systems.  
@@ -1051,7 +1051,7 @@ Only main chapters:
   🔸 [**blackhat-arsenal-tools**](https://github.com/toolswatch/blackhat-arsenal-tools) - official Black Hat arsenal security tools repository.  
   🔸 [**Penetration Testing and WebApp Cheat Sheets**](https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon) - the complete list of Infosec related cheat sheets.  
   🔸 [**Cyber Security Resources**](https://github.com/The-Art-of-Hacking/h4cker) - includes thousands of cybersecurity-related references and resources.  
-  🔸 [**Pentest Bookmarks**](https://github.com/jhaddix/pentest-bookmarks) - there are a LOT of pentesting blogs.  
+  🔸 [**Pentest Bookmarks**](https://github.com/jhaddix/pentest-bookmarks) - there are a LOT of pentesting blogs.   #bookmark 
   🔸 [**Cheatsheet-God**](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP/PTP & PTX Cheatsheet.  
   🔸 [**ThreatHunter-Playbook**](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) - to aid the development of techniques and hypothesis for hunting campaigns.  
   🔸 [**Beginner-Network-Pentesting**](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - notes for beginner network pentesting course.  

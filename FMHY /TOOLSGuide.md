@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/KSQAUFG.png)** - For mobile users
-
-***
-*** 
-
 # ► General Tools
 
 * **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with Multiple Tools
@@ -248,11 +237,6 @@
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 
 ***
-
-## ▷ [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools)
-
-***
-
 ## ▷ Video Tools
 
 * **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Tool Index
@@ -599,15 +583,6 @@
 * [AirPods Dirty Secret](https://kenp.io/airpods-dirty-secret/) - AirPod Repair Directory
 
 ***
-
-## ▷ [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
-
-***
-
-## ▷ [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_tools)
-
-***
-
 ## ▷ Career Tools
 
 * **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
@@ -693,11 +668,6 @@
 * [Wasabi](https://wasabiwallet.io/) - FOSS Bitcoin Wallet
 
 ***
-
-## ▷ [Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools)
-
-*** 
-
 # ► Internet Tools
 
 * **[Internet Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)** - Internet & Browser Privacy Tools 
@@ -761,10 +731,10 @@
 * [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts
 * [Eiverr](https://www.eiverr.com/) - Premium Account Cookies
 * [Voice Dictation](https://dictation.io/) - Type with Voice
-* [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage / Store Bookmarks
-* [Instapaper](https://www.instapaper.com/) - Bookmarking Tool
-* [Pilgrim](http://pilgrim.are.na/) - Tree Style Path Bookmarking
-* [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox 
+* [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage / Store Bookmarks #bookmark 
+* [Instapaper](https://www.instapaper.com/) - Bookmarking Tool #bookmark 
+* [Pilgrim](http://pilgrim.are.na/) - Tree Style Path Bookmarking #bookmark 
+* [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox #bookmark 
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
@@ -916,7 +886,7 @@
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect ) - Force Open Default Browser
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
-* [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
+* [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus) #bookmark 
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt Browser Data
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert Niconico/AcFun/Bilibili Comments to ASS
@@ -2253,17 +2223,3 @@ Twitch Stream Tracker
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
 
 ***
-
-## ▷ [Linux Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_tools_.2F_apps)
-
-***
-
-## ▷ [Mac Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_tools_.2F_apps)
-
-***
-
-## ▷ [Android Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_tools)
-
-***
-
-## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)

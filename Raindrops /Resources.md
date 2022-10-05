@@ -86,7 +86,7 @@
 - [Small Dev tools useful for all developers](https://smalldev.tools/)
 - [Free Developer Stuff](https://freestuff.dev/)
 - [WebdevHome /](https://webdevhome.github.io/)
-- [Bookmarklets](https://www.gbasil.dev/bookmarklets)
+- [Bookmarklets](https://www.gbasil.dev/bookmarklets) #bookmark 
 - [ZEEF.com](https://zeef.com/)
 - [Free for developers](https://free-for.dev/#/)
 - [DevAssets - Curated List of Resources for Developers](https://xsgames.co/devassets/?ref=producthunt)
@@ -448,7 +448,7 @@
 - [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/)
 - [Brizy Cloud - Best Website Builder for Non-Techies](https://www.brizy.io/cloud)
 - [Briefcase Elementor Widgets | BriefcaseWP](https://www.briefcasewp.com/briefcase-elementor-widgets/)
-- [Bookmark.com | No-code Website Builder to Start Your Business](https://www.bookmark.com/)
+- [Bookmark.com | No-code Website Builder to Start Your Business](https://www.bookmark.com/) #bookmark 
 - [Blush: Illustrations for everyone](https://blush.design/)
 - [Blocks - AinoBlocks](https://ainoblocks.io/blocks/)
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)

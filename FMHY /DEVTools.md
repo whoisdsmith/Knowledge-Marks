@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/ILsqBZJ.png)** - For mobile users
-
-***
-*** 
-
 # ► Learning / Cheat Sheets
 
 * **[StackOverflow](https://stackoverflow.com/)**, [StackAnon](https://stackanon.com/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
@@ -220,7 +209,7 @@
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 * [StackShare](https://stackshare.io/) - Tech Stack Collaboration
-* [Codever](https://www.codever.land/) - Bookmarks Manager for Developers
+* [Codever](https://www.codever.land/) - Bookmarks Manager for Developers #bookmark 
 * [sli.dev](https://sli.dev/) - Markdown to Slideshow
 * [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles 

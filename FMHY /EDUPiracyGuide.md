@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/yIPDO6j.png)** - For mobile users
-
-***
-***
-
 # ► Streaming
 
 ## ▷ Courses
@@ -251,31 +240,6 @@
 * [MVGroup](https://forums.mvgroup.org/) 
 
 ***
-
-# ► [Reading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_sites)
-
-***
-
-## ▷ [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)
-
-***
-
-## ▷ [Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)
-
-***
-
-## ▷ [Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)
-
-***
-
-## ▷ [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites)
-
-***
-
-## ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_reference_sites)
-
-***
-
 # ► Games
 
 * **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
@@ -492,11 +456,6 @@ Simulator
 * [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
 
 ***
-
-# ► [Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_learning_.2F_cheat_sheets)
-
-***
-
 # ► Language Learning 
 
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)**, [Many Things](http://www.manythings.org/) or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - Language Learning Resources 

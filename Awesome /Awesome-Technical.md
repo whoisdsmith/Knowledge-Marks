@@ -62,8 +62,8 @@
   * [bioinformatics-compbio-tools](https://github.com/lancelafontaine/bioinformatics-compbio-tools) – Bioinformatics and computational biology tools.
   * [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
   * [BNN-ANN-papers](https://github.com/takyamamoto/BNN-ANN-papers) – Papers about Biological and Artificial Neural Networks related to (Computational) Neuroscience
-  * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web 
-    * [sacha.me/bookmarklets](https://sacha.me/bookmarklets/)
+  * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web #bookmark 
+    * [sacha.me/bookmarklets](https://sacha.me/bookmarklets/) #bookmark 
   * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners.
   * [bots](https://github.com/hackerkid/bots) – Tools for building bots
   * [breakfast-repo](https://github.com/ashleygwilliams/breakfast-repo) – Videos, recordings, and podcasts to accompany our morning coffee.
@@ -108,8 +108,8 @@
   * [degoogle](https://github.com/tycrek/degoogle) – Alternatives to Google's products.
   * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – Upcoming developer conferences.
   * [dev-movies](https://github.com/aryaminus/dev-movies) – Recommended movies for people working in the Software and IT Industry.
-  * [devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) – To discover tools in the devops landscape. 
-    * [http://www.devopsbookmarks.com](http://www.devopsbookmarks.com/)
+  * [devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) – To discover tools in the devops landscape. #bookmark 
+    * [http://www.devopsbookmarks.com](http://www.devopsbookmarks.com/) #bookmark 
   * [devops_resources](https://github.com/dustinmm80/devops_resources)
   * [DevopsWiki](https://github.com/Leo-G/DevopsWiki) – Devops Tools, Tutorials and Scripts.
   * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
@@ -653,7 +653,7 @@
   * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
   * [awesome-devops](https://github.com/joubertredrat/awesome-devops)
   * [awesome-devrel](https://github.com/devrelcollective/awesome-devrel) – Developer Relations
-  * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
+  * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs. #bookmark 
   * [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) – Resources for Digital Nomads.
   * [awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) – DigitalOcean cloud infrastructure provider
   * [awesome-discord](https://github.com/alfg/awesome-discord) by @alfg
@@ -1015,7 +1015,7 @@
   * [awesome-preact](https://github.com/preactjs/awesome-preact) – [Preact](https://github.com/preactjs/preact) JavaScript framework
   * [awesome-prisma](https://github.com/catalinmiron/awesome-prisma) – [Prisma](https://www.prisma.io/) GraphQL library
   * [awesome-privacy](https://github.com/pluja/awesome-privacy) – Services and alternatives that respect your privacy because PRIVACY MATTERS.
-  * [awesome-product-design](https://github.com/teoga/awesome-product-design) by @teoga – Bookmarks, resources, articles for product designers.
+  * [awesome-product-design](https://github.com/teoga/awesome-product-design) by @teoga – Bookmarks, resources, articles for product designers. #bookmark 
   * [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) by @ttt30ga – Resources for product designers.
   * [awesome-product-management](https://github.com/dend/awesome-product-management) – Resources for product/program managers to learn and grow.
   * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) – Delightful productivity resources.

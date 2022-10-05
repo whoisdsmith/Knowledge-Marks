@@ -1,6 +1,6 @@
 # Git
 - [Initial Commit - Quality resources and tools for developers](https://initialcommit.com/)
-- [Github Stars to Bookmarks](https://kirtan403.github.io/bookmark-github-stars/)
+- [Github Stars to Bookmarks](https://kirtan403.github.io/bookmark-github-stars/) #bookmark 
 - [APOLLO - Apple Pattern of Life Lazy Output'er](https://github.com/mac4n6/APOLLO)
 - [Memacs from novoid - Github Help](https://githubhelp.com/novoid/Memacs)
 - [qs_ledger from markwk - Github Help](https://githubhelp.com/markwk/qs_ledger)
@@ -359,7 +359,7 @@
 - [awesome-datarecovery](https://github.com/Claudio-C/awesome-datarecovery)
 - [OSINT](https://github.com/sinwindie/OSINT)
 - [awesome-osint](https://github.com/jivoi/awesome-osint)
-- [Osint-Bookmarklets](https://github.com/B0sintBlanc/Osint-Bookmarklets)
+- [Osint-Bookmarklets](https://github.com/B0sintBlanc/Osint-Bookmarklets) #bookmark 
 - [awesome-data-takeout](https://github.com/ivbeg/awesome-data-takeout)
 - [export-github-stars](https://github.com/KeziahMoselle/export-github-stars)
 - [starred](https://github.com/maguowei/starred)
@@ -398,7 +398,7 @@
 - [Wyrick-s_Repo_List](https://github.com/chasewyrick/Wyrick-s_Repo_List)
 - [awesome-music-production](https://github.com/ad-si/awesome-music-production)
 - [zerotab-old](https://github.com/thezeroalpha/zerotab-old)
-- [awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks)
+- [awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) #bookmark 
 - [pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks)
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader)
 - [Awesome-Onion-Links](https://github.com/5ky1ar/Awesome-Onion-Links)
@@ -910,7 +910,7 @@
 - [kittinan/spotify-github-profile: Show your Spotify playing on your Github profile](https://github.com/kittinan/spotify-github-profile)
 - [jplattel/obsidian-clipper: A Chrome extension that easily clips selections to Obsidian](https://github.com/jplattel/obsidian-clipper)
 - [isacmlee/csv-to-playlist: A Python script that converts .csv playlist files into a Spotify Playlist.](https://github.com/isacmlee/csv-to-playlist)
-- [floccusaddon/floccus: Sync your bookmarks privately across browsers and devices](https://github.com/floccusaddon/floccus)
+- [floccusaddon/floccus: Sync your bookmarks privately across browsers and devices](https://github.com/floccusaddon/floccus) #bookmark 
 - [Exportify](https://watsonbox.github.io/exportify/)
 - [elangosundar/awesome-README-templates: A collection of awesome readme templates to display on your github profile.](https://github.com/elangosundar/awesome-README-templates)
 - [CodeEditApp/CodeEdit: CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.](https://github.com/CodeEditApp/CodeEdit)
@@ -946,7 +946,7 @@
 - [perminder-klair/resume-parser: A Simple NodeJs library to parse Resume / CV to JSON.](https://github.com/perminder-klair/resume-parser)
 - [maurodesouza/profile-readme-generator: 🎨 Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way 🚀 The best profile readme generator you will find ⚡](https://github.com/maurodesouza/profile-readme-generator)
 - [rahuldkjain/github-profile-readme-generator: 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.](https://github.com/rahuldkjain/github-profile-readme-generator)
-- [TimBroddin/raindrop-to-wpcom: Lambda function to post raindrop.io bookmarks to wpcom](https://github.com/TimBroddin/raindrop-to-wpcom)
+- [TimBroddin/raindrop-to-wpcom: Lambda function to post raindrop.io bookmarks to wpcom](https://github.com/TimBroddin/raindrop-to-wpcom) #bookmark 
 - [ObsidianPublisher/obsidian-github-publisher: A plugin to easily publish note to github](https://github.com/ObsidianPublisher/obsidian-github-publisher)
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist)
 - [ProfessorKolodziej/idea-generator: An idea generator, powered by a selected set of bookmarks on Raindrop.io.](https://github.com/ProfessorKolodziej/idea-generator)
