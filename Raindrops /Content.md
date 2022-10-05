@@ -68,9 +68,9 @@
 
 - [Sizzy — The last developer tool you need.](https://sizzy.co/)
 
-- [Take Your Github Repository To The Next Level 🚀️ - DEV Community](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge)
+- [Take Your Github Repository To The Next Level - DEV Community](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge)
 
-- [The ultimate Cheat sheets compilation (200+) - 🔥🎁 / Roadmap to dev 🚀 - DEV Community](https://dev.to/worldindev/the-ultimate-compilation-of-cheat-sheets-100-268g)
+- [The ultimate Cheat sheets compilation (200+) -  / Roadmap to dev  - DEV Community](https://dev.to/worldindev/the-ultimate-compilation-of-cheat-sheets-100-268g)
 
 - [This Connection Is Not Private](https://www.aerobatic.com/)
 
