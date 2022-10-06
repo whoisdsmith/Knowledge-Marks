@@ -1,0 +1,15 @@
+# Awesome-Stock-Resources 
+---
+[Photography](Awesome/Awesome-Stock-Resources/Photography.md)
+[Illustration](Awesome/Awesome-Stock-Resources/Illustration.md)
+[Vector Graphics](Vector%20Graphics.md)
+[Videos](Awesome/Awesome-Stock-Resources/Videos.md)
+[Patterns](Awesome/Awesome-Stock-Resources/Patterns.md)
+[Textures](Textures.md)
+[Fonts](Awesome/Awesome-Stock-Resources/Fonts.md)
+[Icons](Awesome/Awesome-Stock-Resources/Icons.md)
+[Colors](Awesome/Awesome-Stock-Resources/Colors.md)
+[Aggregated Content](Aggregated%20Content.md)
+[HTML Templates](HTML%20Templates.md)
+[Sounds & Music](Sounds%20&%20Music.md)
+[Paid Resources](Paid%20Resources.md)

@@ -1,0 +1,37 @@
+## Computer Science
+
+-   [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
+-   [Data Science](https://github.com/academic/awesome-datascience#readme)
+    -   [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
+-   [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
+    -   [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
+    -   [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
+    -   [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
+    -   [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+    -   [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
+    -   [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+    -   [JAX](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+    -   [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+-   [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
+    -   [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
+    -   [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
+    -   [Question Answering](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+    -   [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+-   [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
+-   [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
+    -   [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
+-   [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+-   [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
+    -   [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
+    -   [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
+    -   [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
+    -   [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
+    -   [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
+-   [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
+-   [Open Source Society University](https://github.com/ossu/computer-science#readme)
+-   [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
+-   [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+-   [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
+-   [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+-   [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+-   [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.

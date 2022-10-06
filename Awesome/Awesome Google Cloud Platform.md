@@ -1,0 +1,10 @@
+# Awesome Google Cloud Platform
+[General](Awesome/Awesome%20Google%20Cloud%20Platform/General.md)
+[Compute](Compute.md)
+[Cross-product](Cross-product.md)
+[Cloud AI](Cloud%20AI.md)
+[Storage & Databases](Storage%20&%20Databases.md)
+[Monorepo](Monorepo.md)
+[Big Data](Awesome/Awesome%20lists%20topics/Big%20Data.md)
+[Interactive Learning Resources](Interactive%20Learning%20Resources.md)
+[Other Awesome Lists](Other%20Awesome%20Lists.md)

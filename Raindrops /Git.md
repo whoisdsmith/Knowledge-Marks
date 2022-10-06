@@ -874,6 +874,6 @@
 - [github-pewpew: pew pew needless GitHub repos!](https://adrianmato.com/pewpew)
 - [automa](https://github.com/AutomaApp/automa)
 ---
-[AWESOME](AWESOME.md)
+[AWESOME](Raindrops%20/AWESOME.md)
 [github-stars](github-stars.md)
 [Gitlab](Gitlab.md)
