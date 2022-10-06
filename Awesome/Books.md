@@ -21,3 +21,9 @@
 -   [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
 -   [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/opengl/78-synthese-d-images.html) - Book in french, which covers OpenGL, OpenGL ES and WebGL.
 -   [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Design and use machine learning models for music generation using Magenta and make them interact with existing music creation tools
+-   [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
+-   [Go Books](https://github.com/dariubs/GoBooks#readme)
+-   [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
+-   [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+-   [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
+-   [Elixir Books](https://github.com/sger/ElixirBooks#readme)

@@ -16,7 +16,7 @@
 [Awesome Startpage](Awesome%20/Awesome%20Startpage.md)
 [Awesome Static Website Services](Awesome%20/Awesome%20Static%20Website%20Services.md)
 [Awesome Web Development Resources](Awesome%20Web%20Development%20Resources.md)
-[Awesome Web Icons](Awesome/Awesome%20Repositories/Awesome%20Web%20Icons.md)
+[Awesome Web Icons](Repositories/Awesome%20Web%20Icons.md)
 [Awesome-Automation](Awesome/Awesome-Automation.md)
 [awesome-awesomeness](awesome-awesomeness.md)
 [Awesome-Blogging-Platforms](Awesome-Blogging-Platforms.md)

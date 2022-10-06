@@ -1,1 +1,0 @@
-## Awesome Computer Vision:
