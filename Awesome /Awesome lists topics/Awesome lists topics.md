@@ -13,7 +13,7 @@
 [Entertainment](Entertainment.md)
 [Databases](Databases.md)
 [Media](Awesome%20/Awesome%20lists%20topics/Media.md)
-[Learn](Learn.md)
+[Learn](Awesome%20/Awesome%20lists%20topics/Learn.md)
 [Security](Awesome%20/Awesome%20lists%20topics/Security.md)
 [Content Management Systems](Content%20Management%20Systems.md)
 [Hardware](Hardware.md)

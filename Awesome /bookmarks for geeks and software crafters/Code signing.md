@@ -1,0 +1,371 @@
+## Code signing
+
+-   [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
+-   [Apple Developer Docs](https://developer.apple.com/library/content/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005929-CH1-SW1) - About Code Signing
+-   ⭐ [**Apple Developer Docs**](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
+-   [Morten Johan Sørvig](http://blog.qt.io/blog/2014/10/29/an-update-on-os-x-code-signing/) - (2014) An update on OS X Code Signing
+-   [ouchangjian](http://www.ouchangjian.com/question/588b48cce4a1ca4b30edaff5) - difference between codesign and productsign ?
+-   [Stack Overflow](https://stackoverflow.com/a/21564967/2309958) - what to sign, with which certificate ?
+-   [Andy Brice](https://successfulsoftware.net/2012/08/30/how-to-sign-your-mac-os-x-app-for-gatekeeper/) - (2012) How to sign your Mac OS X App for Gatekeeper. **Bonus** : [things have changed, see this article for the update](https://successfulsoftware.net/2014/10/17/signing-qt-applications-for-mac-os-x-10-9-5-and-10-10/)
+
+-   [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
+
+-   [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
+-   [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
+-   [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : \* [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
+-   [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - \[IMG\] math students tip
+-   [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
+-   [Sandra Henry-Stocker](http://www.computerworld.com/article/2974753/linux/doing-math-with-awk.html) - Doing math with awk
+-   [BetterExplained](https://betterexplained.com/) - Math lessons that click | Finally understand math, don't memorize it.
+-   [Khan Academy Long-term Research](https://early.khanacademy.org/early-math/) - Playful worlds of creative math: a design exploration
+
+> how might we help more kids experience what math lovers experience?
+
+-   [SC (SensCritique)](https://www.senscritique.com/) - \[FR\] 🇫🇷 french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+-   [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
+-   [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
+-   [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
+-   [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
+-   [**Tunefind**](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
+-   [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
+-   [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
+-   [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - \[FR\] 🇫🇷 FileBot : le couteau suisse du renommage de films et séries
+-   [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
+-   [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
+-   [Clara Darko](https://www.youtube.com/watch?v=A1ZHl8qqg4A) - \[Video\] Movie montage of dystopian / utopias societies
+-   [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
+-   [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
+-   [Addic7ed.com](http://www.addic7ed.com/) - free subtitles for tv show and movies
+-   [Movie-Censorship.com](http://www.movie-censorship.com/) - News about movie censorship + comparisons of alternate versions (Movies, Comics, Series, Games and more)
+-   [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
+-   [IMSE](http://www.imse.co/) - Internet Movie Search Engine
+-   [SoMeFilm](https://somefilm.net/auth/guest) - Movies / tv shows recommendations : what will you watch tonight ?
+-   ⭐ [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc.
+-   [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - \[Youtube\] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
+-   [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - \[Video\] funny trailers of popular movies
+-   [Cinesift](https://www.cinesift.com/) - 'Cinesift' Sorts Ratings and Streaming Services to Help Users Pick Films. **Bonus** : [Presentation of Cinesift by Trend Hunter](https://www.trendhunter.com/trends/film-database)
+-   [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
+-   [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
+-   [Short of the Week](https://www.shortoftheweek.com/) - Watch the best short films online
+-   [MorganGeek](https://www.morgangeek.be/minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
+-   [Vimeo](https://vimeo.com/) - The high-quality home for video hosting and watching in HD with no ads, used by a vast number of indie filmmakers. The place to find refreshing, art-house movies to stream on demand.
+-   [TED](https://www.ted.com/) - \[Videos\] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
+-   [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
+-   [Putlocker](https://www6.putlockertv.to/) - The easiest way to watch your favorite movies online!
+-   [ImagoTV](https://imagotv.fr/) - 🇫🇷 \[FR\] Netflix gratuit de la transition écologique !
+-   [daltonmenezes/netflix-list-exporter](https://github.com/daltonmenezes/netflix-list-exporter) - 💫 An Extension to export your lists from Netflix to Clipboard area and share with your friends. | also useful if used to compare lists to know what to watch together
+-   [DoesTheDogDie.com](https://www.doesthedogdie.com/) - Crowdsourced emotional spoilers for movies, tv, books and more.
+-   [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies.
+-   [Spoiler.io](http://spoiler.io/) - Random Movies and TV Shows Spoilers.
+-   [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
+-   [Similaires](https://similaires.com/) - 🇫🇷 \[FR\] Trouver les meilleurs films similaires | service de sélection de films similaires, qui vous aidera à choisir le prochain film ou la prochaine série.
+-   [Jay Riverlong](https://jayriverlong.github.io/2021/07/05/movies.html) - (2021) No More Movies
+-   [Aaron Rice](https://coffeeaffection.com/best-coffee-movies/) - (2021) 8 Best Coffee Movies Ever Made
+-   [European Coffee Trip](https://www.youtube.com/watch?v=13pZASbQODg) - \[Video\] (2020) Top 8 Coffee Documentaries To Watch Online (for free)
+-   [uNoGS](https://unogs.com/) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** [Explore catalogue updates by country](https://unogs.com/countrydetail)
+-   [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
+
+-   [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
+-   [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
+-   [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
+-   [jamb0ss/awesome-ambient-noises](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
+-   [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
+-   [MorganGeek](https://gist.github.com/MorganGeek/66c9c8524e446550757d92c527c28c93) - work / programming playlists selection
+-   [Tellement Nomade](http://www.tellementnomade.org/forum/) - \[FR\] 🇫🇷 forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
+-   [**Tunefind**](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
+-   [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
+-   [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
+-   [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
+-   [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
+-   [MusicIP](http://www.spicefly.com/article.php?page=what-is-musicip) - MusicIP analyses and fingerprints your music library
+-   [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker 🤘
+-   [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker 🤘
+-   [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
+-   [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
+-   [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000
+-   [Tunefind](https://www.tunefind.com/show/the-walking-dead) - Walking Dead tv show soundtracks online
+-   [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - \[FR\] 🇫🇷 \[Podcast\] every month, 2 hours of music from video games **Bonus** : [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
+-   ⭐ [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
+-   [Banjo Guy Ollie](https://www.youtube.com/channel/UC5-umfrfqPvDvWCYHJGYtpA) - \[Videos\] videos of Olivier Longuet (aka Ollie LongZ / BanjoGuyOllie), a youtuber making awesome video game music covers. **Bonus** : his other youtube channel \[FR\] 🇫🇷 [Grand Theft Z'Audio](https://www.youtube.com/channel/UCAORviTS6Ua_a0eo4XGDPPg) if you like funny surreal dubbing of games cinematic, mainly inspired by \[Message à caractère informatif ([https://www.youtube.com/watch?v=ozJmcB-mVgw](https://www.youtube.com/watch?v=ozJmcB-mVgw))
+-   ⭐ [**YouTube to MP3 converter**](https://ytmp3.cc/)
+-   [Metalcast](http://www.metalcastshow.com/) - 🤘 Ultimate metal show
+-   [Steve Losh](http://stevelosh.com/blog/2009/04/why-people-dont-like-metal/) - 🤘 (2009) Why People Don’t Like Metal
+-   [Steve Losh](http://stevelosh.com/blog/2010/11/keep-calm-and-carry-on/) - (2010) Keep Calm and Carry On | listen to music, damn it!
+-   [Gnoosic](http://www.gnoosic.com/) - Based on your choices, Gnod predicts you might like the music of
+-   [Graspop Metal Meeting](https://www.graspop.be/en/history/) - Archives of Graspop Line up through time 🤘
+-   [Spotify Library Exporter](https://spotify-library-exporter.herokuapp.com/) - a tool to download your Spotify library as a CSV to be used elsewhere. Can also be useful to migrate from Spotify to Apple Music, backup your library to use elsewhere, keep a record offline. It doesn't matter! 🎉
+-   [PlaylistConverter](http://www.playlist-converter.net/) - Convert your Playlist from multiple Music Services and File Format. Works for Spotify too
+-   [Map of Metal](https://mapofmetal.com/) - 🤘 An interactive map of Metal history and the influential bands that helped shaped the genres we know today.
+-   [midomi](https://www.midomi.com/) - Use your voice or your mic to identify music
+-   [myNoise](https://mynoise.net/noiseMachines.php) - Background Noises & Interactive Soundscapes
+-   [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
+-   [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
+-   [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
+-   [Marc Allard](https://www.lesoleil.com/chroniques/marc-allard/nous-sommes-ce-que-nous-ecoutons-d94815457194e1d6b1c9817df03fa1f6) - (2016) 🇫🇷 \[FR\] Nous sommes ce que nous écoutons
+-   [lofi.cafe - lofi music](https://www.lofi.cafe/) - Lofi music streams for studying, working, and relaxing.
+-   [sebsauvage.net](https://sebsauvage.net/wiki/doku.php?id=musique) - 🇫🇷 \[FR\] Musique en ligne, sélections par sebsauvage
+-   [Classic 21](https://www.rtbf.be/classic21/) - 🇧🇪 🇫🇷 \[BE\] \[FR\] est une station de radio belge de service public orientée vers la musique pop/rock de 1950 à nos jours. Faisant partie de la RTBF, sa création remonte au 1ᵉʳ avril 2004, date à laquelle Radio 21 a cédé la place à deux nouvelles stations : Pure FM et Classic 21.
+-   [Classic 21](https://www.rtbf.be/classic21/emissions/detail_les-podcasts-de-classic-21?programId=18188) - 🇧🇪 🇫🇷 \[BE\] \[FR\] Les podcasts de Classic 21
+
+> Tools
+
+-   [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
+-   [Obscurify Music](https://obscurifymusic.com/) - If you're on spotify, Obscurify let you learn more about your music taste and compare it to others' with Obscurify.
+-   [cmd.fm](https://cmd.to/fm) - Use play command to begin listening. For example: play electronic pop, play madonna etc..
+-   [radio paradise](https://radioparadise.com/player) - an eclectic dj-mixed blend of rock, indie, electronica, world music, and more. listener supported & always 100% commercial free
+
+-   [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
+-   [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - (2013) 10 Basic Linux Networking and Monitoring Commands You Should Know
+-   [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - (2013) Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
+-   [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
+-   [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
+-   [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
+-   ⭐ [**Kickball/awesome-selfhosted**](https://github.com/Kickball/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally
+-   [/r/netsec](https://www.reddit.com/r/netsec/) - network security on reddit
+-   [Google](https://www.youtube.com/watch?v=d90Ov6QM1jE) - \[Video\] How Google Protects Its Corporate Security Perimeter without Firewalls / Very interesting insight into Google's BeyondCorp Zero Trust Network.
+-   [MoonPoint](http://support.moonpoint.com/network/proxy/putty/) - Using PuTTY to set up a SOCKS Proxy Connection
+-   [MoonPoint](http://support.moonpoint.com/network/proxy/ie10-socks-proxy.php) - Configuring IE 10 to use an SSH SOCKS Proxy Server
+-   [Thomas Graf](https://www.slideshare.net/ThomasGraf5/dockercon-2017-cilium-network-and-application-security-with-bpf-and-xdp) - DockerCon 2017 - Cilium - Network and Application Security with BPF and XDP
+-   [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
+-   [VirtualBox issues tracker](https://www.virtualbox.org/ticket/14374) - Network adapters not working after host returns from sleep Win 7 host Linux Mint 17.2 guest
+-   [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
+-   [Vivek Gite](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - (2018) Top 32 Nmap Command Examples For Sys/Network Admins
+-   [LZone](https://lzone.de/cheat-sheet/Linux-Networking) - Linux networking cheatsheet
+-   [AboutMyX](http://www.aboutmyip.com/AboutMyXApp/SubnetCalculator.jsp?ipAddress=192.168.16.0&cidr=24) - Subnet mask calculator
+-   [Vivek Gite](https://www.cyberciti.biz/faq/linux-setup-default-gateway-with-route-command/) - (2015) Linux setup default gateway with route command
+-   [Vivek Gite](https://www.cyberciti.biz/faq/linux-route-add/) - (2013) Linux route Add Command Examples
+-   [Vivek Gite](https://www.cyberciti.biz/faq/linux-bastion-host/) - (2009) Configure Linux As Bastion Host
+-   [Hurricane Electric BGP Toolkit](https://bgp.he.net/) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
+-   [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
+-   [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
+-   [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query?bflag&searchtext=) - Webupdates / database query
+-   [CIDR/Netmask Lookup Tool](https://dnschecker.org/netmask-cidr.php) - get information about a CIDR range including the IP addresses and host addresses contained in it.
+-   [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
+-   [CICR Tool](https://www.ipaddressguide.com/cidr) - Calculator for IP Range To CIDR / CIDR to IP Range
+-   [Sal Ferrarello](https://salferrarello.com/chrome-clear-redirect-cache/) - (2016) Chrome Clear Redirect Cache
+-   [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR; type `curl ident.me` to know your public ip
+-   [Joyent Support](https://help.joyent.com/hc/en-us/articles/226687427-Watching-active-IP-connections-Linux) - (2016) Watching active IP connections - Linux
+    -   Incoming connections : `watch -d -n1 lsof -i`
+-   [Super User](https://superuser.com/a/848966/453117) and [Server Fault](https://serverfault.com/a/353134/298315)
+    -   Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --dport 443 --syn -j LOG --log-prefix "HTTPS SYN: "`
+    -   Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
+    -   Removing iptables rule : `sudo iptables -D INPUT -p <etc rest of your above rule>`
+-   [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
+-   [InterPlanetary File System](https://ipfs.io/) - The InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices. **See also :** [Wikipedia](https://en.wikipedia.org/wiki/InterPlanetary_File_System) and [GitHub](https://github.com/ipfs/ipfs)
+
+> Tips
+
+-   [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
+    1.  Connect to your instance.
+    2.  Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
+    3.  Use the following command to get its public IP address: `curl http://169.254.169.254/latest/meta-data/public-ipv4`
+-   [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet
+-   [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet
+
+-   🔥 🦄 [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
+-   🔥 [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
+-   ⭐ [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
+-   [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : ⭐ [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
+-   ⭐ [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
+-   ⭐ [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
+-   [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
+-   ⭐ [**Le Gorafi**](http://www.legorafi.fr/) - \[FR\] 🇫🇷 news satire
+-   [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
+-   [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
+-   [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also
+-   [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
+-   [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
+-   [Trendsmap](https://www.trendsmap.com/) - shows you the latest trends from Twitter, for anywhere in the world.
+-   [Daniel Miessler](https://danielmiessler.com/blog/) - a very interesting blog about InfoSec, technology and humans
+-   [Le blog d'un odieux connard](https://unodieuxconnard.com/) - \[FR\] 🇫🇷 caustic news / news satire
+-   [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
+-   [OSNews](http://www.osnews.com/) - explore the future of computing and about technology, OS, hardware, development, and other cool news
+-   [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
+-   [Jeffrey Ventrella](https://ventrellathing.wordpress.com/) - Nature -> Brain -> Technology | Things and Stuff
+-   [Les Numériques](https://www.lesnumeriques.com/) - 🇫🇷 \[FR\] Test, actu, comparatif high-tech/électroménager
+-   [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
+-   [reddit](https://www.reddit.com/controversial/) - most controversial links
+-   🔥 [**sebsauvage**](https://sebsauvage.net/links/) - 🇫🇷 \[FR\] Liens en vrac de sebsauvage
+-   [Korben](https://korben.info/) - 🇫🇷 \[FR\] Upgrade your mind
+-   [Matthieu Lesne aka coreight](https://coreight.com/) - 🇫🇷 \[FR\] Le blog d'infos et astuces web; high tech
+-   [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
+-   [TECHURLS](https://techurls.com/) - a technology news aggregator.
+-   [SCIURLS](https://sciurls.com/) - a science news aggregator.
+-   [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+-   [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
+-   [DesGeeksetdeslettres](https://desgeeksetdeslettres.com/) - 🇫🇷 \[FR\] fournit des outils et des connaissances pour protéger votre vie privée contre la surveillance massive mondiale. Ce blog anime depuis 2009 une communauté florissante d'individus soucieux de la protection de la vie privée et s'informe au jour le jour des nouvelles avancées en matière de protection de vos données en ligne.
+-   [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
+-   [DevOps Newsletters](https://devopsnewsletters.com/) - a one stop shop for the best DevOps news content from around the world.
+-   [Seth's Blog](https://seths.blog/) - Seth Godin's Blog on marketing, tribes and respect.
+-   [Mike Crittenden](https://critter.blog/) - Blog on engineering / self improvement topics.
+-   [Nicolas Delsaux aka Riduidel](https://nicolas-delsaux.hd.free.fr/Shaarli/) - 🇫🇷 \[FR\] Shaarli de Riduidel | discovered via [**sebsauvage**](https://sebsauvage.net/links/)
+-   [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
+-   [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
+-   [follow.it](https://follow.it/) - Follow any blog or website
+
+> Anderlecht / Bruxelles news
+
+-   [Commune d'Anderlecht](https://www.anderlecht.be/) - 🇫🇷 🇧🇪 \[FR\] \[BE\] Actualités
+-   [Bruxelles City News](https://bruxelles-city-news.be/cat/actualite/bruxelles/) - 🇫🇷 🇧🇪 \[FR\] \[BE\] Actualités
+-   [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 \[FR\] \[BE\] Anderlecht : toutes les infos du mot-clé jour par jour
+-   [BX1](https://bx1.be/category/communes/anderlecht/) - 🇫🇷 🇧🇪 \[FR\] \[BE\] Toutes les informations sur la commune d'Anderlecht
+-   [VivreIci](http://www.vivreici.be/commune/1070) - 🇫🇷 🇧🇪 \[FR\] \[BE\] Anderlecht
+-   [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 \[FR\] \[BE\] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants. **Bonus** [Flyer](https://www.anderlecht.be/sites/default/files/medias/Files/SolInter/Flyers%20Family'in%20-%20Derni%C3%A8re%20version%202021.pdf)
+-   [Osiris](https://via.osiris.brussels/#/) - 🇫🇷 🇧🇪 \[FR\] \[BE\] Perturbations des voiries bruxelloises liées aux chantiers
+-   [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 \[FR\] \[BE\] Webzines
+
+-   [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
+-   [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
+-   [Nix OS Docs](https://nixos.org/manual/nix/unstable/package-management/garbage-collection.html) - Garbage Collection | handy commands for reclaiming disk space from deleted packages.
+-   [Adrian Hesketh](https://adrianhesketh.com/2020/07/03/mac-setup-with-nix-darwin/) - (2020) Using Nix to set up my new Mac
+-   [Mathias Polligkeit](https://www.mathiaspolligkeit.de/dev/exploring-nix-on-macos/) - (2020) Dev Environment Setup With Nix on MacOS
+-   [Spencer Heywood aka heywoodlh](https://the-empire.systems/linux-macos-setup) - (2020) My "Linux-like" MacOS Setup | finally some inspiration and concrete solution to the mess of managing GUI apps with Nix on MacOS.
+-   [Mattia Gheda](https://ghedam.at/15502/speedy-development-environments-with-nix-and-docker) - (2020) Speedy Development environments with Nix and Docker
+-   [NixOS Wiki](https://nixos.wiki/wiki/Cheatsheet) - A NixOS cheat sheet
+-   [Nix Dev Guide](https://nix.dev/tutorials/ad-hoc-developer-environments) - Ad hoc developer environments¶
+
+See also [Monitoring](https://github.com/MorganGeek/bookmarks#monitoring)
+
+> News
+
+-   [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
+-   [TechBeacon](https://techbeacon.com/it-ops) - IT-OPS articles & resources
+-   [O'Reilly Media](https://www.oreilly.com/topics/operations) - The latest ideas, articles about operations.
+-   [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
+-   [Code as Craft](https://codeascraft.com/category/operations/) - Posts in category operations
+-   [Linda Rosencrance](https://techbeacon.com/best-cloud-it-ops-conferences-2018) - (2018) The best cloud and IT Ops conferences of 2018
+-   [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins.
+-   [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
+-   [IT Landscape for sysadmins](https://sysadmin.it-landscape.info/) - Open source projects aggregator for system administrators.
+
+> Learn
+
+-   [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
+-   [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
+-   [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server?
+-   [Sylvain Kalache](https://www.linux.com/blog/first-5-commands-when-i-connect-linux-server) - First 5 Commands When I Connect on a Linux Server
+-   [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - (2013) My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
+-   [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
+-   [alicegoldfuss/oncall-handbook](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
+-   [Charity Majors aka mipsytipsy](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - (2017) Lies My Parents Told Me (About Logs)
+-   [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - (2017) Prevent command with a specific option to be run on your server
+-   [Pat Cable](https://blog.threatstack.com/balancing-security-and-your-on-call-rotation-using-deputize) - Balancing Security and Your On-Call Rotation Using Deputize
+-   [Brendan D. Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
+-   [Jon Prall](http://jprall.typepad.com/blog/2010/10/85-operational-rules.html) - (2007) 85 Operations Rules to Live By
+-   [John Allspaw](http://www.kitchensoap.com/2007/10/11/knowing-when-you-can-fail-is-mandatory/) - (2007) Knowing when you can fail is mandatory.
+-   [LZone](http://lzone.de/) - Various Cheat Sheets about sysadmin, development, it ops, services management and virtualization
+-   [LZone](http://lzone.de/cheat-sheet/IT-Ops) - IT Ops Cheat Sheet
+-   [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
+-   [Matthew Skelton](https://blog.softwareoperability.com/2013/04/08/lets-talk-about-operational-features-not-non-functional-requirements/) - (2013) Let’s Talk About Operational Features, not Non-Functional Requirements
+-   [David Mytton](https://blog.serverdensity.com/how-and-why-we-use-devops-checklists/) - How and why we use DevOps checklists
+-   [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
+-   ⭐ [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
+-   [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
+-   [AskF5 Support](https://support.f5.com/csp/article/K12213214) - Overview of colored status icons in the Configuration utility
+-   [Deb Shinder](http://techgenix.com/fall-of-all-powerful-admin/) - The rise and fall of the all-powerful admin
+-   [Rundeck](http://rundeck.org/) - Turn your operations procedures into self-service jobs.
+-   [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - (2014) Jenkins is for Development. Rundeck is for Operations.
+-   [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
+-   [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
+-   [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
+-   [CollectNode](https://collectnode.com/) - CollectNode makes easier the IT admin life
+-   [DOESConsulting](http://www.doesconsulting.com/faq.shtml) - Load Balancing FAQs and Key Concepts
+-   [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
+-   [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
+-   [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
+-   [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
+-   [Charity Majors aka mipsytipsy](https://opensource.com/article/17/7/state-systems-administration) - (2017) Ops: It's everyone's job now
+-   [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - (2017) The truth about sysadmins
+-   [plop\_plop\_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) \[FR\] 🇫🇷 - Journal So, you wanna be a sysadmin ? (Trolldi inside)
+-   [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
+-   [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - (2015) Lessons Learned while Working on Large-Scale Server Software
+-   [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - (2017) In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
+-   [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
+-   [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way
+-   [David Mytton](https://blog.serverdensity.com/server-naming-conventions-and-best-practices/) - (2015) Server Naming Conventions and Best Practices
+-   [Principles of Chaos Engineering](http://principlesofchaos.org/)
+-   [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources
+-   [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
+-   [Matthew Skelton](https://blog.softwareoperability.com/2013/10/16/operability-can-improve-if-developers-write-a-draft-run-book/) - (2013) Operability can Improve if Developers Write a Draft Run Book
+-   [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template) - Run Book / Operations Manual template for modern software systems. **Bonus** : [Link to template markdown](https://github.com/SkeltonThatcher/run-book-template/blob/master/run-book-template.md) + [Run Book Dialog Sheet v1.0](https://github.com/SkeltonThatcher/run-book-template/releases/download/v1.0/Run-Book-dialogue-sheet-A1.pdf) \[PDF\]
+-   [Run Book Dialog Sheet v1.0](https://github.com/SkeltonThatcher/run-book-template/releases/download/v1.0/Run-Book-dialogue-sheet-A1.pdf) \[PDF\] Discussion / Dialog / Round table cheatsheet for Ops and Devs
+-   [Matthew Skelton](https://www.slideshare.net/slideshow/embed_code/key/k8BhSNPZ3o1bM3) - (2017) \[Slides\] Practical Operability Techniques for Teams
+-   [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
+-   [Russ Collier](https://www.devopsonwindows.com/it-takes-dev-and-ops-to-make-devops/) - (2013) It Takes Dev and Ops to Make DevOps
+-   [Cindy Sridharan](https://medium.com/@copyconstruct/the-death-of-ops-is-greatly-exaggerated-ff3bd4a67f24) - (2017) Everyone is not Ops
+-   [Dan North](https://www.youtube.com/watch?v=MmL8H0oGGe8) - (2017) \[Video\] Ops and Operability
+-   [Erez Yaary](https://techbeacon.com/how-secure-container-lifecycle) - (2017) How to secure the container lifecycle
+-   [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
+-   [Ask Hacker News](https://news.ycombinator.com/item?id=15737215) - (2017) How do you deal with operational work as a software engineer?
+-   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev/)
+-   [Softpanorama](http://www.softpanorama.org/Admin/admin_horror_stories.shtml) - classification of sysadmin horror stories
+-   [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
+-   [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
+-   [Nicolas De Nayer](https://medium.com/doctolib-engineering/the-duty-guy-the-key-to-empowering-engineers-a43d1fc4706b) - (2017) The Duty Guy: the key to empowering engineers
+-   [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.”
+-   [Google](https://landing.google.com/sre/book.html) - \[Book\] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
+-   [Simon Sharwood](https://www.theregister.co.uk/2017/02/01/gitlab_data_loss/) - (2017) GitLab.com melts down after wrong directory deleted, backups fail
+-   [Grant Fritchey](https://www.red-gate.com/blog/database-devops/youre-not-delivering-devops-database/amp?__twitter_impression=true) - (2017) You’re not delivering DevOps to the database
+
+> Please, developers, don’t get smug. I’m starting with you because you’re a core part of the problem here. Go back and re-read the definitions of DevOps … I’ll wait … You have to notice one salient point. Nowhere does it say, “Developers rule the world”, or “Developers have ‘SA’ privileges”, or “We get to ignore the Operations side of IT and do anything we want”. No, instead, it talks about cooperation.
+
+-   [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3)
+
+> DevOps does not equal ‘Developers managing Production’
+
+-   [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
+-   [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
+-   [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
+-   [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
+-   [Matt Watson](https://stackify.com/supporting-production-applications-devops-way/) - (2014) Supporting Production Applications the DevOps Way
+-   [Coda Hale](https://codahale.com/risky-business-requires-active-operators/) - (2017) Risky Business Requires Active Operators | about the risks of automation in order to successfully and safely wield its power.
+-   [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
+-   ⭐ [**Paul Hammond**](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) \[Slides\] Always ship trunk | Managing change in complex websites
+-   [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
+-   [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
+-   ⭐ [**Mike Loukides**](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
+-   [Mandi Walls](https://www.slideshare.net/lnxchk/configuration-management-is-old-and-boring) - (2017) Configuration Management is Old and Boring
+-   [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
+-   [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
+-   [OpsStack](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) - \[Slides\] (2017) Monitoring the SRE Golden Signals | Actually Getting the Metrics from Common Services
+-   [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
+-   [Ericka Chickowski](https://techbeacon.com/it-ops-fails-5-worst-blunders-2017) - (2017) Epic IT Ops fails: The 5 worst blunders of 2017
+-   [Travis Greene](https://techbeacon.com/7-arguments-against-noops) - (2018) 7 arguments against NoOps | just say no
+-   [Esther Schindler](https://blog.newrelic.com/2016/04/26/ops-dev-wishlist/) - (2016) 3 Ways Devs Can Help Ops: An Operations Perspective
+-   [Esther Schindler](https://blog.newrelic.com/2016/04/11/devs-ops-wishlist/) - (2016) 3 Way Ops Can Help Devs: A Developer Perspective
+-   [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
+-   [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight
+-   [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs
+-   ⭐ [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations _do_?
+-   [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
+-   [Patrick Cable](https://sysadvent.blogspot.be/2017/12/day-4-this-christmas-build-your-own-pki.html) - (2017) This Christmas, build your own PKI
+-   [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.
+-   [cscareerthrowaway567](https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/) - (2017) Accidentally destroyed production database on first day of a job, and was told to leave, on top of this i was told by the CTO that they need to get legal involved, how screwed am i?
+-   [Chelsey Lang](https://blog.clearvision-cm.com/blog/4-ways-to-approach-incident-management-and-improve-mean-time-to-resolution/) - (2017) 4 Ways to Approach Incident Management and Improve Mean Time to Resolution
+-   [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
+-   [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
+-   [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
+-   [Dmitriy Samovskiy](http://www.somic.org/2011/09/30/complex-systems-generalists-and-specialists/) - (2011) Complex Systems: Generalists and Specialists | on diagnosing problems
+-   [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of \*nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+-   [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
+-   [Nexthink](https://www.nexthink.com/periodic-table/) - Periodic Table of IT Ops Tools
+-   [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
+-   [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
+-   ⭐ [**Vivek Gite**](https://www.cyberciti.biz/tips/linux-security.html) - (2017) 40 Linux Server Hardening Security Tips
+-   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
+-   [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+-   [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
+-   [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
+-   [Vivek Gite](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html) - (2018) Top 20 OpenSSH Server Best Security Practices
+-   [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
+-   [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
+-   [jdumars/agileops](https://github.com/jdumars/agileops) - The Agile Operations methodology
+-   [Fred Hébert](https://ferd.ca/operable-software.html) - (2019) Operator Experience (OpEx), Observability, and making observable systems
+-   [Ubuntu Community Help Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) - Internet and Networking >> SSH >> SSH/OpenSSH/Keys
+-   [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html) - estimate your monthly AWS bill more efficiently. Using this tool, you can add, modify and remove services from your 'bill' and it will recalculate your estimated monthly charges automatically. The calculator also shows common customer samples and their usage, such as Disaster Recovery and Backup or Web Application.
+-   [ops.tips](https://ops.tips/) - articles, tutorials and guides about cloud-native technologies: AWS, Golang, Containers, Linux, Infrastructure as a Service and DevOps. **Shortcuts :** [All gists](https://ops.tips/gists/) and [All articles](https://ops.tips/blog/)
+-   [O11ycast](https://www.heavybit.com/library/podcasts/o11ycast/) - Exploring the observability side of software development.
+-   [Jan Schaumann](https://www.netmeister.org/blog/ops-lessons.html) - (2020) (A few) Ops Lessons We All Learn The Hard Way
+-   [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) \[Audio\] Operations: Past, Present, and Glorious Future Webinar, with Charity Majors aka mipsytipsy | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
+-   [Charity Majors](https://www.honeycomb.io/blog/the-future-of-ops-careers/) - (2020) The Future of Ops Careers. **See also** : [Christine Yen](https://www.honeycomb.io/blog/the-future-of-developer-careers/) on the same blog.
+-   [The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - (2021) 7 Lessons From 10 Outages

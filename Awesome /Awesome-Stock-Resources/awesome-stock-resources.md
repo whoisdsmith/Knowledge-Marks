@@ -8,7 +8,7 @@
 [Textures](Textures.md)
 [Fonts](Awesome%20/Awesome-Stock-Resources/Fonts.md)
 [Icons](Awesome%20/Awesome-Stock-Resources/Icons.md)
-[Colors](Colors.md)
+[Colors](Awesome%20/Awesome-Stock-Resources/Colors.md)
 [Aggregated Content](Aggregated%20Content.md)
 [HTML Templates](HTML%20Templates.md)
 [Sounds & Music](Sounds%20&%20Music.md)

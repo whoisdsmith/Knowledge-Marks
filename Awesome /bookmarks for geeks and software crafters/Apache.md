@@ -1,0 +1,22 @@
+## Apache
+
+-   [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
+-   [Duncan Crombie](http://www.the-art-of-web.com/system/apache-reverse-proxy/) - New Apache instance with Reverse Proxy
+-   [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
+-   [DigiCert](https://www.digicert.com/ssl-support/apache-multiple-ssl-certificates-using-sni.htm) - Using Multiple SSL Certificates in Apache with One IP Address
+-   [SSL Shopper](https://www.sslshopper.com/apache-server-ssl-installation-instructions.html) - Apache SSL Installation Instructions
+-   [SSL Shopper](https://www.sslshopper.com/apache-redirect-http-to-https.html) - Apache Redirect HTTP to HTTPS using mod\_rewrite
+-   [Apache Docs](https://httpd.apache.org/docs/2.4/en/rewrite/remapping.html) - Redirecting and Remapping with mod\_rewrite
+-   [Apache Docs](https://httpd.apache.org/docs/2.4/en/vhosts/examples.html) - VirtualHost usage examples
+-   [Jeff Starr](https://perishablepress.com/stupid-htaccess-tricks/) - Stupid .htaccess Tricks
+-   [Jeff Starr](https://perishablepress.com/htaccess-cleanup/) - .htaccess Cleanup
+-   [Server Fault](https://serverfault.com/questions/567320/difference-between-default-and-in-virtualhost-context) - difference between _default_:\* and _:_ in VirtualHost Context
+-   [Dave Child](https://www.cheatography.com/davechild/cheat-sheets/mod-rewrite/) - mod\_rewrite Cheat Sheet
+-   [Stack Overflow](https://stackoverflow.com/questions/11649944/apache-httpd-conf-for-redirecting-ip-to-hostname) - Apache httpd.conf for redirecting ip to hostname
+-   [Apache Docs](http://httpd.apache.org/docs/2.4/mod/core.html#virtualhost) - \[FR\] 🇫🇷 Virtualhost directive in Apache 2.4
+-   [TBS Internet](https://www.tbs-certificats.com/FAQ/fr/284.html) - \[FR\] 🇫🇷 Apache et VirtualHost SSL avec un wildcard ou multi-site
+-   [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - \[FR\] 🇫🇷 Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
+-   [phanan/htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
+-   [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
+-   [AskApache](https://www.askapache.com/htaccess/) - THE Ultimate .htaccess tutorial with 100's of Examples | This is a guide for using htaccess to the fullest. **Bonus** : [Htaccess Files from Github](https://www.askapache.com/htaccess-file/)
+-   [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules

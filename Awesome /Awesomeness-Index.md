@@ -1,6 +1,6 @@
 # Awesomeness-Index
 ---
-[Awesome Custom Search Engines](Awesome%20/Awesome%20Custom%20Search%20Engines.md)
+[Awesome Custom Search Engines](SearchMarks/Awesome%20Custom%20Search%20Engines.md)
 [Awesome Deploy your own](Awesome%20/Awesome%20Deploy%20your%20own.md)
 [Awesome Dev Fun](Awesome%20/Awesome%20Dev%20Fun.md)
 [Awesome Dev Resources](Awesome%20Dev%20Resources.md)

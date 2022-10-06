@@ -35,7 +35,7 @@
 [Academic Resources and Grey Literature](Academic%20Resources%20and%20Grey%20Literature.md)
 [Books and Reading](Books%20and%20Reading.md)
 [Geospatial Research and Mapping Tools](Geospatial%20Research%20and%20Mapping%20Tools.md)
-[News](News.md)
+[News](Awesome%20/Awesome%20OSINT/News.md)
 [News Digest and Discovery Tools](News%20Digest%20and%20Discovery%20Tools.md)
 [Fact Checking](Fact%20Checking.md)
 [Data and Statistics](Data%20and%20Statistics.md)
