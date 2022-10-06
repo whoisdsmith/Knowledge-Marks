@@ -1,0 +1,3 @@
+## Applying for developer jobs
+
+[https://dev.to/emmawedekind/decoding-the-front-end-interview-process-14dl](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://dev.to/emmawedekind/decoding-the-front-end-interview-process-14dl%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228860924%26amp;usg%3DAOvVaw163iaC7soi-8JbOc_VRsoP&sa=D&source=docs&ust=1645230229049663&usg=AOvVaw3VP-n2XA4dwK5DJvTuTdNU)

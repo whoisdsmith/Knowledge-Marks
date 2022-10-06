@@ -1,0 +1,7 @@
+## Web animation / Drawing
+
+[https://svgjs.com/docs/2.7/elements/#svg-circle](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://svgjs.com/docs/2.7/elements/%2523svg-circle%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228491448%26amp;usg%3DAOvVaw3tkEnKgnxWKI0JIEpI6GJR&sa=D&source=docs&ust=1645230228984468&usg=AOvVaw1joLX-nwfTtiyMcFfOYl3i)
+
+[https://www.creativebloq.com/inspiration/css-animation-examples](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.creativebloq.com/inspiration/css-animation-examples%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228492307%26amp;usg%3DAOvVaw3YK3XBxFVNo6-0BaIgxa24&sa=D&source=docs&ust=1645230228984559&usg=AOvVaw3YyYN6Guvx96P7h_6gS5J7)
+
+[https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pc/challenge-simple-snowman](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pc/challenge-simple-snowman%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228493028%26amp;usg%3DAOvVaw0BbgFeeeq0ngyoeI3WywrE&sa=D&source=docs&ust=1645230228984675&usg=AOvVaw1n1C9_nfHJm6EFn7w_jQZe)

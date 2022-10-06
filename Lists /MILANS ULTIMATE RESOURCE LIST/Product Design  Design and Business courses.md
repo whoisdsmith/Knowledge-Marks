@@ -1,0 +1,5 @@
+## Product Design / Design and Business courses 
+
+[https://growth.design](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://growth.design%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228561304%26amp;usg%3DAOvVaw2Q9nAK60G8BHigJu1JXxIX&sa=D&source=docs&ust=1645230228996342&usg=AOvVaw2bXgeQJkMlJ_57C4E-KFnR) — free case studies. Check out Product Psychology Mastery course!
+
+[Strategic Business Thinking for Designers · Second Wave Dive](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.secondwavedive.com/stracademy/designers/strategic-business-thinking-for-designers%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228562229%26amp;usg%3DAOvVaw1ZHwemm0hoNXUg60BhgTJ1&sa=D&source=docs&ust=1645230228996458&usg=AOvVaw0727MJN1XBee14ItlISCt9) — course

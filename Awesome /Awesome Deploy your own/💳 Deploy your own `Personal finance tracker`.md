@@ -1,0 +1,4 @@
+## 💳 Deploy your own `Personal finance tracker`
+- [Firefly III](https://www.firefly-iii.org/) — financial manager to help you keep track of expenses, income, budgets and everything in between. [(GitHub)](https://github.com/firefly-iii/firefly-iii)
+- [Ledger](https://www.ledger-cli.org/) — plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/)
+- [Beancount](https://bitbucket.org/blais/beancount/src/default/) — plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava)

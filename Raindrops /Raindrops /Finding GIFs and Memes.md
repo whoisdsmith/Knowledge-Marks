@@ -1,0 +1,12 @@
+## Finding GIFs and Memes
+- [Gfycat](https://gfycat.com/)
+- [Gifbin](https://www.gifbin.com/)
+- [Finding memes. Best Collection of funny finding pictures on iFunny](https://ifunny.co/tags/finding)
+- [Imgflip](https://imgflip.com/)
+- [Imgur](https://imgur.com/)
+- [Reaction Gifs](https://www.reactiongifs.com/)
+- [Animal GIFsHotHotHot](https://www.reddit.com/r/AnimalGIFs)
+- [r/gifs](https://www.reddit.com/r/gifs)
+- [Reaction GIFS: Your absurd responses to everything.HotHotHot](https://www.reddit.com/r/reactiongifs)
+- [Search GIFs | Tenor](https://tenor.com/search/search-gifs)
+- [GIFs | Tumblr](https://www.tumblr.com/explore/gifs)

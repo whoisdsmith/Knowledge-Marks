@@ -1,0 +1,9 @@
+## For non-Black folks:
+
+[Anti-racism resources for white people](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/u/0/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/mobilebasic?fbclid%253DIwAR0e2clPhNWEyNbIYklfGYzxHI6JqgEGS5Boa9Du5dqitB4hj0uOUYpKqHI%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228874526%26amp;usg%3DAOvVaw242GzArpmqKzO1kTV7nTDG&sa=D&source=docs&ust=1645230229051730&usg=AOvVaw31X6IRyhdGS-elipfKOZJw)
+
+[The Guide to Allyship](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://guidetoallyship.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228875140%26amp;usg%3DAOvVaw0LMX3dO2luQdpzyR5e8veG&sa=D&source=docs&ust=1645230229051829&usg=AOvVaw1K1TyDGcEDRq4OJ0yuZZbd) — open source guide from Amélie Lamont
+
+[A Guide to Allyship (5/28/2020)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1CIfMQED_B444Y-K8kAqUOgq8xrSFdSrjFBRnyK6wmz4/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228875887%26amp;usg%3DAOvVaw2R3yLhw5CBgIUR33PPoiO5&sa=D&source=docs&ust=1645230229051941&usg=AOvVaw1YBOTXK-xl1uu4-NlM0z2z) 
+
+[10 Steps to Non-Optical Allyship](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.instagram.com/p/CA04VKDAyjb/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228876492%26amp;usg%3DAOvVaw0QJ4ivjyINl7ciVdXgdIHh&sa=D&source=docs&ust=1645230229052036&usg=AOvVaw1VqjPAhPS9YlDZrR73dWF9) — by [@mireillecharper](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.instagram.com/mireillecharper/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228876921%26amp;usg%3DAOvVaw1s9JD8Jt4mUMrUL3GOiVD9&sa=D&source=docs&ust=1645230229052116&usg=AOvVaw3HNwdDPvNJ612OGc0SHj9w) (follow her!)

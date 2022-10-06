@@ -1,0 +1,3 @@
+## HLSL
+
+-   [HLSL Tools](https://marketplace.visualstudio.com/items?itemName=TimGJones.hlsltools) - provides rich language support for editing HLSL files in VS Code [![Example of statement completion using HLSL Tools for VS Code](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)

@@ -1,0 +1,5 @@
+## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
+
+> Browse your database inside the vs code editor
+
+[![Browse your database inside the vs code editor animation](https://camo.githubusercontent.com/0539cd08f1971870871295a5cdec68e9a07f6961a53c5d981dba7a96fec75974/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f666e4b39667a503830653759664f374a41712f67697068792e676966)](https://camo.githubusercontent.com/0539cd08f1971870871295a5cdec68e9a07f6961a53c5d981dba7a96fec75974/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f666e4b39667a503830653759664f374a41712f67697068792e676966)

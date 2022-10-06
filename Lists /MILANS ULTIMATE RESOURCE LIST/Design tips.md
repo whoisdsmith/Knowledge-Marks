@@ -1,0 +1,8 @@
+## Design tips
+
+  * Designing a balanced, consistent logo garden: search “[name] logo svg”. Put them all in the same artboard and optically adjust each logo within the artboard so they feel balanced. I usually start by setting a max width for horizontal icons and max height for square/more vertical ones, then adjust if needed. Export artboards as SVGs.
+  * [Check out Figma plugins](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.figma.com/community%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228456956%26amp;usg%3DAOvVaw1Vl1ijduZuJoo01g9cYFH3&sa=D&source=docs&ust=1645230228977764&usg=AOvVaw0_WPunoY2hdWxLq0fyqkMg), they’re super cool
+  * [WebAIM Contrast Checker](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://webaim.org/resources/contrastchecker/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228457727%26amp;usg%3DAOvVaw0zC6VFd-ZabOiJcPPY9MmO&sa=D&source=docs&ust=1645230228977965&usg=AOvVaw3qebcQny1GAwRsS2r_D0JH) — always check your color contrast! You can leverage this in explaining your design decisions with clients 🙌 
+  * More coming soon...if you have any requests, hmu on Twitter [@milanmoffatt](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/milanmoffatt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228458565%26amp;usg%3DAOvVaw3WthSuJuE3BFRn8ZLrRp9f&sa=D&source=docs&ust=1645230228978163&usg=AOvVaw0KDvst5YFXKxmZLD2s69j6) :~)
+
+⌨️ Coding

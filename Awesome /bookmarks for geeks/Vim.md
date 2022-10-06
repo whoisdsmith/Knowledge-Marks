@@ -1,0 +1,86 @@
+## Vim
+
+-   [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
+-   [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
+-   [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim
+-   [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
+-   [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
+-   [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
+-   ⭐ [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
+-   [Daniel Miessler](https://danielmiessler.com/study/vim/) - A vim Tutorial and Primer
+-   ⭐ [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used in Vim through [ALE](https://github.com/w0rp/ale), [Neomake](https://github.com/neomake/neomake), or [Syntastic](https://github.com/vim-syntastic/syntastic)
+-   [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - The NERDTree is a file system explorer for the Vim editor.
+-   [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
+-   [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
+-   [Josh Reichardt](https://thepracticalsysadmin.com/useful-vim-plugins/) - Useful Vim Plugins
+-   [Fred Hébert](https://ferd.ca/vim-and-composability.html) - Vim and Composability
+-   [Ian Langworth](https://statico.github.io/vim3.html) - Vim After 15 Years
+-   [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - YouCompleteMe : A code-completion engine for Vim **Bonus** : [website](http://valloric.github.io/YouCompleteMe/)
+-   [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - awesome list of tips and resources for Vim
+-   [Roger Guldbrandsen](https://kinbiko.com/vim/my-shiniest-vim-gems/) - (2017) Vim: My Shiniest Gems
+-   [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-koans/) - (2016) Vim Koans
+-   [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
+-   [Tom Ryder](https://sanctum.geek.nz/arabesque/shell-from-vi/) - (2017) Shell from vi
+-   [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-anti-patterns/) - (2012) Vim anti-patterns
+-   [Why vi Rocks](https://why-vi.rocks/) - a collection of commands, command sequences which make vi rock
+-   [Vim Tips Wiki](https://vim.fandom.com/wiki/Highlight_unwanted_spaces) - (2003) Highlight unwanted spaces
+-   [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
+-   [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - Use cheat.sh from VIM
+-   [Vincent Danen](https://www.techrepublic.com/blog/linux-and-open-source/using-vi-key-bindings-in-bash-and-zsh/) - (2008) Using vi key bindings in bash and zsh
+-   [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - Solarized Colorscheme for Vim
+-   [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/vim.md) - My cheatsheet for Vim
+-   [Samuel Walladge](https://www.swalladge.net/archives/2018/06/11/why-vim-2018/) - (2018) Why vim is a solid code editor for 2018
+-   [Lucas Fernandes da Costa](http://lucasfcosta.com/2017/01/23/Quick-vIM-Tips-That-Will-Save-Your-Life.html) - (2017) Quick vIM Tips That Will Save Your Life
+-   [Joe Nelson aka begriffs](https://begriffs.com/posts/2019-07-19-history-use-vim.html) - (2019) History and effective use of Vim
+-   [Alexander Vasilyevich Dzyoba](https://alex.dzyoba.com/blog/vim-revamp/) - (2019) How I revamped my Vim setup
+-   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Gorgeous ways to exit Vim :-D (it goes beyond what you expect)
+-   [George Ornbo](https://shapeshed.com/vim-netrw/) - (2019) Vim: you don't need NERDtree or (maybe) netrw
+-   [Dimitri Merejkowsky](https://dmerej.info/blog/post/lets-have-a-pint-of-vim-ale/) - (2017) Let's have a pint of (vim) ale! | Write a custom language linter for ale
+-   [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
+-   [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
+-   [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
+-   [VimTricks Archives](https://vimtricks.substack.com/archive) - Vim tricks, tips, plugins, recipes, and more. Learn valuable tips to hone your Vim skills - either novice or advanced!
+-   [Alexander González Fertel](https://alexfertel.hashnode.dev/vim-is-actually-worth-it) - (2021) Vim is actually worth it
+-   [romainl/vim-gists.md](https://gist.github.com/romainl/4b9f139d2a8694612b924322de1025ce) - Vim-related gists
+-   [Matthieu Cneude](https://thevaluable.dev/vim-advanced/) - A Vim Guide for Advanced Users
+-   [Matthieu Cneude](https://thevaluable.dev/vim-expert/) - A Vim Guide For Experts
+-   [Vimways](https://vimways.org/) - is a Vim-themed advent calendar. Largely inspired by the early [24ways](https://24ways.org/), their primary goal is to publish one high quality article about Vim per day during the twenty-four days before Christmas.
+-   [Danilo Spinella](https://danyspin97.org/blog/fancy-vim-plugins/) - (2018) Fancy Vim Plugins
+
+-   [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
+-   [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
+-   [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
+-   [Hanxue Lee](http://flummox-engineering.blogspot.com/2016/01/installing-jenkins-os-x-homebrew.html) - (2016) Installing Jenkins on OS X using Homebrew
+-   [MacAdmins on Slack](https://macadmins.herokuapp.com/) - Place where many of OS X Admins belong
+-   [OS X Daily](http://osxdaily.com/2011/09/26/show-package-contents-unavailable-extract-pkg-files-without-installing-them/) - (2011) Command line : Extract .pkg Files Without Installing Them
+-   [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - (2013) Mount \* [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X Unmount Drives from the Command Line in Mac OS X
+-   [Apple Support](https://support.apple.com/en-us/HT201236) - Mac keyboard shortcuts
+-   [Randall Wood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
+-   [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+-   [Vinod Yalburgi](http://www.ibtimes.co.uk/how-install-os-x-yosemite-new-partition-dual-boot-mavericks-1451812) - How to Install OS X Yosemite on New Partition and Dual-Boot with Mavericks
+-   [Christian Zibreg](http://www.idownloadblog.com/2015/09/14/how-to-start-up-mac-from-bootable-media/) - (2015) How to start up your Mac from a bootable CD/DVD, USB thumb drive or external storage device
+-   [Daniel Miessler](https://danielmiessler.com/blog/8-powerful-features-of-safari-that-few-people-know-about/) - 8 Powerful Features of Safari That Few People Know About
+-   [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - (2014) OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
+-   [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - (2015) Jenkins Remote Node on Mac OS X
+-   [Praval Singh](http://praval.com/2015/10/your-mac-is-probably-eating-your-internet-bandwidth-look-for-nsurlsessiond/) - (2015) Your Mac is probably eating your Internet bandwidth (and you don’t know about it!). **Bonus** : other links on the subject : [1](https://paulromer.net/iot-nsurlsessiond-and-trust/) [2](https://ayteck.blogspot.be/2015/09/limited-bandwidth-apple-and-hell-caused.html) [3](https://discussions.apple.com/thread/6605949?tstart=0) [4](https://theblogmatic.wordpress.com/2015/11/26/solution-nsurlsessiond-taking-up-bandwidth-and-downloading-data-mac/)
+-   [Wesley Moore](http://bitcannon.net/post/finding-an-alternative-to-mac-os-x/) - Finding an Alternative to Mac OS X
+-   [Kevin Burke](https://kev.inburke.com/kevin/install-homebrew-go/) - Make your Go Binaries Homebrew Installable
+-   [Rich Trouton](https://derflounder.wordpress.com/2014/02/16/managing-the-authorization-database-in-os-x-mavericks/) - (2014) Managing the Authorization Database in OS X Mavericks | and probably for later versions too
+-   [Yubico Support](https://support.yubico.com/support/solutions/articles/15000015045-macos-logon-tool-configuration-guide) - macOS Logon Tool Configuration Guide : Enable Yubico 2FA at macOs login screen and for screensaver
+-   [OSXDaily](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/) - (2017) How to Use Touch ID to Authenticate sudo on Mac OS
+-   [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
+-   [sghiassy](https://gist.github.com/sghiassy/a3927405cf4ffe81242f4ecb01c382ac) - How to disable Device Enrollment Notification on Mac / Comment se débarrasser de la notification pour "Inscription du Périphérique" sur Mac
+-   [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/macos.md) - My cheatsheet for MacOS
+-   [kentcdodds](https://github.com/kentcdodds/dotfiles/blob/master/.macos) - Shared dotfiles for MacOS
+-   [Apple Docs](https://support.apple.com/en-us/HT204895) - Use Multi-Touch gestures on your Mac
+-   [Spencer Heywood aka heywoodlh](https://the-empire.systems/linux-macos-setup) - (2020) My "Linux-like" MacOS Setup | finally some inspiration and concrete solution to the mess of managing GUI apps with Nix on MacOS.
+
+> Tools
+
+-   [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
+-   [Lucas Hall](https://opensource.com/article/17/5/8-open-source-tools-managing-macos) - 8 open source tools for managing macOS
+-   [Apple](https://developer.apple.com/downloads/index.action) - Downloads for Apple Developers / useful to find old tools / OS versions
+-   [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
+-   [Adrian Hesketh](https://adrianhesketh.com/2020/07/03/mac-setup-with-nix-darwin/) - (2020) Using Nix to set up my new Mac
+-   [Mathias Polligkeit](https://www.mathiaspolligkeit.de/dev/exploring-nix-on-macos/) - (2020) Dev Environment Setup With Nix on MacOS
+-   [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix

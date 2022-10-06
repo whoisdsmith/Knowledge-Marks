@@ -1,0 +1,5 @@
+## [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
+
+> Atom-like git indicators on active panel
+
+[![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png) [![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png) [![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)

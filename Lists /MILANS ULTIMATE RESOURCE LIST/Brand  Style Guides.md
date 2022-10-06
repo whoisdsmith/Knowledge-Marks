@@ -1,0 +1,19 @@
+## Brand / Style Guides
+
+[https://www.canva.com/learn/50-meticulous-style-guides-every-startup-see-launching/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/learn/50-meticulous-style-guides-every-startup-see-launching/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228751233%26amp;usg%3DAOvVaw3YJZ-jcB6upA0rzc5anTcw&sa=D&source=docs&ust=1645230229031116&usg=AOvVaw1ll9SCSSWlSi0A1H5HcVJI)
+
+[http://styleguides.io/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://styleguides.io/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228752062%26amp;usg%3DAOvVaw3s_oRJCg2CpIjw5m8hPbbF&sa=D&source=docs&ust=1645230229031213&usg=AOvVaw0W0zh62Ucs9Ek91q9ElryD) — more UI/web style guide resource rather than brand
+
+[https://www.smashingmagazine.com/2010/07/designing-style-guidelines-for-brands-and-websites/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.smashingmagazine.com/2010/07/designing-style-guidelines-for-brands-and-websites/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228752918%26amp;usg%3DAOvVaw3LnrLcecnAUHn6xkovuQMK&sa=D&source=docs&ust=1645230229031327&usg=AOvVaw1tGVXDdQgp0KrVJIaQAt9T)
+
+[https://uxcellence.com/2017/design-systems-style-guides-pattern-libraries](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://uxcellence.com/2017/design-systems-style-guides-pattern-libraries%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228753450%26amp;usg%3DAOvVaw2DExXqbARqilRA3lrFhQX_&sa=D&source=docs&ust=1645230229031431&usg=AOvVaw0_eGG4OmmSosXJp0hDmG7i) ★ — very good breakdown of difference between design system, style guide, pattern library
+
+create a copy style guide [https://blog.markgrowth.com/how-to-create-a-copy-style-guide-in-90-minutes-af1046c60aab](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://blog.markgrowth.com/how-to-create-a-copy-style-guide-in-90-minutes-af1046c60aab%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228754447%26amp;usg%3DAOvVaw1qrd5bBJ79x4q0dGLHELfy&sa=D&source=docs&ust=1645230229031682&usg=AOvVaw20fLpXEgnYdux4DuoJIT2b) ★
+
+pure inspo [https://medium.muz.li/style-guide-inspirations-dfb77c4bb13b?_hsenc=p2ANqtz-9vtbelRX12veOWvZHA1xvBm17mO4nG5_AMettWaOWUkty69gYVb05rOjaEkZNsolAoC8W9yIhZPmMW9MMbYDNLIxY9Vw&_hsmi=26093373](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://medium.muz.li/style-guide-inspirations-dfb77c4bb13b?_hsenc%253Dp2ANqtz-9vtbelRX12veOWvZHA1xvBm17mO4nG5_AMettWaOWUkty69gYVb05rOjaEkZNsolAoC8W9yIhZPmMW9MMbYDNLIxY9Vw%2526_hsmi%253D26093373%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228756334%26amp;usg%3DAOvVaw3WImfNnsBYbIuEsgomI1fm&sa=D&source=docs&ust=1645230229031981&usg=AOvVaw2hJBwGpKd6KJgt2qCC29Nd)
+
+lots of PDFs of brand identity style guide examples [https://www.logodesignlove.com/brand-identity-style-guides](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.logodesignlove.com/brand-identity-style-guides%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228757181%26amp;usg%3DAOvVaw0n7FoyGSKwkcEy37GamVCa&sa=D&source=docs&ust=1645230229032212&usg=AOvVaw0eLpn-0UNkJIgEmHu-z09x)
+
+voice, tone + content guide [http://voiceandtoneguides.webflow.io/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://voiceandtoneguides.webflow.io/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228758181%26amp;usg%3DAOvVaw0hxalr-CK2KlsMw7bZOAqa&sa=D&source=docs&ust=1645230229032390&usg=AOvVaw1fHEAvPBAPnJLYkt13_wTf)
+
+[https://styleguide.mailchimp.com/voice-and-tone/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://styleguide.mailchimp.com/voice-and-tone/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228758934%26amp;usg%3DAOvVaw2mxnyJcNTN33qY-0I4etAF&sa=D&source=docs&ust=1645230229032488&usg=AOvVaw2ursQcGaA5x8SE_nY5Hp5h)

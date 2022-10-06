@@ -1,0 +1,7 @@
+## Dev
+
+FREE  [Free Web Development Bootcamp — Class Central](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.classcentral.com/report/webdev-bootcamp/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228513942%26amp;usg%3DAOvVaw2MIGRVoot3Ai0mEh36pN0h&sa=D&source=docs&ust=1645230228987689&usg=AOvVaw3gpDEOWirzp5-uqJZfMgpY) — online taught by Jessica Rose, starting on Aug 23, 2021. Check it out!
+ FREE  [https://www.freecodecamp.org/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.freecodecamp.org/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228514710%26amp;usg%3DAOvVaw3ytyLk1A3TA0wEexGf9gJZ&sa=D&source=docs&ust=1645230228987792&usg=AOvVaw3g9xE9FkI-hTdiTR0U2Uiq) 
+  * Take this first: [Responsive Web Design (HTML & CSS)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.freecodecamp.org/learn/responsive-web-design/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228515317%26amp;usg%3DAOvVaw0PzRsnYkpQzD9OVAdQQzhM&sa=D&source=docs&ust=1645230228987895&usg=AOvVaw246K0Ws9g6tF3ts19G19Re)
+  * Then, take this:  
+FREE  [https://www.wcd.school/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.wcd.school/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228516080%26amp;usg%3DAOvVaw2n2RIMEu-auWo9PEad164w&sa=D&source=docs&ust=1645230228988022&usg=AOvVaw3p1LZEzcpWt8UbZq-8jLX-) — a college-level, tuition-free, design school with a peer-to-peer learning environment. For English-speaking African designers from and in Africa, ages 18-35 🌍

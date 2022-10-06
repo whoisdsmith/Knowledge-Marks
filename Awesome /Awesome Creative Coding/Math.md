@@ -1,0 +1,35 @@
+## Math
+
+-   [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
+-   [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
+-   [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+-   [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
+-   [Learning Maths again](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+-   [Eases](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
+-   [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
+-   [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix multiplication visualized.
+-   [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
+-   [Immersive Math](http://immersivemath.com/ila/index.html) - Fully interactive linear algebra.
+-   [Image Kernels](http://setosa.io/ev/image-kernels/) - Interactive and visual introduction to image kernels.
+-   [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explination of sine and cosine.
+-   [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) - Perlin noise explained in detail.
+-   [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
+-   [Desmos](https://www.desmos.com/) - Graph functions, plot data, evaluate equations, explore transformations, and much more.
+-   [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - Math for game developers YouTube playlist.
+-   [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra YouTube playlist.
+-   [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
+-   [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) - Beautiful and visual introduction to math and quasi physics.
+-   [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) - introduction to 2D and 3D perlin noise.
+-   [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
+-   [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) - List of all mathematical symbols and signs.
+-   [The magnificent 2d matrix](http://ncase.me/matrix/) - Interactive tool to better understand transformation matrices.
+-   [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) - JavaScript math snippets for movement.
+-   [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths cheat-sheet for 2D and 3D game-makers.
+-   [Tiny 3D](https://cantelope.org/tiny_3D/) - The smallest possible perspective engine on a 2D canvas.
+-   [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) - Introduction to matrices by Greg Tatum.
+-   [Making Things With Maths](https://acko.net/tv/wdcode/) - Talk by Steven Wittens about bezier curves, procedural generation, physics engines and fractals.
+-   [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulars and code.
+-   [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
+-   [L-systems](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
+-   [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
+-   [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - In-depth article on vectors for game math.

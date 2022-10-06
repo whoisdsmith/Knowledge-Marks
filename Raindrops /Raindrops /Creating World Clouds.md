@@ -1,0 +1,12 @@
+## Creating World Clouds
+- [GitHub - jasondavies/d3-cloud: Create word clouds in JavaScript.](https://github.com/jasondavies/d3-cloud)
+- [Infogram](https://infogram.com/)
+- [TagCrowd](https://tagcrowd.com/)
+- [Vizzlo.com](https://vizzlo.com/)
+- [WordArt](https://wordart.com/)
+- [Word Cloud Generator](https://www.jasondavies.com/wordcloud)
+- [Free Word Cloud Generator – ResultsFree Word Cloud Generator – MonkeyLearn](https://monkeylearn.com/word-cloud)
+- [wordclouds.com](https://www.wordclouds.com/)
+- [Create word clouds – WordItOut](https://worditout.com/word-cloud/create)
+- [Wordle](https://www.wordle.net/)
+- [WordSift](https://wordsift.org/)

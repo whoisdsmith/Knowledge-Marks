@@ -1,0 +1,20 @@
+## CLI
+- [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
+- [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
+- [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers.
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
+- [fat](https://github.com/drummyfish/fat) - Expand your files.
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+- [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
+- [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
+- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH.
+- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+- [cmatrix](https://github.com/abishekvashok/cmatrix) - Make it digital rain in your terminal like The Matrix.
+- [Gosleap](https://github.com/koriroys/gosleap) - Make Ryan Gosling jump across your screen.
+- [nSnake](https://github.com/alexdantas/nSnake) - Snake game in terminal!
+- [tra.sh](https://github.com/Indexerrowaty/tra.sh) - tra.sh in your terminal!

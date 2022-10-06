@@ -1,0 +1,5 @@
+## Book Design
+
+[https://indesignsecrets.com/getting-accurate-colors-when-printing-proofs-from-indesign.php](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://indesignsecrets.com/getting-accurate-colors-when-printing-proofs-from-indesign.php%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228727047%26amp;usg%3DAOvVaw066gLDDsF1DcC9hXv5mEax&sa=D&source=docs&ust=1645230229027522&usg=AOvVaw3qgZmUKJ4l8kzLm7K1hYYK)
+
+[https://indesignsecrets.com/incopy-book-publishers-workflow-management.php](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://indesignsecrets.com/incopy-book-publishers-workflow-management.php%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228727745%26amp;usg%3DAOvVaw1b4PmAAxtBHnJjc5bDJG3i&sa=D&source=docs&ust=1645230229027716&usg=AOvVaw3CZPwv2V5pUMemXqzl7qAy)

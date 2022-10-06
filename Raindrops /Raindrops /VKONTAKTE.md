@@ -1,0 +1,17 @@
+## VKONTAKTE
+- [small tool to retreive vk.com (vkontakte) users hidden metadata (state, access, dates, counts, etc) anonymously (without login)](https://gist.github.com/cryptolok/8a023875b47e20bc5e64ba8e27294261)
+- [Поиск сообществ](https://vk.com/communities)
+- [Поиск людей](https://vk.com/people)
+- [ВКонтакте RSS](http://vk-to-rss.appspot.com/)
+- [Фонарик. Таргетинг Вконтакте. Аналог Церебро-таргет.](http://spotlight.svezet.ru/)
+- [ТаргетоLOG — уникальный инструмент таргетирования](http://targetolog.com/)
+- [Шпион ВКонтакте](http://vk5.city4me.com/)
+[WiFi & internet connectivity](WiFi%20&%20internet%20connectivity.md)## VKONTAKTE
+- [small tool to retreive vk.com (vkontakte) users hidden metadata (state, access, dates, counts, etc) anonymously (without login)](https://gist.github.com/cryptolok/8a023875b47e20bc5e64ba8e27294261)
+- [Поиск сообществ](https://vk.com/communities)
+- [Поиск людей](https://vk.com/people)
+- [ВКонтакте RSS](http://vk-to-rss.appspot.com/)
+- [Фонарик. Таргетинг Вконтакте. Аналог Церебро-таргет.](http://spotlight.svezet.ru/)
+- [ТаргетоLOG — уникальный инструмент таргетирования](http://targetolog.com/)
+- [Шпион ВКонтакте](http://vk5.city4me.com/)
+[WiFi & internet connectivity](WiFi%20&%20internet%20connectivity.md)

@@ -1,0 +1,5 @@
+## [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+
+> Allows users to open any folder in a container, on a remote machine, container or in Windows Subsystem for Linux(WSL) and take advantage of VS Code's full feature set.
+
+[![Remote SSH extension at work](https://camo.githubusercontent.com/ad2ee49fe9be49e107f1f7d953b1de4f49b92b9d34c5bb0ecc9f28a2a0ed0a8f/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f7673636f64652d72656d6f74652d72656c656173652f696d616765732f7373682d726561646d652e676966)](https://camo.githubusercontent.com/ad2ee49fe9be49e107f1f7d953b1de4f49b92b9d34c5bb0ecc9f28a2a0ed0a8f/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f7673636f64652d72656d6f74652d72656c656173652f696d616765732f7373682d726561646d652e676966)

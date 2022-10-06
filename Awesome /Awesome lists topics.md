@@ -76,7 +76,7 @@ ___
 
 Just type [`awesome.re`](https://awesome.re/) to go here. Check out my [blog](https://blog.sindresorhus.com/) and follow me on [Twitter](https://twitter.com/sindresorhus).
 
-# [[Awesome]]
+# [[AWESOME]]
 
 
   

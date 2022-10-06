@@ -1,0 +1,11 @@
+## Process / Case Studies
+
+[https://www.casestudy.club](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.casestudy.club%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228629313%26amp;usg%3DAOvVaw1jFC54QfUlYXUkvmfs25As&sa=D&source=docs&ust=1645230229009569&usg=AOvVaw3XtHYRpAdU9CL7TQZG8Ogz) ★
+
+[https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228629776%26amp;usg%3DAOvVaw2kNn7SLwLPfpqlFisBEyXq&sa=D&source=docs&ust=1645230229009673&usg=AOvVaw3o7f-a3JUzGgjdrypsfiJ6)
+
+[https://blog.prototypr.io/intro-to-user-experience-design-4-factors-to-consider-to-improve-your-design-to-developer-handoff-d7db3de35948](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://blog.prototypr.io/intro-to-user-experience-design-4-factors-to-consider-to-improve-your-design-to-developer-handoff-d7db3de35948%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228630277%26amp;usg%3DAOvVaw2GRDobswaGcMJXYlN9Xv19&sa=D&source=docs&ust=1645230229009778&usg=AOvVaw3qaBxZLnJ1ja3FET3iY8pA)
+
+[https://www.invisionapp.com/inside-design/decreasing-friction-design-development-handoff/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.invisionapp.com/inside-design/decreasing-friction-design-development-handoff/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228630808%26amp;usg%3DAOvVaw3jMLHPxWwuZ43CVDXSVU_9&sa=D&source=docs&ust=1645230229009882&usg=AOvVaw3Nzl-icsSLoQsqEZfQLnF0)
+
+[https://blog.sydneydesigners.co/tips-for-designers-developers-working-together-to-implement-great-uis-e93ef179bf13](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://blog.sydneydesigners.co/tips-for-designers-developers-working-together-to-implement-great-uis-e93ef179bf13%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228631302%26amp;usg%3DAOvVaw07nxJj6yw6TmgdpJ4V3O_l&sa=D&source=docs&ust=1645230229009980&usg=AOvVaw3aUSxLigAIIG0EeW5s39Ou)

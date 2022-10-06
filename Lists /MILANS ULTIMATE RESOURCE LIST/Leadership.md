@@ -1,0 +1,9 @@
+## Leadership
+
+[How To Take Charge Of A UX Kickoff Meeting — Smashing Magazine](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.smashingmagazine.com/2016/04/how-to-take-charge-of-a-ux-kickoff-meeting/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228801077%26amp;usg%3DAOvVaw17aw12EhAQqRdFE3nyHvrT&sa=D&source=docs&ust=1645230229039345&usg=AOvVaw1aDRPG5QFB23dlWEMhHQ2r)
+
+[The most important steps to becoming a great design leader](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.invisionapp.com/inside-design/most-important-steps-becoming-great-design-leader/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228801701%26amp;usg%3DAOvVaw10ffSkd-wNCRG_M4kYaTwH&sa=D&source=docs&ust=1645230229039440&usg=AOvVaw1GOzOqeniez42wkU-h0q2p)
+
+[How we approach 1:1s with the technical team at Playground Inc. and how you can too](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://medium.com/playgroundinc/how-we-approach-1-1s-with-the-technical-team-at-playground-inc-and-how-you-can-too-6de7b7f4ed4a%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228802496%26amp;usg%3DAOvVaw2uvU-j_5HaxZCspS_N84qV&sa=D&source=docs&ust=1645230229039565&usg=AOvVaw0IoCVYXwd0H8_uwWGvoCWB)
+
+[https://staff.design/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://staff.design/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228803208%26amp;usg%3DAOvVaw3fm4eQReBQY4t6PlGkV8wr&sa=D&source=docs&ust=1645230229039674&usg=AOvVaw1lyBO8adWgMjMYNIgKPXRj) — collection of interview with designers exploring how product designers navigate the individual contributor (IC) path to its highest levels

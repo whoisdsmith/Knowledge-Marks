@@ -1,0 +1,51 @@
+## App discovery
+
+-   [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : ⭐ [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
+-   ⭐ [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
+-   ⭐ [**AlternativeTo**](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
+-   ⭐ [**Privacy tools**](https://www.privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
+-   [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
+-   [Similarsites](http://www.similarsites.com/) - easily find similar websites
+-   [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
+-   [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
+-   [AppRecs](https://apprecs.com/) - app search engine
+-   [StumbleUpon](https://www.stumbleupon.com/) - discover the best of the web, one click at a time. This service learns what you like and brings you more like it
+-   [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
+-   [The Useless Web](http://www.theuselessweb.com/) - Take you to another random useless website
+-   ⭐ [**Discuvver**](https://www.discuvver.com/) - Take you to one random useful website
+-   [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
+-   [Stack Exchange](https://softwarerecs.stackexchange.com/) - Software Recommendations Stack Exchange
+-   [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
+-   [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
+-   [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources.
+-   [DARK MODE LIST](https://www.darkmodelist.com/) - A List of Apps That Support Dark Mode and many other...
+-   [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
+-   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
+-   [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+-   [SourceForge](https://sourceforge.net/) - offers a huge choice of excellent, FREE software in virtually every field of computing
+-   [Siftery](https://siftery.com/trending) - Trending products | explore softwares others people are using at work
+-   [Libraries.io](https://libraries.io/) - discovers millions open source libraries accros +36 package managers
+-   [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
+-   [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
+-   [switching.social](https://switching.social/) - ethical, easy-to-use and privacy-conscious alternatives to popular sites and apps
+-   [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
+-   [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
+-   ⭐ [**ThoughtWorks**](https://www.thoughtworks.com/radar/tools) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
+-   [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
+-   [Good Reports](https://goodreports.com/) - There are alternatives to the toxic Big Tech monopolies, and it's important to make the right choices: both to have a better experience online, and to support the teams making superior tools. Good Reports was started in October 2020 to raise awareness about better online tools.
+-   [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software
+-   [Reddit Favorites](https://redditfavorites.com/android_apps) - What are reddit's favorite Android apps? | From 3.5 billion comments (number from Sept. 13, 2021)
+-   [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
+-   [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
+-   [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
+-   [No More Google](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you
+-   [Framalibre](https://framalibre.org/alternatives) - 🇫🇷 \[FR\] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
+-   [Framalibre](https://framalibre.org/annuaires/logiciel) - 🇫🇷 \[FR\] Découvrez des logiciels libres
+-   [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
+-   [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
+-   [tryLiberty.org](https://tryliberty.org/about) - is a way to join the Fediverse, to be part of a community, and to reclaim your freedom of speech in social media. Find here free, open source and privacy respecting services and alternatives to privative services.
+-   [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
+-   [Privacy Guides](https://www.privacyguides.org/) - Look at the [Providers](https://www.privacyguides.org/providers/) and [Software](https://www.privacyguides.org/software/) sections to find their privacy first recommendations to a variety of services.
+-   [European alternatives](https://european-alternatives.eu/) - European alternatives for digital products | find european alternatives for digital service and products, like cloud services and SAAS products.
+-   [Random-ize](https://www.random-ize.com/random-website/) - Weird, Odd, Funny and Interesting Websites | Bored with the web? Think you've seen it all? Surf the web a new way with this random website generator. Bounce around thousands of crazy, pointless, funny, intereractive, informative and interesting webistes made by the most odd people online. And that says something.
+-   [/uses](https://uses.tech/) - A list of `/uses` pages detailing developer setups, gear, software and configs.

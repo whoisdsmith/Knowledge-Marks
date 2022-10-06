@@ -1,0 +1,5 @@
+## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+> Highlight web colors in your editor
+
+[![Highlight web colors in your editor screenshot](https://camo.githubusercontent.com/0bbb1b95c17ae58a46b71623b66727bcb54e29b365085badd1281658af2d8ec9/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a5a7745374f484b52356f707644434a4a4f77394b65512e706e67)](https://camo.githubusercontent.com/0bbb1b95c17ae58a46b71623b66727bcb54e29b365085badd1281658af2d8ec9/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a5a7745374f484b52356f707644434a4a4f77394b65512e706e67)

@@ -1,0 +1,5 @@
+## Design Books
+
+My Are.na board of [Design Books for Beginners](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.are.na/milan-moffatt/design-books-for-beginners%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228534223%26amp;usg%3DAOvVaw3cXK-WojGen6OJViwXSoRS&sa=D&source=docs&ust=1645230228991381&usg=AOvVaw1ZSdbU-o31lz2FG3vsULbn) ★
+
+[The Design Bookshelf](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://thedesignbookshelf.superhi.com/?goal%253D0_01cde0de1a-b4dc84c7c0-331683118%2526mc_cid%253Db4dc84c7c0%2526mc_eid%253D4e270e75bb%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228534793%26amp;usg%3DAOvVaw0UqA0lMYNhAhKUyCQzcHoP&sa=D&source=docs&ust=1645230228991564&usg=AOvVaw0s-6RqkYU4SdnWhpB6-Sna) — A list of reading resources on various design topics (made by SuperHi student [Cassandra](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.cassandratang.me/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228535203%26amp;usg%3DAOvVaw0h0sGV9zZzH1kH0iC28JnH&sa=D&source=docs&ust=1645230228991680&usg=AOvVaw2LYCLduTW8uZ2M96ZD1ThW) 💕)

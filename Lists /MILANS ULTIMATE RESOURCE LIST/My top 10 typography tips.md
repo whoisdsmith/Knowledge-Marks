@@ -1,0 +1,12 @@
+## My top 10 typography tips:
+
+  * Establish sizes for a hierarchy H1-H6, links, and body text without using any color. then, apply color/font weight/text decoration/letter spacing etc. to text and links as needed to convey functionality or a certain purpose e.g. I see students underline things that aren’t clickable, but it looks like a link
+  * Try to use as few type styles as possible for consistency. Setting up a type system before designing will help. I often see students using 3 different sizes for body copy, 2 different colors for links and 5 heading sizes... your designs will look better and your user will learn how to navigate through your site better if things are consistent!
+  * To set up your type sizes and hierarchy, you can get started with a type scale tool like [modularscale.com](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.modularscale.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228722976%26amp;usg%3DAOvVaw2RoxozCkMhFJ8qXq_NSazX&sa=D&source=docs&ust=1645230229026703&usg=AOvVaw3QnHlgkcePXM9vZV7Kk0xt) or [type-scale.com](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://type-scale.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228723499%26amp;usg%3DAOvVaw1xEKHAuxHoNGzClx_h7neg&sa=D&source=docs&ust=1645230229026784&usg=AOvVaw1ImakBkQ6V8sGeGK2sjO0L)
+  * Avoid using display fonts for body copy or things longer than a sentence or two
+  * Left align text longer than a sentence or two for readability. You shouldn’t center paragraph text, and [“say no to justification on the web”](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://designforhackers.com/blog/justify-text-html-css/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228724665%26amp;usg%3DAOvVaw3i3QoWQl9Xe5HHJSEY5h9x&sa=D&source=docs&ust=1645230229026998&usg=AOvVaw2Tuo8I4klzt26Csj37jnPI)! Just don’t do it.
+  * Body copy should be at least 16px, 18-21px is even better.
+  * Give body copy line-height of 1.2-1.5 at least for legibility. To meet W3C accessibility guidelines “Line height is at least space-and-a-half within paragraphs—that’s 150%.”
+  * Longer line lengths = more line height, short line lengths = less
+  * Headings tend to be larger and bolder than other elements to stand out. A good way to think about type hierarchy is: what needs to stand out most on the page?
+  * Pair a serif with a sans, sans with sans, but be careful with serif and serif unless you know what you’re doing and have a vision lol

@@ -1,0 +1,5 @@
+## File Backup Tools
+
+[Cloning Tools](https://github.com/SpamVerse/Piratezparty/blob/main/Cloning-Tools.md), [BackupPC](https://backuppc.github.io/backuppc/), [TeraCopy](https://www.codesector.com/teracopy), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [Paragon](https://www.paragon-software.com/free/br-free/), [ZPaq](http://mattmahoney.net/dc/zpaq.html), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/), [Aomei](https://www.ubackup.com/), [Veeam](https://www.veeam.com/), [Duplicati](https://www.duplicati.com/), [Borg](https://www.borgbackup.org/), [USBImager](https://bztsrc.gitlab.io/usbimager/)
+
+***

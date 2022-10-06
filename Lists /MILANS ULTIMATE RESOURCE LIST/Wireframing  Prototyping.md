@@ -1,0 +1,13 @@
+## Wireframing / Prototyping
+
+[http://principlerepo.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://principlerepo.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228762673%26amp;usg%3DAOvVaw0i2nuk0RFijmVf2M6ansAJ&sa=D&source=docs&ust=1645230229032938&usg=AOvVaw2VdSXISDl_5QNiH30fr9li)  
+[http://principletemplates.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://principletemplates.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228763123%26amp;usg%3DAOvVaw1t7FBG-o3s8HBtGHD65Enu&sa=D&source=docs&ust=1645230229033016&usg=AOvVaw3-7oviiNr1aj_6h4Yho6eF)
+
+Articles:  
+[The modern web design process: creating sitemaps and wireframes](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://webflow.com/blog/the-modern-web-design-process-creating-sitemaps-and-wireframes%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228764088%26amp;usg%3DAOvVaw16VX-f_OY_Cn7KkH1AGZ5p&sa=D&source=docs&ust=1645230229033141&usg=AOvVaw2RhmS7k47wvGXlA-Iiw9cl) ★
+
+[How to Create a Wireframe — A Beginner's Guide to Wireframing](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.invisionapp.com/inside-design/how-to-wireframe/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228764869%26amp;usg%3DAOvVaw2bJT-t67taYmnorRax0mWV&sa=D&source=docs&ust=1645230229033248&usg=AOvVaw211rfEWQFNhl-T48lQfC8i)
+
+[https://www.invisionapp.com/inside-design/search?q=wireframing](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.invisionapp.com/inside-design/search?q%253Dwireframing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228765558%26amp;usg%3DAOvVaw3dy7YDpJYTAgAoxOtW0eBe&sa=D&source=docs&ust=1645230229033350&usg=AOvVaw0QVDmezOEeZD0-b3E0wjce) [https://uxdesign.cc/wireframes-flows-personas-and-beautifully-crafted-ux-deliverables-for-your-inspiration-bb7a8d99af62](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://uxdesign.cc/wireframes-flows-personas-and-beautifully-crafted-ux-deliverables-for-your-inspiration-bb7a8d99af62%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228766295%26amp;usg%3DAOvVaw3nsQMJQ5Y-7AscINfm__ab&sa=D&source=docs&ust=1645230229033461&usg=AOvVaw192xvoFYNXY6RwzjOmFnku)
+
+another good article on wireframing vs. prototyping and how they compare: [https://www.invisionapp.com/inside-design/wireframe-prototype-difference](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.invisionapp.com/inside-design/wireframe-prototype-difference%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228767333%26amp;usg%3DAOvVaw1PcTp8g_KSVigCLIkYiPwa&sa=D&source=docs&ust=1645230229033671&usg=AOvVaw2tXjxniz062hb4EWx9Y_58) ★

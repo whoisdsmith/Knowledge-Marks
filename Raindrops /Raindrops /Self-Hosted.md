@@ -1,0 +1,18 @@
+## Self-Hosted
+- ["aaPanel - Free and Open source Hosting control panel. One-click LAMP/LEMP.](https://www.aapanel.com/new/index.html)
+- [Middleman: Hand-crafted frontend development](https://middlemanapp.com/)
+- [Static Site Boilerplate](https://staticsiteboilerplate.com/)
+- [Staticman](https://staticman.net/)
+- [Apiscp](https://www.apiscp.com/)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Firefiles](https://firefiles.vercel.app/?ref=producthunt)
+- [Sandstorm](https://sandstorm.io/)
+- [Cloudron - Complete solution for self-hosting web apps](https://www.cloudron.io/)
+- [HomelabOS](https://homelabos.com/)
+- [With YunoHost, you can easily manage a server for your friends, association or enterprise. Learn more • YunoHost](https://yunohost.org/#/?ref=producthunt)
+- [lohost](https://lohost.io/?ref=producthunt)
+- [Self-hosted website analytics | Ackee](https://ackee.electerious.com/)
+- [aaPanel - Free and Open source Hosting control panel. One-click LAMP/LEMP.](https://www.aapanel.com/)
+- [WikiSuite | Software](https://wikisuite.org/Software)
+- [actionsflow/actionsflow: The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions](https://github.com/actionsflow/actionsflow)
+---

@@ -1,0 +1,5 @@
+## [Jira and Bitbucket](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode)
+
+> Bringing the power of Jira and Bitbucket to VS Code - With Atlassian for VS Code you can create and view issues, start work on issues, create pull requests, do code reviews, start builds, get build statuses and more!
+
+[![Jira and Bitbucket workflow](https://camo.githubusercontent.com/8692f29adcff81b699f864b80fd8ec293dbe1875dfbd89092b369fd57e882989/68747470733a2f2f6269746275636b65742e6f72672f61746c61737369616e6c6162732f61746c6173636f64652f7261772f6d61737465722f2e726561646d652f6465762d776f726b666c6f772e676966)](https://camo.githubusercontent.com/8692f29adcff81b699f864b80fd8ec293dbe1875dfbd89092b369fd57e882989/68747470733a2f2f6269746275636b65742e6f72672f61746c61737369616e6c6162732f61746c6173636f64652f7261772f6d61737465722f2e726561646d652f6465762d776f726b666c6f772e676966)

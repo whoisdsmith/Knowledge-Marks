@@ -1,0 +1,3 @@
+## HTML
+
+[Htmlreference.io](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://htmlreference.io%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228474002%26amp;usg%3DAOvVaw2PC2qOfbBb-_NbHj8yVAaU&sa=D&source=docs&ust=1645230228981907&usg=AOvVaw3AO5JtUbAUmdNmsnAq0miH) — free guide to HTML featuring all elements and attributes, and explains them with illustrated and animated examples

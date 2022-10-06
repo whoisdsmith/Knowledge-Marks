@@ -1,0 +1,20 @@
+##  Note-taking
+
+* [Evernote](https://www.evernote.com)
+* [Fetchnotes](http://www.fetchnotes.com)
+* [Google Keep](https://keep.google.com)
+* [inkdrop](https://www.inkdrop.info)
+* [Kl1p](http://kl1p.com)
+* [Laverna](https://laverna.cc)
+* [Listacular](http://www.bloomingsoft.com/listacular)
+* [Microsoft OneNote](https://www.onenote.com)
+* [Notebook](https://www.zoho.com/notebook)
+* [Obsidian](https://obsidian.md/)
+* [Simplenote](http://simplenote.com)
+* [somnote](http://somcloud.com/about/somnote)
+* [Squid](http://squidnotes.com)
+* [Tomboy](https://wiki.gnome.org/Apps/Tomboy)
+* [Workflowy](https://workflowy.com)
+* [wridea](http://wridea.com)
+* [Calculist](https://app.calculist.io/)
+---

@@ -1,0 +1,16 @@
+## Dev Web
+- [Ant Design Landing Page - Ant Design Landing Templates and Specifications](https://landing.ant.design/)
+- [MyTemplate.xyz | No-Code Developer Website Builder](https://mytemplate.xyz/)
+- [Vev](https://editor.vev.design/onboarding/create-project)
+- [HTML Landing Page Templates by HTMLrev](https://htmlrev.com/)
+- [Octopus.do, Visual Sitemap Tool, Website Planner, Architecture](https://octopus.do/)
+- [Web Formatter](https://webformatter.com/?ref=whatdevsneed)
+- [Discover The Best Free Tools For Startup Founders - Startups.fyi](https://www.startups.fyi/?ref=producthunt)
+- [Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
+- [✨ Your best Front-End Tool ✨](https://frontendchecklist.io/)
+- [xWebTools - Free Online Web Tools for Webmasters, Web Developers, Web Development, and daily uses.](https://www.xwebtools.com/)
+- [Webdesign assistant tools for beginners and professionals.](https://webdesign-assistant.com/)
+- [Web Tools Directory: 20+ Free Tools to Improve your Website](https://www.websiteplanet.com/webtools/)
+- [Meta Tag Generator | HTML code optimal for social media, SEO, mobile](https://lewdev.github.io/apps/meta-tag-gen/)
+- [what devs need - Curated Developer Tools](https://whatdevsneed.com/)
+---

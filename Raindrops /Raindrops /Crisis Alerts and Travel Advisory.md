@@ -1,0 +1,11 @@
+## Crisis Alerts and Travel Advisory
+- [Acled data](https://acleddata.com/#/dashboard)
+- [| ACT Emergency Services Agency](https://esa.act.gov.au/?fullmap=true)
+- [RSOE](https://hisz.rsoe.hu/)
+- [Global Incident Map Displaying Terrorist Acts, Suspicious Activity, and](https://www.globalincidentmap.com/threatmatrix.php)
+- [Foreign travel advice](https://www.gov.uk/foreign-travel-advice)
+- [Real-time Crisis Alerts | SAM](https://www.samdesk.io/)
+- [Fetching title...](https://www.state.gov/countries-areas)
+- [Travelmaps.state.gov/TSGMap](https://travelmaps.state.gov/TSGMap)
+- [Water, Peace and Security](https://waterpeacesecurity.org/map)
+- [Fetching title...](https://www.gp-digital.org/world-map-of-encryption)

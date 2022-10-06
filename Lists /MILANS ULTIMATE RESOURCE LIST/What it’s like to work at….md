@@ -1,0 +1,3 @@
+## What it’s like to work at…
+
+[https://airbnb.design/first-day-to-first-launch/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://airbnb.design/first-day-to-first-launch/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228862216%26amp;usg%3DAOvVaw1JyIqxArafkUwuDMKpOu5X&sa=D&source=docs&ust=1645230229049922&usg=AOvVaw2iJ8mPBZN5Cl2ccMwSW-g4)

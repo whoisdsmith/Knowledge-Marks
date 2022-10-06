@@ -1,0 +1,11 @@
+## Finding SSL Certificates
+- [Amar- · GitHub](https://github.com/amar-)
+- [GitHub - lanrat/certgraph: An open source intelligence tool to crawl the graph of certificate Alternate Names](https://github.com/lanrat/certgraph)
+- [CRT](https://crt.sh/)
+- [Cert Spotter API](https://sslmate.com/certspotter/api)
+- [Google Transparency Report](https://transparencyreport.google.com/https/certific)
+- [Ates.com](https://ates.com/)
+- [Internet-Wide Scan Data Repository](https://scans.io/)
+- [Opendata.rapid7.com](https://opendata.rapid7.com/)
+- [Spyse.com/tools/ssl-lookup](https://spyse.com/tools/ssl-lookup)
+---
