@@ -2,7 +2,7 @@
 ---
 [Concept](Concept.md)
 [Creation](Creation.md)
-[Tools](Inspire/Tools.md)
+[Tools](Lists%20/Inspire/Tools.md)
 [Collaborate](Collaborate.md)
 [Backends](Backends.md)
 [Testing](Awesome%20/Awesome%20lists%20topics/Testing.md)

@@ -1,10 +1,10 @@
 # A curated list of static web site generators.
 ---
-[Blogs](Static%20Web%20Generators/Blogs.md)
+[Blogs](Awesome%20/Static%20Web%20Generators/Blogs.md)
 [CMS](CMS.md)
 [Documentation](Awesome%20/bookmarks%20for%20geeks/Documentation.md)
 [Frameworks](Frameworks.md)
-[Photography](Static%20Web%20Generators/Photography.md)
+[Photography](Awesome%20/Static%20Web%20Generators/Photography.md)
 [Single Page](Single%20Page.md)
 [Wikis](Awesome%20/bookmarks%20for%20geeks/Wikis.md)
 [Helpful Tools and Services](Helpful%20Tools%20and%20Services.md)

@@ -1,0 +1,18 @@
+## Website
+- [Best alternatives | Alternativeer.com](https://alternativeer.com/)
+- [Find open-source alternatives for your favorite apps](https://opensource.builders/)
+- [Conspiracies](https://conspiracies.win/)
+- [WebOas.is | WebOasis | The Ultimate Startpage, Homepage, Web Portal!](https://weboasis.digital/)
+- [Admin's Finds](https://weboasis.app/forum/index.php?topic=1809.0)
+- [Company to IP, IP address owners, Reverse Whois + DNS, free tools & API](https://networksdb.io/)
+- [MAC Address and OUI Lookup for - Find the Company that manufactured the network card.](http://aruljohn.com/mac.pl)
+- [N. / startpage](https://gitlab.com/Seiber/startpage)
+- [Shopping Configs - OpenBullet](https://openbullet.store/)
+- [THEGIGABIT HONG KONG](https://www.thegigabit.com.hk/)
+- [Ars Technica](https://arstechnica.com/)
+- [Browse Business Software](https://www.getapp.com/browse)
+- [p4rk0ur/StartTreeV2: 🌳 A $tree styled start page generator!](https://github.com/p4rk0ur/StartTreeV2)
+- [SaaSHub - Software Alternatives And Reviews](https://www.saashub.com/)
+- [Best alternatives | Alternative.app](https://alternative.app/)
+- [Opensource.com | Opensource.com](https://opensource.com/)
+---

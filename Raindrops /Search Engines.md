@@ -1306,3 +1306,21 @@
 - [PDF metadata editor: change metadata of PDF document](https://pdfcandy.com/edit-pdf-meta.html)
 - [Read PDF Metadata, View PDF Metadata Online | PDFYeah](https://www.pdfyeah.com/view-pdf-metadata)
 ---
+
+
+
+## Search Engines
+- [Onion Search Engine](https://eu.onionsearchengine.com/)
+- [Comparethesearchengines.com](https://comparethesearchengines.com/)
+- [OneSearch](https://www.onesearch.com/)
+- [Wiki.com](https://www.wiki.com/)
+- [Neeva](https://neeva.com/)
+
+
+
+## Search Engines
+- [Onion Search Engine](https://eu.onionsearchengine.com/)
+- [Comparethesearchengines.com](https://comparethesearchengines.com/)
+- [OneSearch](https://www.onesearch.com/)
+- [Wiki.com](https://www.wiki.com/)
+- [Neeva](https://neeva.com/)
