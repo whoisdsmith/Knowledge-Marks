@@ -1,6 +1,6 @@
 # Reference 
 ---
-[Academic](Raindrops%20/Raindrops%20/Academic.md)
+[Academic](Raindrop/Academic.md)
 [Academic and Grey Literature Research Tools](Academic%20and%20Grey%20Literature%20Research%20Tools.md)
 [Adderall](Adderall.md)
 [Ancestry Research](Ancestry%20Research.md)
@@ -11,10 +11,10 @@
 [Ebooks](Ebooks.md)
 [EDU](EDU.md)
 [GrammerSpellingEtc](GrammerSpellingEtc.md)
-[Learning](Raindrops%20/Raindrops%20/Learning.md)
+[Learning](Raindrop/Learning.md)
 [Newspaper Sites](Newspaper%20Sites.md)
 [Papers and Journals](Papers%20and%20Journals.md)
-[PDF Management](Raindrops%20/Raindrops%20/PDF%20Management.md)
+[PDF Management](Raindrop/PDF%20Management.md)
 [PDF Sites](PDF%20Sites.md)
 [Publications](Publications.md)
 [Reference Tools](Reference%20Tools.md)

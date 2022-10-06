@@ -66,7 +66,7 @@
 * [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify Podcast RSS Proxy
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 
-***## ▷ Podcasts / Radio
+***## ▷ Podcasts / Radio
 
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcasts & Radio
 * **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/timdorr/spotifeed)

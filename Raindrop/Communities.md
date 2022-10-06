@@ -75,7 +75,7 @@
 - [Favorite tweet by @Archarzel](https://twitter.com/Archarzel/status/1479171243681239047)
 - [100 Twitter Tools to Go to The Top – Ultimate Collection!](http://gnoted.com/100-twitter-tools-ultimate-power-collection)
 - [Favorite tweet by @elonmusk](https://twitter.com/elonmusk/status/1499976967105433600)
----## Communities
+---## Communities
 - [r/Zettelkasten - Let's build a list of Zettelkasten software!](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
 - [PKMS • r/PKMS](https://reddit.com/r/PKMS)
 ---

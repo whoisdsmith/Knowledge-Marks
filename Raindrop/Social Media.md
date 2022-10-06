@@ -2,13 +2,13 @@
 ---
 ### Instagram
 - [Bibliogram](https://bibliogram.art/)
----## Social Media
+---## Social Media
 - [Facebook Search](https://inteltechniques.com/osint/facebook.html)
 - [Node XL](https://www.smrfoundation.org/nodexl)
 - [Socilab](http://www.socilab.com/)
 - [En.savefrom.net/1-how-to-download-youtube-video/](http://en.savefrom.net/1-how-to-download-youtube-video)
 ### Social Media & Participatory Mapping
-- [Pattrn Participatory Fact Mapping](https://github.com/pattrn-project/pattrn)## SOCIAL MEDIA
+- [Pattrn Participatory Fact Mapping](https://github.com/pattrn-project/pattrn)## SOCIAL MEDIA
 - [Facebook - Netbootcamp](http://netbootcamp.org/facebook.html)
 - [hi5](http://www.hi5.com/)
 - [Google+](http://plus.google.com/)
@@ -491,7 +491,7 @@
 - [ВКонтакте RSS](http://vk-to-rss.appspot.com/)
 - [Фонарик. Таргетинг Вконтакте. Аналог Церебро-таргет.](http://spotlight.svezet.ru/)
 - [ТаргетоLOG — уникальный инструмент таргетирования](http://targetolog.com/)
-- [Шпион ВКонтакте](http://vk5.city4me.com/)## SOCIAL MEDIA
+- [Шпион ВКонтакте](http://vk5.city4me.com/)## SOCIAL MEDIA
 - [Facebook - Netbootcamp](http://netbootcamp.org/facebook.html)
 - [hi5](http://www.hi5.com/)
 - [Google+](http://plus.google.com/)
@@ -966,7 +966,7 @@
 - [Twiangulate: analyzing the connections between friends and followers](http://twiangulate.com/search)
 - [First Tweet](http://ctrlq.org/first)
 - [Twittertrails.com](http://twittertrails.com/)
-- [Download and Export Twitter Followers into Excel for Free](https://www.vicinitas.io/free-tools/download-twitter-followers)## SOCIAL MEDIA
+- [Download and Export Twitter Followers into Excel for Free](https://www.vicinitas.io/free-tools/download-twitter-followers)## SOCIAL MEDIA
 - [Facebook - Netbootcamp](http://netbootcamp.org/facebook.html)
 - [hi5](http://www.hi5.com/)
 - [Google+](http://plus.google.com/)

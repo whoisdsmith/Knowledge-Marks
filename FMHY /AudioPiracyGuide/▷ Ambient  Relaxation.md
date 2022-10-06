@@ -56,7 +56,7 @@
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Listen to the sound of Wikipedia's recent changes feed 
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 
-***## ▷ Ambient / Relaxation 
+***## ▷ Ambient / Relaxation 
 
 * **[Chillhop](https://chillhop.com/)** - Lo-fi Radio
 * **[lofi.cafe](https://www.lofi.cafe/)** - Lo-Fi Radio

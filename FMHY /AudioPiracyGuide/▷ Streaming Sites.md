@@ -63,7 +63,7 @@
 * [Session](https://sessionslive.com/) or [Volume](https://volume.com/) - Live Cam Concerts
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - Random Bandcamp Songs on New Tabs
 
-***## ▷ Streaming Sites
+***## ▷ Streaming Sites
 
 * **[Spotify](https://open.spotify.com/)** or [Spotify One](https://spotfy.one/)  - Browser Music
 * **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)

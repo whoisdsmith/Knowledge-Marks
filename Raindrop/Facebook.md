@@ -10,7 +10,7 @@
 - [FB Sleep Stats Facebook Activity Tracker](https://github.com/sqren/fb-sleep-stats)
 - [Facebook API Developers Guide Book](http://file.allitebooks.com/20150627/Facebook%20API%20Developers%20Guide.pdf)
 - [Essential Facebook Development Book](http://file.allitebooks.com/20150627/Essential%20Facebook%20Development.pdf)
-- [LikeAnaylzer Facebook Metrics](https://likealyzer.com/?lang=en)## Facebook
+- [LikeAnaylzer Facebook Metrics](https://likealyzer.com/?lang=en)## Facebook
 - [DoubleText - Facebook Messenger and WhatsApp Analyzer](https://app.doubletext.me/messenger?aid=FaNmb6AqNe48GOpIAj3Ij-&ref=producthunt)
 - [Messenger Archive Viewer](https://messenger-json-viewer.vercel.app/)
 - [Save the data in plain text files](https://kbroman.org/dataorg/pages/csv_files.html)
