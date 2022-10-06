@@ -57,14 +57,14 @@ Chrome Inspector — playing around with CSS (right click > Inspect)
 
 [Design tips](Design%20tips.md)
 
-[General](Lists%20/MILANS%20ULTIMATE%20RESOURCE%20LIST/General.md)
+[General](MILANS%20ULTIMATE%20RESOURCE%20LIST/General.md)
 
-[Tools](Lists%20/MILANS%20ULTIMATE%20RESOURCE%20LIST/Tools.md)
+[Tools](MILANS%20ULTIMATE%20RESOURCE%20LIST/Tools.md)
 
 [Components + Grids](Components%20+%20Grids.md)
 
 [Tutorials + challenges](Tutorials%20+%20challenges.md)
 
-[Github](Lists%20/MILANS%20ULTIMATE%20RESOURCE%20LIST/Github.md)
+[Github](MILANS%20ULTIMATE%20RESOURCE%20LIST/Github.md)
 
 [Front-end](Front-end.md)

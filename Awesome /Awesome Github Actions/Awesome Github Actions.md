@@ -4,4 +4,4 @@
 [Official Resources](Official%20Resources.md)
 [Community Resources](Community%20Resources.md)
 [Tutorials](Tutorials.md)
-[License](Awesome%20/Awesome-mac/License.md)
+[License](License.md)
