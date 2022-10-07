@@ -57,18 +57,9 @@
 - [Join the PiratePC Discord Server!](https://discord.com/invite/NZ976ZApBe)
 ---
 ### Telegram
-- [r/Piracy - How many of you primarily rely on Telegram for all your piracy needs?](https://www.reddit.com/r/Piracy/comments/hpzcq3/how_many_of_you_primarily_rely_on_telegram_for/)
-- [OpenDirectories](https://t.me/r_OpenDirectories)
-- [Raymond Free Software • Main Discussion Group](https://t.me/raymondfreesoftware)
-- [Social Telegram Directory - Telegramic](https://telegramic.org/)
-- [Telegram Channels: A list of 2400+ channels in English](https://telegramchannels.me/channels)
-- [Telegram Groups List](https://tgram.io/)
-- [Telegram Search. Search for posts](https://tgstat.com/search)
-- [[https://xtea.io/ts_en.html#gsc.tab=0]]
-- [Telegram: Contact @TGMoviesBot](https://t.me/TGMoviesBot)
-- [Telegram: Contact @direct_llinks](https://t.me/direct_llinks)
-- [Transloader](https://t.me/transload)
-- [VK Files Bot](https://t.me/VKFiles_Bot)
+
+[Telegram](Telegram.md)
+
 ---
 ### Twitter
 - [Favorite tweet by @Archarzel](https://twitter.com/Archarzel/status/1479171244721414149)

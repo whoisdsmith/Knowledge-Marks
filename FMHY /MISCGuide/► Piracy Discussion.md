@@ -5,7 +5,7 @@
 * **[/r/PiratedGames](https://www.reddit.com/r/PiratedGames/)** - Gaming / [Discord](https://discord.gg/dZWwhUy)
 * **[OneHack](https://onehack.us/)** - Piracy Discussion / Sharing
 * [/r/SoftwarePirates](https://reddit.com/r/SoftwarePirates) - Software Piracy Discussion
-* [/r/DataHoarder](https://reddit.com/r/DataHoarder) - [Telegram](https://t.me/r_DataHoarder) / [/r/DHExchange](https://www.reddit.com/r/DHExchange/)
+* [/r/DataHoarder](https://reddit.com/r/DataHoarder) -[Telegram](Telegram.md) / [/r/DHExchange](https://www.reddit.com/r/DHExchange/)
 * [/r/trackers](https://reddit.com/r/trackers)
 * [/r/usenet](https://reddit.com/r/usenet) 
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Piracy / Gaming / Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)

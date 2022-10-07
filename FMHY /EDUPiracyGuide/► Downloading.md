@@ -49,12 +49,7 @@
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
 * [Open-Video](https://open-video.org/) - Courses / Documentaries
-* [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - Courses / Telegram 
-* [CourseInDrive](https://t.me/CourseInDrive) - Courses / Telegram 
-* [Download Links Materials](https://t.me/DownloadLinksMaterials) - Courses / Telegram
-* [premiumcoursesfree](https://t.me/premiumcoursesfree) - Courses / Telegram
-* [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily) - Courses / Telegram
-* [RedBlueHit](https://t.me/RedBlueHit) - Courses / Telegram
+* [Telegram](Telegram.md)
 * [learningDL](https://learningdl.net/) - Courses / Leech required 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials 
 * [Course Code Drive](https://ddpanda.net/code/) - Courses

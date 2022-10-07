@@ -11,9 +11,7 @@
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 * [AirDC++](https://www.airdcpp.net/) - File Sharing App / [GUI](https://www.flylinkdc.com/), [2](https://github.com/eiskaltdcpp/eiskaltdcpp)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork 
-* [Telegram Download Channels](https://piracy.now.sh/telegram/) - Download files from telegram
-* [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot 
-* [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games 
+* [Telegram](Telegram.md)
 * [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
 * [Real-Debrid](https://real-debrid.com/) - File Download App / Paid
 

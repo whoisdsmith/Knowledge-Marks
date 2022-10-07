@@ -482,47 +482,7 @@
 
 ### ▷ Telegram Tools
 
-* **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - File Tools for Telegram
-* [borodutch.eth](https://borodutch.com/) - Telegram Tools
-* [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [ComBot Groups](https://combot.org/telegram/top/groups) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
-* [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - Telegram Bot Indexes
-* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html), [TDirectory](https://tdirectory.me/) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
-* [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) - Multi-Purpose Telegram Bot
-* [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
-* [TG Bot](https://drlinkbot.t.me/) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot) - Ad Link Bypass Bot
-* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - Audio Download Bots
-* [GetMediaBot](https://t.me/getmediabot) - Media Download Bot
-* [Telegram-Media-Downloader](https://github.com/fattynoparents/Telegram-Media-Downloader) - Media Download Extension
-* [Bulk download from Telegram](https://zebradil.me/post/2018-04-18-bulk-download-from-telegram/) - Telegram Media Download Method
-* [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
-* [Telesco.pe](https://telesco.pe/) - Telegram Round Video Recorder
-* [Video Stream](https://github.com/lntechnical2/videostream) - Telegram Video Player 
-* [YeetMeet](https://github.com/1337w0rm/YeetMeet) - Meeting Auto Join Bot
-* [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - Telegram Desktop Client
-* [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - Telegram Web Client
-* [tg](https://github.com/paul-nameless/tg) - Telegram Terminal Client
-* [Pyrogram](https://docs.pyrogram.org/) - Telegram API Client
-* [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
-* [TeleWebGram](https://telewebgram.com/) - Online Telegram Channel Viewer
-* [Rose](https://t.me/MissRose_bot) - Telegram Group Manager
-* [TGCF](https://github.com/aahnik/tgcf) - Telegram Message Forwarding
-* [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
-* [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
-* [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
-* [clonebot](https://github.com/m4mallu/clonebot) - Clone Media from Chats
-* [ChecklyBot](https://t.me/checklybot) - Checklist Telegram Bot
-* [Reddit2Telegram](https://github.com/Fillll/reddit2telegram) - Reddit Post Bot
-* [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
-* [Telegram Scraper](https://www.telegramscraper.com/) - Telegram Member / Group Export
-* [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram
-* [rss2tg_bot ](https://t.me/rss2tg_bot) - RSS Feed Bot
-* [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
-* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bot 
-* [TLG.NAME](https://www.tlg.name/) - Telegram Link Creator
-* [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots / Telegram 
-* [Stickers Cloud](https://stickers.cloud/en), [Combot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Sticker Packs
-* [ProxyBot](https://t.me/vamproxy_bot), [proxytelebot](https://t.me/proxytelebot), [yadda_proxybot](https://t.me/yadda_proxybot), [tproxies_bot](https://t.me/tproxies_bot), [proxy_socks5_bot](https://t.me/proxy_socks5_bot), [socksy_bot](https://t.me/socksy_bot), [ShadowSocks_bot](https://t.me/ShadowSocks_bot) or [logicpleaseproxybot](https://t.me/logicpleaseproxybot) - Telegram Proxy Bots
-* [TgVPNbot](https://t.me/TgVPNbot), [tgfreebot](https://t.me/tgfreebot) or [FCK_RKN_bot](https://t.me/FCK_RKN_bot) - Telegram VPN Bots
+[Telegram](Telegram.md)
 
 ***
 

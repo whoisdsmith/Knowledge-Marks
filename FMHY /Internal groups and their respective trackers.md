@@ -3,7 +3,7 @@
 ---
 
 [TOC]
-###Internal groups and their respective trackers
+### Internal groups and their respective trackers
 
 A somewhat dated list of encoding groups and the trackers they release on -
 https://pastebin.pl/view/f19e4e48
@@ -11,26 +11,26 @@ https://pastebin.pl/view/f19e4e48
 !!! info
 💡 This is and likely will always be a work-in-progress and by no means complete or 100% accurate
 
-####3ChangTrai
+#### 3ChangTrai
 
 3cTMuSiC, 3cTWeB, 3cHaNgTrAj, 3CT, 3CuTi, DoCuMeNtArY, HDVNBits, cal3ndar, TBN
 
-####AlphaRatio
+#### AlphaRatio
 
 AR, nikt0, x0r
 
-####AsianCinema
+#### AsianCinema
 
 ARiN, iZON3, KAWAiREMUX
 
-####AvistaZ
+#### AvistaZ
 
 - Unofficial
     
     AppleTor, HoneyG, Imagine, NEXT, TRiToN
     
 
-#### 🪦Awesome-HD
+####  🪦Awesome-HD
 
 BMF, decibeL, D-Z0N3, FTW-HD, HiFi, NCmt, OISTiLe, TDD, TeeHee, ZQ
 
@@ -39,7 +39,7 @@ BMF, decibeL, D-Z0N3, FTW-HD, HiFi, NCmt, OISTiLe, TDD, TeeHee, ZQ
     BTT, de[42], drealiT, eXcommunicado , FoRM, G3N3, HDRemuX, NiBuRu, Penumbra, Positive, SaNcTi, SHeNTo, Senpai, xander
     
 
-####BeyondHD
+#### BeyondHD
 
 BeyondHD, BHDStudio, BMF, decibeL, D-Z0N3, FLUX, FraMeSToR, HiFi, iFT, iROBOT, Legacy, MKVULTRA, NCmt, RPG, TDD, W4NK3R, ZR
 
@@ -48,7 +48,7 @@ BeyondHD, BHDStudio, BMF, decibeL, D-Z0N3, FLUX, FraMeSToR, HiFi, iFT, iROBOT, L
     4KINGS, ALeSiO, FASM, FLAWL3SS, HDX, LoNeWolf, MOOSE, NibuRu, Nightripper, SC4R, SiPS
     
 
-####Bit-HDTV
+#### Bit-HDTV
 
 BitHD, BluHD, BluPanther, Boom, BReWeRS, Grond, HDxT, HighCode, MarGe, PriMeHD, WiNNy
 
@@ -57,11 +57,11 @@ BitHD, BluHD, BluPanther, Boom, BReWeRS, Grond, HDxT, HighCode, MarGe, PriMeHD, 
     FLAWL3SS
     
 
-####Bluebird-HD
+#### Bluebird-HD
 
 BLUEBIRD, CMEGRoup
 
-####Blutopia
+#### Blutopia
 
 BLURANiUM, BLUTONiUM, CultFilms™, JKP, LEGi0N, PmP, ReCult, WiLDCAT
 
@@ -70,11 +70,11 @@ BLURANiUM, BLUTONiUM, CultFilms™, JKP, LEGi0N, PmP, ReCult, WiLDCAT
     BaggerInc, YInMn
     
 
-####Broadcity
+#### Broadcity
 
 BdC
 
-####BTN
+#### BTN
 
 BTN (user releases) (herkz), BTW, HiSD, iT00NZ, KiNGS, LAZY, NTb, TOMMY, TVSmash
 
@@ -83,19 +83,19 @@ BTN (user releases) (herkz), BTW, HiSD, iT00NZ, KiNGS, LAZY, NTb, TOMMY, TVSmash
     CBM, dbR, ESPNtb, HiSQ, HPN, HRiP, iPRiP, JJ, kpbong, LoTV, PreBS, TOPKEK, TTVa
     
 
-####BwTracker
+#### BwTracker
 
 DUSIcTv
 
-####CMCT
+#### CMCT
 
 CMCT, CMCTV
 
-####CHDBits
+#### CHDBits
 
 CHDBits, CHDHKTV, CHDTV, CHPAD, CHWEB, OneHD, SGNB, StBOX
 
-####Desi-Torrents
+#### Desi-Torrents
 
 DDR, DrC, ExDR, M2Tv, TmG, TeamTolly, TDBB, xDM
 
@@ -104,43 +104,43 @@ DDR, DrC, ExDR, M2Tv, TmG, TeamTolly, TDBB, xDM
     DUS, IcTv,
     
 
-####ExtraTorrent
+#### ExtraTorrent
 
 ETHD, ETRG, ettv
 
-####Filelist
+#### Filelist
 
 playBD, playHD, playMUSIC, playSD, playTV, playWEB
 
-####GKS
+#### GKS
 
 ESiR, GKS, LKT, Love&Hate, RAW
 
-####HDArea
+#### HDArea
 
 EPiC, HDApad, HDArea, HDATV
 
-####HDBits
+#### HDBits
 
 (C)Z, AE, AJ8, AJP, Arucard, AtZLIT, AW, Azul, BBW, BG, BoK, Cache, Chotab, CJ, CRiSC, Cristi, Crow, CtrlHD, CyCR0, D4, DChighdef, DeblocKING, DiGG, DiR, DiRTY, disc, DBO, DON, DoNOLi, EA, EbP, Eby, ESiR, ETH, EucHD, FANDANGO, fLAMEhd, FSK, Ft4U, fty, Funner, Geek, GMoRK, GoLDSToNE, Green, greenHD, H2, h264iRMU, HALYNA, HDB, HDC, HDBiRD, HDL, HDxT, H@M, hymen, HZ, iCO, iLL, IMDTHS, iNFLiKTED, iNK, iOZO, J4F, JAVLiU, JCH, jTV, k2, KolHD, Krispy, KTN, KweeK, Lesnick, LiNG, LolHD, lulz, M794, madoff, MAGiC, martic, McFly, MCR, MdM, MDR, MeDDlER, MMI, Mondo, Moshy, Mojo, NaRB, NiP, NiX, nmd, NorTV, NTb, NWO, OAS, ONYX, pB, PerfectionHD, PHiN, PiNG, PiMP, PiPicK, Positive, Prestige, Prime, PTer, PXE, QDP, quaz, QXE, RDK123, Redµx, REPTiLE, RightSiZE, RuDE, RZF, S26, SbR, SG, sJR, SK, Skazhutin, SLO, SMoKeR, somedouches, SbY, SPEED, SrS, SSG, SuBHD, TayTO, tBit, ThD, THORA, tK, TM, toho, Tree, tRuAVC, tRuEHD, TSE, TsH, UioP, UxO, V, VanRay, VietHD, ViNYL, WESTSiDE, WiHD, XSHD, yadong1985, YanY, Z, Zim'D
 
-####HDCenter
+#### HDCenter
 
 HDC, jTV, NERDS, pmHD, Tvr
 
-####HDChina (HDWinG)
+#### HDChina (HDWinG)
 
 beAst, CMCT, CrsS, DIY, HDC, HDChina, HDCTV, HDWinG, HDWTV, iHD, JOMA, KiSHD, LU9998, NGB, OpenMV, TAiCHi
 
-####HD-Space
+#### HD-Space
 
 Boss, BluPanther, CRiSPY, HDCLUB, HDSpace, RightSiZE, SpaceHD
 
-####HDSky
+#### HDSky
 
 HDS, HDSPad, HDSTV
 
-####HD-Torrents
+#### HD-Torrents
 
 BiZKiT, E.N.D, HDT, KRaLiMaRKo, LoRD, SumVision
 
@@ -149,15 +149,15 @@ BiZKiT, E.N.D, HDT, KRaLiMaRKo, LoRD, SumVision
     557953, BaggerInc, BluDragon, DopeHD, DownRev, gc04, HB, HDBS, HiDt, HDMaNiAcS, HDVN, JM, JustHD, POH, SD, Slbenfica, StillChoosing, uRaMeSHi, ViSTA, ViSUALHD
     
 
-####HypeRay
+#### HypeRay
 
 Geek, HyPad, Hyper, Neon, Original, PureTV, Tron, TronTV
 
-####inTheShadow
+#### inTheShadow
 
 Q0S, Q0SWeb
 
-####IPT
+#### IPT
 
 CMRG, d3g, EVO
 
@@ -166,11 +166,11 @@ CMRG, d3g, EVO
     AFG, MeGusta, Mobile, mSD
     
 
-####LegacyHD
+#### LegacyHD
 
 LEGi0N
 
-####MTV
+#### MTV
 
 E.N.D, TEPES
 
@@ -179,7 +179,7 @@ E.N.D, TEPES
     Dracula, GBL, MOLY, SOIL, VLAD
     
 
-####M-Team
+#### M-Team
 
 BMDru, HDStar, HDTime, KiSHD, MPAD, M-Team, MTeamTV, OneHD, Pack, StBOX
 
@@ -188,15 +188,15 @@ BMDru, HDStar, HDTime, KiSHD, MPAD, M-Team, MTeamTV, OneHD, Pack, StBOX
     CNHK, KiSHD, R2HD, TnP
     
 
-####MySpleen
+#### MySpleen
 
 449, Atomsk, MySpleen
 
-####OurBits
+#### OurBits
 
 FLTTH, HosT, OurBits, OurPad, OurTV, PbK
 
-####PixelHD
+#### PixelHD
 
 Px3D, PxEHD, PxHD, PxHD-Mobies
 
@@ -205,7 +205,7 @@ Px3D, PxEHD, PxHD, PxHD-Mobies
     PS3-TEAM
     
 
-####PrivateHD
+#### PrivateHD
 
 TRiToN
 
@@ -214,11 +214,11 @@ TRiToN
     Absinth, EPSiLON, HDBEE, MARBLECAKE, SiGMA, UTR-HD
     
 
-####PTerClub
+#### PTerClub
 
 PTer, PTerWEB
 
-####PTP
+#### PTP
 
 HANDJOB (user releases), PTP
 
@@ -227,46 +227,45 @@ HANDJOB (user releases), PTP
     HRiP, TBB
     
 
-####SDbits
+#### SDbits
 
 CtrlSD, HYPE, MMI, RR
 
-####SpeedApp
+#### SpeedApp
 
 41RGB, ANDRONIKA, EShare, CRC, FZ4K, FZBD, FZHD, FZSD, FZWEB, HDMAN, iREAL, MOO, NViDiON, PiPS, SP4K, SPBD, SPDVD, SPHD, SPSD, SPTV, SPWEB, SubZero
 
-####TorrentBD
+#### TorrentBD
 
 MRN, KamiKaze, ALiEN, Grimmjaw, NaNoMyTe, GunGravE, NG, AP, XZVN, Galahal, IHK, DeathSs12, Dark Knight, KISS, SuperDex Repack, ParVej, PROPHET, pyromancer, TarTacular, NyX, JNH, RUN, MeGaTroN, ANIMOUS, ElPro, ExCaLiBuR, WiNT3R
 
-####TorrentLeech
+#### TorrentLeech
 
 - Unofficial
     
     4K4U, EPSiLON, FLIGHTS, RU4HD, UnKn0wn, TAoE
     
 
-####TorViet (HDVNBits)
+#### TorViet (HDVNBits)
 
 EbP, EPiK, HDvB, L2Bits, LolHD, KiD, VietHD
 
-####TTG
+#### TTG
 
 BDClub, DoA, NGB, OoKU, WiKi
 
-####UHDBits
+#### UHDBits
 
 DON, ExREN, HaB, HDVN, iFT, JM, LoRD, KASHMiR, LEGi0N, MKVTeamZQ, PIS, POH, PRiMaLHD, TayTO, UHDRemux
 
-####Usenet
+#### Usenet
 
 EuReKA, TrollHD
 
-####🪦 x264
+#### 🪦 x264
 
 Bunny, Chotab, DiRTY, Green, GreyWolf, incarnation, IJR, JeM, JENC, kkp, LSHD, Nero9, RedJohn, Soul, tRuEHD, VaAr3, ViKAT, XTSF
 
 - Retired / Disbanded
     
     bReAK, LamB, terribleHD, terribleSD, tRuE, TruCK, WoLF
-```

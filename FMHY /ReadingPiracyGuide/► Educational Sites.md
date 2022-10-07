@@ -53,7 +53,7 @@
 * [JSTor](https://www.jstor.org/) - Books / Journals
 * [Dummies Store](https://t.me/dummiesbook) - Books for Dummies Collection 
 * [Saylor Academy](https://learn.saylor.org/) - Courses 
-* [eBookers](https://t.me/ebookers) - Telegram  
+* [Telegram](Telegram.md)
 * [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
 * [grade12books](https://t.me/grade12books) - Textbooks  
@@ -68,7 +68,7 @@
 * [ck12](https://www.ck12.org/)- Interactive CK-12
 * [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
 * [MetPublications](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online) - Art Books
-* [Oxford Bookworms](https://t.me/OxfordBookworms) - Books / Audiobooks / telegram  
+* [Telegram](Telegram.md)
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online university libraries
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search  
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics 
@@ -221,7 +221,7 @@
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
-* **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
+* **Sci-Hub Tools** - [Telegram](Telegram.md)/ [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.org/) - Public Google Docs

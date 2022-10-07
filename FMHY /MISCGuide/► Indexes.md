@@ -31,7 +31,7 @@
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)
 * [Ripped Guide](https://ripped.guide/) - Piracy Index
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
-* [PiratezParty](https://github.com/SpamVerse/Piratezparty) - Piracy Index / [Telegram](https://t.me/piratezparty)
+* [PiratezParty](https://github.com/SpamVerse/Piratezparty) - Piracy Index / [Telegram](Telegram.md)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Software / Tool Index
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes

@@ -249,7 +249,7 @@
 [OS](OS.md)
 [OS-Software](OS-Software.md)
 [OSHA and Environmental](OSHA%20and%20Environmental.md)
-[OSINT](OSINT.md)
+[OSINT-Github](OSINT-Github.md)
 [OSINT Hacking](OSINT%20Hacking.md)
 [OSINT Misc](OSINT%20Misc.md)
 [OSINT TOOL SITES](OSINT%20TOOL%20SITES.md)

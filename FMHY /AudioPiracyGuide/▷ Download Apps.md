@@ -5,7 +5,7 @@
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
-* **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels
+* [Telegram](Telegram.md)
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/rip)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
@@ -16,8 +16,7 @@
 * [Musify](https://github.com/gokadzev/Musify) - MP3
 * [MP3Jam](https://www.mp3jam.org/) - MP3
 * [RedSea](https://github.com/Dniel97/RedSea) - Tidal Music Downloader 
-* [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - FLAC / MP3
-* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
+* [Telegram](Telegram.md)
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - Music Download Tool 
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
@@ -38,7 +37,7 @@
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
-* **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels
+* [Telegram](Telegram.md)
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/rip)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
@@ -49,8 +48,7 @@
 * [Musify](https://github.com/gokadzev/Musify) - MP3
 * [MP3Jam](https://www.mp3jam.org/) - MP3
 * [RedSea](https://github.com/Dniel97/RedSea) - Tidal Music Downloader 
-* [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - FLAC / MP3
-* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
+* [Telegram](Telegram.md)
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - Music Download Tool 
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools

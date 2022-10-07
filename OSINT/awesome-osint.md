@@ -22,7 +22,7 @@
 [Domain and IP Research](Domain%20and%20IP%20Research.md)
 [E-mail Management](E-mail%20Management.md)
 [E-mail Search  E-mail Check](E-mail%20Search%20%20E-mail%20Check.md)
-[[Expert Search]]
+[[SearchMarks/Expert Search]]
 [Fact Checking](Fact%20Checking.md)
 [File Search](File%20Search.md)
 [Forums and Discussion Boards Search](Forums%20and%20Discussion%20Boards%20Search.md)
@@ -64,7 +64,7 @@
 [Slide Show and Presentation Tools](Slide%20Show%20and%20Presentation%20Tools.md)
 [Social Media Tools](Social%20Media%20Tools.md)
 [Social Network Analysis](Social%20Network%20Analysis.md)
-[[Specialty Search Engines]]
+[[SearchMarks/Specialty Search Engines]]
 [Startpages](Startpages.md)
 [[Stock Images]]
 [[Threat Intelligence]]

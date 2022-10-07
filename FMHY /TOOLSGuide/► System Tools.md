@@ -422,7 +422,7 @@
 * **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
 * [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Downloaders
 * [Awesome Storage](https://github.com/okhosting/awesome-storage) - File Storage Tools
-* [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools) - File Tools for Telegram
+* [Telegram](Telegram.md)
 * [FreeOnlineEditor](https://freeonlineeditor.com/), [FileConverto](https://fileconverto.com/), [AiseeSoft](https://aiseesoft.com/) or [TinyWow](https://tinywow.com/) - Multiple File Tools
 * [horsicq](https://horsicq.github.io/) - Multiple File Programs / [GitHub](https://github.com/horsicq/)
 * [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - Document Converter
