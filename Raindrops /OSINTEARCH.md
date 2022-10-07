@@ -293,14 +293,7 @@
 - [Rooms of Clubhouse](https://roomsofclubhouse.com/)
 - [ClubSearch -- search Clubhouse rooms](https://clubsearch.io/)
 ### DISCORD
-- [Discord Me](https://discord.me/)
-- [Enlarge Discord avatars](https://discordzoom.com/en)
-- [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
-- [Discord Servers Portal](https://www.discordportal.com/)
-- [Discord Center](https://discord.center/)
-- [Discord Bots](https://discordbotlist.com/)
-- [Discord Bots](https://top.gg/)
-- [Discord Bots](https://discord.bots.gg/)
+- [Discord](Discord.md)
 ### FACEBOOK
 - [Facebook](https://www.facebook.com/)
 - [Bulk Facebook ID Finder | Seo Tool Station](https://seotoolstation.com/bulk-facebook-id-finder)

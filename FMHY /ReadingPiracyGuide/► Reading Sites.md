@@ -16,7 +16,7 @@
 * [Project Gutenberg](https://www.gutenberg.org/) - Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)
 * [English-Bookys](https://english-bookys.com/) - Books / Magazines / Newspapers / Comics
-* [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - Book Discord Servers 
+* [Discord](Discord.md)
 * [EBOOKS SET 2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ebooks_set_2) - Books / Drive
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines 
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
@@ -32,7 +32,7 @@
 * [eBookBB](https://ebookbb.com/)  - Books
 * [2020ok](http://2020ok.com/)  - Books / Comics
 * [AllBooksWorld](https://allbooksworld.com/)  - Books
-* [The Library](https://discord.gg/cgSVDUwZs9) - Books
+* [Discord](Discord.md)
 * [Only Books](https://onlybooks.org/) - Books
 * [nymeriatv](https://nymeriatv.com/Epub/) - Books
 * [Ocean of EPUB](https://oceanofepub.com/) - Books / Manga
@@ -180,7 +180,7 @@
 ### ▷ Religion / Esoterica
 
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - Religion / Mythology / Folklore / Esoterica
-* **[ARCHIVES](https://discord.gg/occult)** - Occult / Witchcraft / Religion
+* [Discord](Discord.md)
 * **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - Esoterica / [Repository](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_echerdex_repository) / [Discord](https://discord.gg/dS5X3d7ype)
 * **[WiLd's Occult Ebook Sources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wild.27s_occult_ebook_sources)** - Occult / Esoterica
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - Occult

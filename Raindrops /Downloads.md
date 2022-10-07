@@ -104,7 +104,7 @@
 - [LinkSnappy - My Account](https://linksnappy.com/myaccount)
 - [Wrldsource](https://www.worldsrc.net/)
 - [Izofile](https://izofile.com/)
-- [freemediaheckyeah](https://discord.gg/vgnaeka)
+- [Discord](Discord.md)
 - [📛 Adblock / Privacy / Antivirus](https://rentry.co/FMHY)
 - [Odcrawler.xyz](https://odcrawler.xyz/)
 - [» scenerules.org](https://scenerules.org/)

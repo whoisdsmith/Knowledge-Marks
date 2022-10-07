@@ -262,7 +262,7 @@
 [Awesome-Custom-Search-Engines-master](Awesome-Custom-Search-Engines-master.md)
 [Custom-Search-Engines](Awesome/Awesome-Custom-Search-Engines-master/Custom-Search-Engines.md)
 [Cybersecurity](SearchMarks/Cybersecurity.md)
-[FIREFOX](FIREFOX.md)
+[Firefox](Firefox.md)
 [Internet](SearchMarks/Internet.md)
 [Other](Awesome/Awesome-Custom-Search-Engines-master/Other.md)
 [Technology](Awesome/Awesome-Custom-Search-Engines-master/Technology.md)

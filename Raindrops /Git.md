@@ -172,7 +172,7 @@
 - [gitrob](https://github.com/michenriksen/gitrob)
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
 - [sirishortcuts](https://github.com/jensbrehmen/sirishortcuts)
-- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
+- [Discord](Discord.md)
 - [repofinder](https://github.com/HomemadeToast57/repofinder)
 - [scrobbl](https://github.com/jrk/scrobbl)
 - [To-The-Apples-Core](https://github.com/joncardasis/To-The-Apples-Core)
