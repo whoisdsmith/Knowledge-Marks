@@ -1,4 +1,4 @@
-## Vanilla Flavored Markdown (VFMD)
+## Vanilla Flavored Markdown
 
 _A variant of Markdown with an unambiguous specification of its syntax_
 

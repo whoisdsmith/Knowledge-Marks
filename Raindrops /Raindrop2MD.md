@@ -145,7 +145,7 @@
 [Geospatial datasatelite data](Geospatial%20datasatelite%20data.md)
 [Git](Raindrops%20/Git.md)
 [GIT & Github Tools](GIT%20&%20Github%20Tools.md)
-[GItHub Tools](GItHub%20Tools.md)
+[GItHub Tools](Raindrops%20/GItHub%20Tools.md)
 [github-stars](github-stars.md)
 [Gitlab](Gitlab.md)
 [Glossaries and Dictionaries](Glossaries%20and%20Dictionaries.md)

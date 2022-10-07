@@ -468,7 +468,7 @@
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)
 * [WebToPDF](https://webtopdf.com/) or [PDFmyURL](https://pdfmyurl.com/) - Webpage to PDF Converter
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - Convert PowerPoint to PDF Adobe
-* [Chrome Extensions](Chrome%20Extensions.md)
+* [Chrome Extensions](Topics/Chrome%20Extensions.md)
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks), [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
 * [Scan Your PDF](https://www.scanyourpdf.com/) - Make a PDF look like it was Scanned
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs

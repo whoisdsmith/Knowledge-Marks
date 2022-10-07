@@ -7,7 +7,7 @@
 [Delightful Markdown 1](Delightful%20Markdown%201.md)
 [design-resources-for-developers](design-resources-for-developers.md)
 [List of Websites to Know Anything about Everything](Awesome%20/List%20of%20Websites%20to%20Know%20Anything%20about%20Everything%201/List%20of%20Websites%20to%20Know%20Anything%20about%20Everything.md)
-[Lists](Lists.md)
+[Lists](Bookmarks/Lists.md)
 [Lists-Index](Lists-Index.md)
 [MILANS ULTIMATE RESOURCE LIST](Lists%20/MILANS%20ULTIMATE%20RESOURCE%20LIST.md)
 [my-mac-os](my-mac-os.md)

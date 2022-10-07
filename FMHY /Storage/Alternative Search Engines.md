@@ -5,7 +5,7 @@
 * **https://www.baidu.com/** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
 * **https://r0.ru/** 
 * **https://www.ecosia.org/** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / 
-* [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)[Chrome Extensions](Chrome%20Extensions.md)* https://oceanhero.today/
+* [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)[Chrome Extensions](Topics/Chrome%20Extensions.md)* https://oceanhero.today/
 * https://llarryyllarryy.github.io/Max-Impact-Search/
 * https://www.lycos.com/
 * https://www.dogpile.com/

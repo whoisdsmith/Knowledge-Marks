@@ -1,3 +1,3 @@
 ## Chrome Extensions
 
-[Chrome Extensions](Chrome%20Extensions.md)
+[Chrome Extensions](Topics/Chrome%20Extensions.md)

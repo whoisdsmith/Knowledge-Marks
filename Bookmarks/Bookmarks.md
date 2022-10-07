@@ -15,7 +15,7 @@
 [Jobs​](Jobs​.md)
 [List of Websites to Know Anything about Everything](List%20of%20Websites%20to%20Know%20Anything%20about%20Everything.md)
 [Awesome-Lists](Awesome-Lists.md)
-[Lists](Lists.md)
+[Lists](Bookmarks/Lists.md)
 [Lists of lists](Lists%20of%20lists.md)
 [Lists-Index](Lists-Index.md)
 [Non-technical](Non-technical.md)

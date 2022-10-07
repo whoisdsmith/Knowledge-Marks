@@ -357,7 +357,7 @@
 * [hoo.gl](http://hoo.gl/) - `hoo.gl/p7YP`
 * [xy2.eu](http://xy2.eu/) - `xy2.eu/p7YP`
 * [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / 
-* [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)[Chrome Extensions](Chrome%20Extensions.md)
+* [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)[Chrome Extensions](Topics/Chrome%20Extensions.md)
 * [tny.im](http://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
@@ -447,13 +447,13 @@
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
 * [reddit shell](https://redditshell.com/) - Linux shell emulator for Reddit
 * [Random Reddit](https://old.reddit.com/random) or [Random Reddit Post](https://randomredditpost.netlify.app/) - Get Random Reddit Threads / Possibly NSFW
-* [Chrome Extensions](Chrome%20Extensions.md)
+* [Chrome Extensions](Topics/Chrome%20Extensions.md)
 * [FrontPageMetrics](https://frontpagemetrics.com/) - Metrics For Reddit 
 * [Subreddit Sentiment](https://sentranker.com/subreddit-sentiment) - Subreddit Sentiment Check
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - Reddit Profile Information
 * [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Vizualize a Users Comments
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments 
-* [Chrome Extensions](Chrome%20Extensions.md)
+* [Chrome Extensions](Topics/Chrome%20Extensions.md)
 * [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of current URL
 * [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Repost Detection Bot
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
@@ -550,7 +550,7 @@
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord Rich Presence Manager
 * [RPC PC Status](https://github.com/Faelayis/RPC-Pc-Status) - PC Status Rich Presence
 * [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - OS Discord Rich Presence
-* [Chrome Extensions](Chrome%20Extensions.md)
+* [Chrome Extensions](Topics/Chrome%20Extensions.md)
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - PlayStation Discord Rich Presence
 * [Rich Presence U](https://ninstars.itch.io/rpc) - Nintendo Console Rich Presence
 * [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - Adobe Rich Presence

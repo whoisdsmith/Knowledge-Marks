@@ -19,7 +19,7 @@
 * [Python Discord](https://pythondiscord.com/resources/) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [CodingBat](https://codingbat.com/) or 
-* [Chrome Extensions](Chrome%20Extensions.md)
+* [Chrome Extensions](Topics/Chrome%20Extensions.md)
 * [Java Beginners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_java_beginners) - Java Tutorials
 * [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) - Python Learning Repository
 * [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Learn Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
@@ -43,7 +43,7 @@
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - Programming / Coding Tutorials
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Coding Learning Resources
 * [30 Seconds of Code](https://www.30secondsofcode.org/) - Javascript / CSS/ React / Python / Website-building / [GitHub](https://github.com/30-seconds)
-* [Chrome Extensions](Chrome%20Extensions.md)
+* [Chrome Extensions](Topics/Chrome%20Extensions.md)
 * [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for Coding Problems
 * [RoboMind](https://www.robomind.net/) - Code Learning Game
 * [Tuts 4 You](https://forum.tuts4you.com/) - Coding / Developer Tutorials

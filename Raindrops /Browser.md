@@ -15,7 +15,7 @@
 - [WebOas.is](https://weboas.is/)
 ---
 ### Browser Extensions
-[Chrome Extensions](Chrome%20Extensions.md)
+[Chrome Extensions](Topics/Chrome%20Extensions.md)
 ---
 #### BrainTool
 - [Blog](https://braintool.org/posts.html)
@@ -54,7 +54,7 @@
 - [Tools for better thinking | Untools](https://untools.co/)
 ---
 #### Chrome
-[Chrome Extensions](Chrome%20Extensions.md)
+[Chrome Extensions](Topics/Chrome%20Extensions.md)
 ---
 #### Firefox
 - [Addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/](https://www.addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver)

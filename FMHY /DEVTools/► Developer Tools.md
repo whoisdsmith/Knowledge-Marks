@@ -89,7 +89,7 @@
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
-* [Chrome Extensions](Chrome%20Extensions.md)
+* [Chrome Extensions](Topics/Chrome%20Extensions.md)
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
 * [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter

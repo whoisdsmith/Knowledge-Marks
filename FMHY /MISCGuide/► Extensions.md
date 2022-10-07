@@ -1,6 +1,6 @@
 ## ► Extensions 
 
-[Chrome Extensions](Chrome%20Extensions.md)
+[Chrome Extensions](Topics/Chrome%20Extensions.md)
 
 ### ▷ Firefox
 
@@ -52,7 +52,7 @@
 
 ### ▷ Chrome
 
-[Chrome Extensions](Chrome%20Extensions.md)
+[Chrome Extensions](Topics/Chrome%20Extensions.md)
 
 ### ▷ Safari
 
