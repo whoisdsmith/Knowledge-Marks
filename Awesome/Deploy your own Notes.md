@@ -5,4 +5,4 @@
 - [Leanote](http://leanote.org/) — your own Evernote. [GitHub](https://github.com/leanote/leanote)
 - [Bangle.io](https://bangle.io/) — web only WYSIWYG note taking app that saves notes locally in markdown. [GitHub](https://github.com/bangle-io/bangle-io)
 
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)

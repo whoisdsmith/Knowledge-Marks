@@ -1,6 +1,6 @@
 ## HTML
 - [DocToolHub](https://doctoolhub.com/)
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 - [HTML minifier](https://kangax.github.io/html-minifier/)
 - [Extract URLs](https://www.convertcsv.com/url-extractor.htm)
 - [Extract Links from HTML - Free Tool from Buzzstream](http://tools.buzzstream.com/link-building-extract-urls)

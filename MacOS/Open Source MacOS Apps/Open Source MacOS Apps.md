@@ -4,7 +4,7 @@
 [Browser](Awesome/Open%20Source%20MacOS%20Apps/Browser.md)
 [Chat](Chat.md)
 [iOS  macOS](iOS%20%20macOS.md)
-[Extensions](Extensions.md)
+[Chrome-Extensions](Chrome-Extensions.md)
 [Finder](Finder.md)
 [Games](Games.md)
 [Graphics](Graphics.md)

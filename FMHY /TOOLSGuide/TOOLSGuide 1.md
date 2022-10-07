@@ -731,7 +731,7 @@
 * [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts
 * [Eiverr](https://www.eiverr.com/) - Premium Account Cookies
 * [Voice Dictation](https://dictation.io/) - Type with Voice
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
@@ -883,7 +883,7 @@
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect ) - Force Open Default Browser
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt Browser Data
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert Niconico/AcFun/Bilibili Comments to ASS

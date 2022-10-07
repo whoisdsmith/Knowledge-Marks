@@ -1097,7 +1097,7 @@
 - [Arabo.com](http://arabo.com/)
 - [BeVigil](https://bevigil.com/)
 - [Boardreader - Forum Search](https://boardreader.com/)
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 - [CachedViews.com](https://cachedviews.com/)
 - [Debate.cards](http://debate.cards/)
 - [Flippity](https://www.flippity.com/)

@@ -9,7 +9,7 @@
 - [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 - [StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
 - [Tea Green](https://github.com/sadparadiseinhell/tea-green) - Startpage with Weather and To-Do List features.

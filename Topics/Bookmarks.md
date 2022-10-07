@@ -121,7 +121,7 @@ Bookmarks](Bookmarks.md)[https://fontface.ninja](https://www.google.com/url?q=ht
 * [Omni](https://github.com/alyssaxuu/omni) - Bookmark, Tab & History Manager #bookmark
 * [Saka](https://saka.io/) - Tab, History & Bookmark Search #bookmark
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage & Organize Bookmarks  #bookmark 
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 * [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Sort Bookmarks by Multiple Criteria  #bookmark 
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Bookmarks
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean  #bookmark 

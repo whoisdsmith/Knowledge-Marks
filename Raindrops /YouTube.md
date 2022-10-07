@@ -10,7 +10,7 @@
 - [Annotate.tv](https://annotate.tv/)
 - [YouTube search tool - Onderzoek op YouTube - Aware Online Academy](https://www.aware-online.com/osint-tools/youtube-)
 - [search-tool.com](https://search-tool.com/)
--[Bookmarks](Bookmarks.md)
+-[Bookmarks](Topics/Bookmarks.md)
 - [Hadzy.com](https://hadzy.com/)
 - [Hashcut - Cut to the Point](https://www.hashcut.com/)
 - [HookTube](https://hooktube.com/)

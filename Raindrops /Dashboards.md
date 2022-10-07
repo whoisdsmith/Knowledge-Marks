@@ -5,8 +5,8 @@
 - [causefx/Organizr: HTPC/Homelab Services Organizer - Written in PHP](https://github.com/causefx/Organizr)
 - [bastienwirtz/homer: A very simple static homepage for your server.](https://github.com/bastienwirtz/homer)
 - [tomershvueli/homepage: A simple, standalone, self-hosted PHP page that is your window to your server and the web.](https://github.com/tomershvueli/homepage)
-[Bookmarks](Bookmarks.md)
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 - [phntxx/dashboard: a nice and simple dashboard / landing page.](https://github.com/phntxx/dashboard)
 ---
 ### Dashboard Tools

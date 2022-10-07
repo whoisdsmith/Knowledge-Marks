@@ -190,12 +190,12 @@
 -   [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
 -   [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
     
     s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
     
 -   [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 -   [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 -   [follow.it](https://follow.it/surfing) - Follow websites while browsing the net!
 

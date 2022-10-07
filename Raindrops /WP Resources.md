@@ -258,7 +258,7 @@
 - [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/)
 - [Brizy Cloud - Best Website Builder for Non-Techies](https://www.brizy.io/cloud)
 - [Briefcase Elementor Widgets | BriefcaseWP](https://www.briefcasewp.com/briefcase-elementor-widgets/)
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 - [Blush: Illustrations for everyone](https://blush.design/)
 - [Blocks - AinoBlocks](https://ainoblocks.io/blocks/)
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)

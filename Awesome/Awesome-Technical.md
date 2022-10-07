@@ -62,7 +62,7 @@
   * [bioinformatics-compbio-tools](https://github.com/lancelafontaine/bioinformatics-compbio-tools) – Bioinformatics and computational biology tools.
   * [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
   * [BNN-ANN-papers](https://github.com/takyamamoto/BNN-ANN-papers) – Papers about Biological and Artificial Neural Networks related to (Computational) Neuroscience
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
   * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners.
   * [bots](https://github.com/hackerkid/bots) – Tools for building bots
   * [breakfast-repo](https://github.com/ashleygwilliams/breakfast-repo) – Videos, recordings, and podcasts to accompany our morning coffee.
@@ -107,7 +107,7 @@
   * [degoogle](https://github.com/tycrek/degoogle) – Alternatives to Google's products.
   * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – Upcoming developer conferences.
   * [dev-movies](https://github.com/aryaminus/dev-movies) – Recommended movies for people working in the Software and IT Industry.
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
   * [devops_resources](https://github.com/dustinmm80/devops_resources)
   * [DevopsWiki](https://github.com/Leo-G/DevopsWiki) – Devops Tools, Tutorials and Scripts.
   * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.

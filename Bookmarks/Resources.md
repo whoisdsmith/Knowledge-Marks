@@ -27,7 +27,7 @@ Adobe [Photoshop](https://www.google.com/url?q=https://www.google.com/url?q%3Dht
 
 [ColorZilla](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228442900%26amp;usg%3DAOvVaw2k14TP2rRBKSmQXbRKtA0g&sa=D&source=docs&ust=1645230228974346&usg=AOvVaw3SU1uZhR2VbnQf-TyZ6zNL) — color from web picker
 
-[[Bookmarks](Bookmarks.md)
+[[Bookmarks](Topics/Bookmarks.md)
 
 [Window Resizer](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228444963%26amp;usg%3DAOvVaw1Or8FZbG-sARqGcActDrTM&sa=D&source=docs&ust=1645230228974958&usg=AOvVaw0uKbvkflgfPOnhfYfBckZu) — adjusting viewport size, also use Chrome Inspector (right click > Inspect > adjust viewport icon in top left) ★
 

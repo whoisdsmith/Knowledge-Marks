@@ -137,7 +137,7 @@
 - [Ulysses-Journal-Import](https://github.com/smarj/Ulysses-Journal-Import)
 - [day-one-clone](https://github.com/Macronius/day-one-clone)
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 - [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists)
 - [overshare-kit](https://github.com/overshare/overshare-kit)

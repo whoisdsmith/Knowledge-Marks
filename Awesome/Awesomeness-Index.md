@@ -20,7 +20,7 @@
 [Awesome-Automation](Awesome/Awesome-Automation.md)
 [awesome-awesomeness](awesome-awesomeness.md)
 [Awesome-Blogging-Platforms](Awesome-Blogging-Platforms.md)
-[awesome-cheatsheets](awesome-cheatsheets.md)
+[Awesome-Cheatsheets](Awesome-Cheatsheets.md)
 [Awesome-cli](Awesome-cli.md)
 [Awesome-cli-apps](Awesome-cli-apps.md)
 [awesome-computer-vision ](Awesome%20/awesome-computer-vision%20.md)

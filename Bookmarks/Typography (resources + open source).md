@@ -11,7 +11,7 @@
 [http://usemodify.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://usemodify.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228696501%26amp;usg%3DAOvVaw3vt2WvdjsoNxp68MTZ2NQq&sa=D&source=docs&ust=1645230229021826&usg=AOvVaw30-TrkF4uGvdfa5YYYDWql) ★ 
 
 [https://fontsinuse.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://fontsinuse.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228697142%26amp;usg%3DAOvVaw1KL50XWIhBEI-SysLrcJcH&sa=D&source=docs&ust=1645230229021923&usg=AOvVaw3CU3EPMDhIbw8MAasJ58i_) ★ – resource of websites showcasing various fonts in use (also check out their [blog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://fontsinuse.com/blog%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228697535%26amp;usg%3DAOvVaw1HRhq4WB6zichVbYE1O2PA&sa=D&source=docs&ust=1645230229022017&usg=AOvVaw0eK8VWXqKg6_AauQCsYABe))
-[[Bookmarks](Bookmarks.md)
+[[Bookmarks](Topics/Bookmarks.md)
 
 [https://v-fonts.com/](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://v-fonts.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228698642%26amp;usg%3DAOvVaw1m7s2n4_bexpRuR_KO7TiX&sa=D&source=docs&ust=1645230229022216&usg=AOvVaw1WrEUzmNaKW6MjeIdb207X) ★ — variable fonts (also check out the [Variable Fonts](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/variablefonts%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228699045%26amp;usg%3DAOvVaw3hqJRo-_yVjJKun25QeODM&sa=D&source=docs&ust=1645230229022291&usg=AOvVaw0W6iZuLsenIMcWRZ1QG9It) twitter)
 

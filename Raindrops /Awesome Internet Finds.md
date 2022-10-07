@@ -24,7 +24,7 @@
 - [Vynchronize](https://vynchronize.herokuapp.com/)
 - [Wakelet - Save, organize and share content](https://wakelet.com/)
 - [Webassembly.studio](http://ww25.webassembly.studio/?subid1=20220914-1024-359d-aee8-64729db1bd0f)
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 - [Spotfy - Listen to music for free](https://spotfy.one/)
 - [Spotifeed](https://spotifeed.timdorr.com/)
 - [Home](https://stealth.org/)

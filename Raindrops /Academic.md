@@ -1,8 +1,8 @@
 ## Academic
-- [Copyscape Plagiarism Checker - Duplicate Content Detection Software](https://www.copyscape.com/)
-- [https://education.iseek.com/iseek/home.page](https://education.iseek.com/iseek/home.page)
-- [lumendatabase.org](https://lumendatabase.org/)
-- [Sci-hub.ru](https://sci-hub.ru/)
+- [Copyscape Plagiarism Checker - Duplicate Content Detection Software](# [Copyscape Plagiarism Checker - Duplicate Content Detection Software](https://www.copyscape.com/)
+- [https://education.iseek.com/iseek/home.page](# [iSEEK - Education](https://education.iseek.com/iseek/home.page)
+- [lumendatabase.org](# [Lumen](https://lumendatabase.org/)
+- [Sci-hub.ru](# [Sci-Hub: everyone is a pirate — even scientists](https://sci-hub.ru/)
 - [ArnetMiner - Academic Researcher Social Network Search](http://arnetminer.org/)
 - [Google Scholar](http://scholar.google.de/)
 - [Microsoft Academic Search](http://academic.research.microsoft.com/)

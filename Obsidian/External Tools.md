@@ -1,7 +1,7 @@
 ## External Tools
 
   * Converters
-  * Browser [[Extensions]]
+  * Browser [[Chrome-Extensions]]
   * Publishing
   * Other
 
@@ -51,7 +51,7 @@ Goodsidian takes updates to your shelves on Goodreads and formats them to a note
 
 * * *
 
-### Browser [[Extensions]]
+### Browser [[Chrome-Extensions]]
 
 Name Description Credits
 
@@ -67,7 +67,7 @@ Firefox add-on to copy a selection or link as formatted Markdown
 An unofficial Obsidian clipper for Chrome, that allows you to easily clip a selection to a note in Obsidian
 [Joost Plattel](https://github.com/jplattel)
 
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 [Liamballin](https://github.com/Liamballin)
 
 * * *

@@ -67,7 +67,7 @@
 - [Small Dev tools useful for all developers](https://smalldev.tools/)
 - [Free Developer Stuff](https://freestuff.dev/)
 - [WebdevHome /](https://webdevhome.github.io/)
-[Bookmarks](Bookmarks.md)
+[Bookmarks](Topics/Bookmarks.md)
 - [ZEEF.com](https://zeef.com/)
 - [Free for developers](https://free-for.dev/#/)
 - [DevAssets - Curated List of Resources for Developers](https://xsgames.co/devassets/?ref=producthunt)

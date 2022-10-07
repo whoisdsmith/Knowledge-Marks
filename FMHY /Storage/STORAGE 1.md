@@ -248,7 +248,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
-#### [[Bookmarks](Bookmarks.md)
+#### [[Bookmarks](Topics/Bookmarks.md)
 ***
 
 #### Bulk File Renamers 
@@ -1555,7 +1555,7 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 
 ***
 
-#### [Bookmarks](Bookmarks.md)
+#### [Bookmarks](Topics/Bookmarks.md)
 ***
 
 #### Password Data Breach Check
