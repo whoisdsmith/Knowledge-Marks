@@ -39,7 +39,7 @@
 [Data Breaches & Leaks](Data%20Breaches%20&%20Leaks.md)
 [Deans Deep Web](Deans%20Deep%20Web.md)
 [Decrypt Hash](Decrypt%20Hash.md)
-[Digital Forensics (DFIR)](Digital%20Forensics%20(DFIR).md)
+[Digital Forensics](Digital%20Forensics.md)
 [Discover other OSINT Frameworks](Discover%20other%20OSINT%20Frameworks.md)
 [Disk Encryption](Disk%20Encryption.md)
 [Disposable Email](Disposable%20Email.md)

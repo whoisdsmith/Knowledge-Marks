@@ -45,3 +45,28 @@ Language: English
 [**ohmyzsh**](https://discord.com/invite/ohmyzsh) [![Official Badge](https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp)](https://github.com/mhxion/awesome-discord-communities/blob/main/badges.md#official-identification-badge) [![Homepage URL](https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp)](https://ohmyz.sh/) [![Git Repository](https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp)](https://github.com/ohmyzsh)  
 Notable Channels: `#discussion`, `#terminal-setups`, `#tech-support`, `#code`, `#suggestions`, `#wiki-rewrite`  
 Language: English
+
+## Development Environment
+
+-   [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
+-   [Dev Env](https://github.com/jondot/awesome-devenv#readme)
+-   [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
+-   [Shell](https://github.com/alebcay/awesome-shell#readme)
+-   [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+-   [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
+-   [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
+-   [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+    -   [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+    -   [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+    -   [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+-   [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
+-   [Git Tips](https://github.com/git-tips/tips#readme)
+-   [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
+-   [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+-   [SSH](https://github.com/moul/awesome-ssh#readme)
+-   [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
+-   [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
+-   [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
+-   [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+-   [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
+-   [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.

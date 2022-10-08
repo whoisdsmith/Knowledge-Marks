@@ -16,3 +16,17 @@
 -   [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots. [![swift_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png "Swift language.")](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/icons/swift-16.png)
 -   [Seashore](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us. [![objective_c_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png "Objective-C language.")](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/icons/objective-c-16.png)
 -   [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. [![swift_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png "Swift language.")](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/icons/swift-16.png) [![c_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png "C language.")](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/icons/c-16.png)
+
+## Images
+
+- [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
+- [Cloudinary](https://cloudinary.com/) - Image hosting, manipulation and delivery.
+
+## Images
+
+- [Alt tag](https://support.google.com/webmasters/answer/114016) - Add an alt-tag this a description of the image (60 - 70 characters).
+- Dimensions: Add the `width=""` and `height=""` attributes to the image.
+- [File name](https://www.youtube.com/watch?v=h2SWuUobbr0) - Use a short descriptive name.
+- [Optimization](https://imageoptim.com/) - Optimize images by removing some meta information.
+- [Responsive Images](https://www.w3.org/TR/html-picture-element/) - Serve the most optimized image corresponding to the window size.
+- Size: keep the filesize as low as possible.

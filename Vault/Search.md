@@ -29,20 +29,20 @@
 [Accessibility](Accessibility.md)
 [Awesome Hacking Search Engines](Awesome%20Hacking%20Search%20Engines.md)
 [Books](Books.md)
-[Content 1](Content%201.md)
-[Courses 1](Courses%201.md)
+[Content](Content.md)
+[Courses](Courses.md)
 [Custom-Search-Engines](SearchMarks/Custom-Search-Engines.md)
-[Images 2](Images%202.md)
+[Images](Images.md)
 [Keywords](Keywords.md)
-[Links 1](Links%201.md)
+[Links & Lists](Links%20&%20Lists.md)
 [Meta Information](Meta%20Information.md)
 [Mobile](Mobile.md)
 [More Custom Search Engines](More%20Custom%20Search%20Engines.md)
 [Search Engine Optimization](SearchMarks/Search%20Engine%20Optimization.md)
-[Search Engines 1](Search%20Engines%201.md)
+[Search Engines](Search%20Engines.md)
 [SearchMarks](SearchMarks.md)
 [Sitemap](Sitemap.md)
-[Social Media 1](Social%20Media%201.md)
+[Social Media](Social%20Media.md)
 [Tools & Services](Tools%20&%20Services.md)
 [URL](SearchMarks/URL.md)
 [Videos](Videos.md)
@@ -76,3 +76,28 @@
 [Vulnerabilities](Vulnerabilities.md)
 [Web History](Web%20History.md)
 [WiFi Networks](Awesome/awesome-hacker-search-engines/WiFi%20Networks.md)
+
+## Search
+
+Self-hosted:
+
+- [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
+- [itemsjs](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+- [minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+- [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+- [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
+- [static-search](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
+- [elasticlunr](http://elasticlunr.com/docs/index.html) - Lightweight full-text search engine developed in JavaScript for browser search and offline search based on Lunr.js
+- [tinysearch](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
+- [js-search](https://www.npmjs.com/package/js-search) - Client-side searches of JavaScript and JSON objects, ES5 compatible and does not require jQuery or any other third-party libraries
+- [search-index](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
+- [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
+- [fuzzy](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
+- [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
+- [Jets.js](https://jets.js.org/) - Native CSS search engine
+
+Third party integration:
+
+- [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
+- [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
+- [CloudSh](https://cloudsh.com/) - Powerful search for your website with a few lines of JavaScript.

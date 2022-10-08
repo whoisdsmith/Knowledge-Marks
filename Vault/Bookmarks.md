@@ -91,7 +91,7 @@
 - [[Learn]]
 - [[Learning design]]
 - [[Learning to code resources]]
-- [[Links]]
+- [[Links & Lists]]
 - [[Linux for fun]]
 - [[List of Websites to Know Anything about Everything]]
 - [[Lists of lists]]

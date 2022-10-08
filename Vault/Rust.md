@@ -22,3 +22,7 @@
     -   **Description**: A community project for creating podcast content for the Rust programming language.
     -   **Frequency**: Various
     -   **Runtime**: 40 - 60 mins
+
+## Rust
+
+-   [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
