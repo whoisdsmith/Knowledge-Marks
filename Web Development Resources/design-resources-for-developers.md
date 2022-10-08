@@ -1,6 +1,6 @@
 # Design-Resources-For-Developers
 ---
-[UI Graphics](UI%20Graphics.md)
+[UI Graphics](Web%20Development%20Resources/design-resources-for-developers/UI%20Graphics.md)
 [Fonts](Awesome/design-resources-for-developers/Fonts.md)
 [Colors](Awesome/design-resources-for-developers/Colors.md)
 [Icons](Awesome/design-resources-for-developers/Icons.md)

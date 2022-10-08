@@ -28,7 +28,7 @@
 [Forums and Discussion Boards Search](Forums%20and%20Discussion%20Boards%20Search.md)
 [General Search](General%20Search.md)
 [Geospatial Research and Mapping Tools](Geospatial%20Research%20and%20Mapping%20Tools.md)
-[[Image Analysis]]
+[[OSINT/Image Analysis]]
 [Image and Photo Editing](Image%20and%20Photo%20Editing.md)
 [Image Search](Image%20Search.md)
 [Infographics and Data Visualization](Infographics%20and%20Data%20Visualization.md)
@@ -50,8 +50,8 @@
 [OSINT Videos](OSINT%20Videos.md)
 [Other Resources](Other%20Resources.md)
 [Other Tools](Other%20Tools.md)
-[[Pastebins]]
-[[PDF Management]]
+[[OSINT/Pastebins]]
+[[OSINT/PDF Management]]
 [People Investigations](People%20Investigations.md)
 [Phone Number Research](Phone%20Number%20Research.md)
 [Privacy and Encryption Tools](Privacy%20and%20Encryption%20Tools.md)
@@ -66,7 +66,7 @@
 [Social Network Analysis](Social%20Network%20Analysis.md)
 [[SearchMarks/Specialty Search Engines]]
 [Startpages](Startpages.md)
-[[Stock Images]]
+[[OSINT/Stock Images]]
 [[Threat Intelligence]]
 [Username Check](Username%20Check.md)
 [Video Search and Other Video Tools](Video%20Search%20and%20Other%20Video%20Tools.md)
