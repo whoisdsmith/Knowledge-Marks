@@ -1,0 +1,30 @@
+## Career
+
+[![Back to top](https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png)](https://github.com/mhxion/awesome-discord-communities#contents)
+
+Discussions on interview challenges, resume reviews, job opportunities in the field of programming.
+
+[![Server Icon](https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cs_career_hackers.webp)](https://github.com/mhxion/awesome-discord-communities/blob/main/images/server_icons/cs_career_hackers.webp)
+
+[**CS Career Hackers**](https://discord.com/invite/rGwhXJv) [![Official Badge](https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp)](https://github.com/mhxion/awesome-discord-communities/blob/main/badges.md#official-identification-badge) [![Homepage URL](https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp)](https://www.cscareerhackers.org/) [![Git Repository](https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp)](https://github.com/CS-Career-Hackers)  
+Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges`  
+Language: English
+
+## Career
+
+| Repository                                                                                                | Description                                                                                                                     | License                                                                                     |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Become A Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)      | Free resources for learning Full Stack Web Development                                                                          | [MIT](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/blob/master/LICENSE)  |
+| [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)                           | 🛁 Clean Code concepts adapted for JavaScript                                                                                   | [MIT](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/LICENSE)           |
+| [Coding Interview University](https://github.com/jwasham/coding-interview-university)                     | A complete computer science study plan to become a software engineer.                                                           | [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)                             |
+| [Computer Science (OSSU)](https://github.com/ossu/computer-science)                                       | 🎓 Path to a free self-taught education in Computer Science!                                                                    | [MIT](https://github.com/ossu/computer-science/blob/master/LICENSE)                         |
+| [CS Courses](https://github.com/prakhar1989/awesome-courses)                                              | 📚 List of awesome university courses for learning Computer Science!                                                            | No License                                                                                  |
+| [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)                                   | Roadmap to becoming a web developer in 2021                                                                                     | [Custom](https://github.com/kamranahmedse/developer-roadmap/blob/master/LICENSE)            |
+| [Easy Application](https://github.com/j-delaney/easy-application)                                         | Over 400 software engineering companies that are easy to apply to                                                               | [MIT](https://github.com/j-delaney/easy-application/blob/master/LICENSE)                    |
+| [FrontEnd Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore | [MIT](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/main/LICENSE.md) |
+| [Interview This](https://github.com/Twipped/InterviewThis)                                                | An open source list of developer questions to ask prospective employers                                                         | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US)                   |
+| [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)                                | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings                     | [MIT](https://github.com/trekhleb/javascript-algorithms/blob/master/LICENSE)                |
+| [Leetcode Patterns](https://github.com/seanprashad/leetcode-patterns)                                     | A curated list of leetcode questions grouped by their common patterns                                                           | [GPL-3.0](https://github.com/seanprashad/leetcode-patterns/blob/master/LICENSE.md)          |
+| [System Design Primer](https://github.com/donnemartin/system-design-primer)                               | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.                        | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)                          |
+
+**[⬆ Back to Index](#index)**

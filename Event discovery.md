@@ -1,0 +1,266 @@
+## Event discovery
+
+-   [Meetup](https://www.meetup.com/) - meet groups of people near you who share your interests
+-   [Out.be](https://www.out.be/fr/agenda/bruxelles/list/) - 🇧🇪 🇫🇷 \[BE\] \[FR\] Que faire à Bruxelles ? | Sorties et Loisirs à Bruxelles
+
+-   ⭐ [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
+-   [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+-   [Netcraft](https://sitereport.netcraft.com/) - What's that site running? Find out the infrastructure and technologies used by any site, based on results from internet data mining
+-   [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
+-   [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
+-   [Dillinger](http://dillinger.io/) - Online Markdown Editor
+-   ⭐ [**Air Mail**](http://en.getairmail.com/) - temporary email service
+-   [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy
+-   [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
+-   [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
+-   [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
+-   [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
+-   [WhatsMyIP](http://www.whatsmyip.org/random-password-generator/) - password generator & other text related tools (hash lookup, regex tester)
+-   ⭐ [**YouTube to MP3 converter**](https://ytmp3.cc/)
+-   🔥 [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+-   [Cached View](http://www.cachedview.com/) - Google + Wayback machine Cached Pages of any website
+-   [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes
+-   [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
+-   [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier
+-   [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
+-   [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
+-   [Whois](https://www.whois.com/whois/) - Whois to get domain name info + identity
+-   [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
+-   [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
+-   [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+-   [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
+-   [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
+-   [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
+-   [Rebex](https://sshcheck.com/) - SSL Check : checks the configuration of given server accessible over internet
+-   [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
+-   [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
+-   [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
+-   [**Qualys SSL Labs**](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : deep analysis of any SSL web server configuration
+-   [Panopticlick](https://panopticlick.eff.org/) - Test : Is your browser safe against tracking?
+-   [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
+-   [Ookla](http://beta.speedtest.net/) - Speedtest : Test your internet connection speed
+-   [TestMy](http://testmy.net/) - Internet speed test
+-   [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
+-   [Jotti](https://virusscan.jotti.org/) - online virus scanner
+-   [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
+-   [8 Subdomain Finder Tools Online](https://www.nmmapper.com/sys/tools/subdomainfinder/) - Find subdomains using sublist3r, Amass, Anubis, Lepus and more online.
+-   [COMODO CA](https://crt.sh/) - Certificate search online
+-   [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records | can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
+-   [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
+-   [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
+-   [Link Unshortener](https://linkunshorten.com/) - Expand short links!
+-   [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
+-   [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
+-   [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - \[FR\] 🇫🇷 Convertisseur de dureté de l'eau
+-   [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml) - Converter for hardness of water
+-   [YAML Lint](http://www.yamllint.com/) - The YAML Validator
+-   ⭐ [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
+-   [Random.org](https://www.random.org/) - true random number service, but not only : are also proposed some functions for numbers, lists, text, strings, maps and web tools...
+-   [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
+-   [Sepastop](https://www.sepastop.eu/fr-fr/) - \[FR\] 🇫🇷 resiliate your affiliation to all kinds of products and services
+-   [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
+-   [Fuelly](http://www.fuelly.com/) - Track, Share, and Compare your Vehicle / Understanding your fuel consumption and vehicle's actual costs
+-   [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
+-   [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
+-   [Free Online Picture Resizer](http://www.picresize.com/batch.php) - Easily crop, resize and edit your images online for free
+-   [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyze the HTTP response headers
+-   [PDF Merge](https://www.pdfmerge.com/) - merge PDF files online
+-   [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist
+-   [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview.
+-   [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
+-   [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
+-   [Open Source Psychometrics Project](https://openpsychometrics.org/) - a collection of interactive personality tests with detailed results
+-   [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE
+-   [BonPatron](http://bonpatron.com/) - \[FR\] 🇫🇷 online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
+-   [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
+-   [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
+-   ⭐ [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
+-   [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.
+-   [Convertio](https://convertio.co/epub-pdf/) - Advanced online tool to convert EPUB files to PDF
+-   [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
+-   [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you
+-   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
+-   [What Car?](https://www.whatcar.com/) - New and Used Car Reviews, Car Deals
+-   [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
+-   [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
+-   ⭐ [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+-   [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook personal numeric ID for fb:admins, social plugins, and more. Provide the profile URL of a page or your profile and get the Facebook (context) id. This id can then be used to [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=)
+-   [Ecoscore](http://ecoscore.be/) - find and compare the ecoscores of new and old vehicles
+-   [ODA](https://onlinedisassembler.com/odaweb/) - The online disassembler
+-   [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service
+-   [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
+-   [AboutMyX](http://www.aboutmyip.com/AboutMyXApp/SubnetCalculator.jsp?ipAddress=192.168.16.0&cidr=24) - Subnet mask calculator
+-   [WalletGenerator](https://walletgenerator.net/) - Paper Wallet Generator for BitCoins and other cryptocurrencies. Create, Print & Fold
+-   [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
+-   [Henk van Ess](http://graph.tips/) - Facebook Graph Tools
+-   [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
+-   [Savvy Time](https://savvytime.com/converter/et-to-cet) - ET to CET Converter | Convert hours and time in different locations
+-   [Somacon](https://www.somacon.com/p568.php) - Count Duplicates in a List Online Tool
+-   [User Agent String.Com](http://www.useragentstring.com/index.php) - User Agent String explained : Copy/paste any user agent string in this field and click 'Analyze'
+-   [Free Online EPUB Converter](https://www.sendepubtokindle.com/) - The easiest way to send EPUBs to your Kindle!
+-   [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
+-   [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
+-   [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+-   [Hurricane Electric BGP Toolkit](https://bgp.he.net/) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
+-   [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
+-   [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
+-   [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
+-   [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
+-   [CIDR/Netmask Lookup Tool](https://dnschecker.org/netmask-cidr.php) - get information about a CIDR range including the IP addresses and host addresses contained in it.
+-   [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
+-   [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
+-   [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
+-   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
+-   [What Does My Site Cost?](https://whatdoesmysitecost.com/) - Find out how much it costs for someone to use your site on mobile networks around the world.
+-   [JSONLint](https://jsonlint.com/) - JSON validator
+-   [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
+-   [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
+-   [Gnoosic](http://www.gnoosic.com/) - Based on your choices, Gnod predicts you might like the music of
+-   [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
+-   ⭐ [**regex101**](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
+-   [Rextester](https://rextester.com/) - run code online
+-   [JSON to YAML](https://www.json2yaml.com/) - Convert JSON to YAML online
+-   [globtester](http://www.globtester.com/) - a little utility for testing minimatch. Can also be used as ANT Style Pattern Matcher
+-   [Spotify Library Exporter](https://spotify-library-exporter.herokuapp.com/) - a tool to download your Spotify library as a CSV to be used elsewhere. Can also be useful to migrate from Spotify to Apple Music, backup your library to use elsewhere, keep a record offline. It doesn't matter! 🎉
+-   [PlaylistConverter](http://www.playlist-converter.net/) - Convert your Playlist from multiple Music Services and File Format. Works for Spotify too
+-   [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
+-   [DigiCert SSL Certificate Checker](https://www.digicert.com/help/) - If you are having a problem with your SSL certificate installation, this diagnostic tool will help you locate the problem and verify your SSL Certificate installation.
+-   [D&D Beyond](https://www.dndbeyond.com/characters/builder#/) - Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e)
+-   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev/)
+-   [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html) - estimate your monthly AWS bill more efficiently. Using this tool, you can add, modify and remove services from your 'bill' and it will recalculate your estimated monthly charges automatically. The calculator also shows common customer samples and their usage, such as Disaster Recovery and Backup or Web Application.
+-   [**TimestampConvert.com**](https://www.timestampconvert.com/) - Convert dates to or from timestamps online
+-   [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
+-   [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search.
+-   [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
+-   [CICR Tool](https://www.ipaddressguide.com/cidr) - IP Range To CIDR / CIDR to IP Range
+-   [Meta Tags](https://metatags.io/) - is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
+-   ⭐ [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
+-   ⭐ [**Xerius**](https://www.xerius.be/bnc/app/fr) - 🇫🇷 \[FR\] \[BE\] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net / Freelance rate simulator
+-   [Downdetector](https://downdetector.com/) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
+-   [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
+-   [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) 🇫🇷 \[FR\] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
+-   [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
+-   [Theory Maps](https://www.theorymaps.org/) - Theory mapping is a technique for visually outlining scientific theory. It allows researchers to concretely display interrelations between concepts, which provides for rapid communication and easy evaluation of ideas. Theory mapping was developed to emphasize that good science requires both reliable methods and rigorous theory. The technique is described in the following forthcoming article at Perspectives on Psychological Science.
+-   [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox
+-   ⭐ [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
+-   [transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
+-   [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable maps
+-   [Radar Virtuel](https://www.radarvirtuel.com/) - 🇫🇷 \[FR\] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
+-   [Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/) - Create a character sprite sheet for your game using 100% open art.
+-   [Turtletoy](https://turtletoy.net/) - Create your generative art online using a minimalistic Turtle graphics API.
+-   [myNoise](https://mynoise.net/noiseMachines.php) - Background Noises & Interactive Soundscapes
+-   [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
+-   [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
+-   [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
+-   [Loklak Search](https://loklak.org/) - Distributed Open Source Search for Twitter and Social Media with Peer to Peer Technology
+-   [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
+-   [EcoIndex](http://www.ecoindex.fr/) - 🇫🇷 \[FR\] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
+-   [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** [WAVE Browser Extensions](https://wave.webaim.org/extension/)
+-   [Contrast Ratio](https://contrast-ratio.com/) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
+-   [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
+-   [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
+-   [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
+-   [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
+-   [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
+-   [Romanr.info](http://romanr.info/magnet.html) - Online BitTorrent Magnet Link Generator | Hash to Magnet link generator / converter
+-   [hashtomagnet.xyz](https://hashtomagnet.xyz/) - Hash to Magnet generator + Get Seed/Leech informations
+-   [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
+-   [Sedja](https://www.sejda.com/) - Easy, pleasant and productive PDF editor
+-   [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 \[BE\] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
+-   [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules
+-   [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
+-   [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
+-   [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
+-   [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
+-   [Excalidraw](https://excalidraw.com/) - is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn look & feel to them. **Bonus** : [Extensions & libraries](https://libraries.excalidraw.com/)
+-   [**Tunefind**](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
+-   [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
+-   [Convert Case](https://convertcase.net/) - Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more
+-   [Website Page Word Counter](https://wordcounter.net/website-word-count) - website word counter created specifically so you can find out the number of words on any page on the Internet.
+-   [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
+-   [read2burn.com](https://www.read2burn.com/) - transport passwords more secure by email | Sending secrets by email has some problems. First, the email is sent in clear text, everybody who can read the transmission can read the secret, second the email is stored in the email account of the sender and the recipient! read2burn.com enables a secure transmission by storing the secret encrypted and creating an access url that is valid only once. Therefore a manipulation by others will be recognized. **Source code** : [wemove/read2burn](https://github.com/wemove/read2burn)
+-   [Grammica](https://grammica.com/) - You can check your English grammar with grammica, and the website provides also a lot of other tools to rework and improve your text and make it even more unique.
+-   [Framalibre](https://framalibre.org/alternatives) - 🇫🇷 \[FR\] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
+-   [Framalibre](https://framalibre.org/annuaires/logiciel) - 🇫🇷 \[FR\] Découvrez des logiciels libres
+-   [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
+-   [CloudConvert](https://cloudconvert.com/epub-to-pdf) - EPUB to PDF Converter | with support for EPUB, PDF, AZW and CBZ amongst many others.
+-   [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 \[FR\] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
+-   [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
+-   [follow.it](https://follow.it/) - Follow any blog or website
+-   [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
+-   [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
+
+[Bookmarks](Bookmarks.md)
+    
+    s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
+    
+-   [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
+[Bookmarks](Bookmarks.md)
+-   [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
+-   [follow.it](https://follow.it/surfing) - Follow websites while browsing the net!
+
+> News
+
+-   [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
+-   [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
+-   [Retro Gamer](https://www.retrogamer.net/) - Magazine about Classic Video Game Info - Spectrum, Commodore, Atari, Amiga, Handhelds, Arcade Games
+-   [Gaming Hell](http://gaminghell.co.uk/) - The old game site with guts! Where Zoanthropes Go to Die
+-   [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
+-   [WorthPlaying](https://worthplaying.com/news/reviews/) - the leading independent (no corporate overlords here!) video game news and reviews site. | WorthPlaying.com was launched on November 15th 2000, after hard work and a lot of research.
+
+> Misc
+
+-   [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
+-   [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
+-   [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of open source games & add-ons, maps, etc.
+-   [Soldat](https://www.soldat.pl/en/) - Soldat is a unique 2D (side-view) multiplayer action game | 🦆 It's still one of my favorite multiplayer games for 10+ years (nostalgia), mainly because it's free, its gameplay is simple, the engine can be modded easily and the game uses 2d rendering. **Bonus** the source code is available publicly : [Soldat/soldat](https://github.com/Soldat/soldat)
+-   [Illuminion](http://if.illuminion.de/infocom.html) - Classic text adventures masterpieces, to play with DOS or the Frotz-Z machine
+-   [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
+-   [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
+-   [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
+-   [GamingOnLinux](https://www.gamingonlinux.com/free-games/) - Linux & SteamOS gaming community
+-   [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
+-   [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday
+-   [UnDropDansLaMare](https://www.youtube.com/watch?v=KzvHvc41qpk) - (Video) \[FR\] 🇫🇷 Le Paradoxe du Joueur \[2 minutes pour convaincre\] short analysis of insatisfaction with modern video games / why video games were best before
+-   [Tom's Hardware](http://www.tomshardware.com/reviews/best-gpus,4380.html) - Top-Rated Graphics Cards for Gaming / best GPU for the money
+-   [Can You RUN It?](https://www.systemrequirementslab.com/cyri) - System Requirements Lab analyzes your computer and tell you which games you can / can't run
+-   [NotebookCheck](https://www.notebookcheck.net/Computer-Games-on-Laptop-Graphic-Cards.13849.0.html) - list of GPUs of Laptop Graphic Cards sorted by approximate performance in games
+-   [CheezBurger](http://cheezburger.com/8271579136) - How the Gaming Landscape Has Changed (2004 vs 2013)
+-   [UnDropDansLaMare](https://www.youtube.com/watch?v=ilLrptqGdqM) - \[Video\] ... Ce Héros Mis Au Placard \[2 minutes pour convaincre\] // Death of the polygon
+-   [Korben](https://korben.info/console-jaunie.html) - (2014) \[FR\] 🇫🇷 Console jaunie ? Voici comment la traiter pour lui redonner sa couleur d’origine
+-   [Pencil and Paper games](http://www.papg.com/) - Because I enjoy good games that don't depend on any modern technology
+-   [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
+-   [Coinop](http://www.coinop.org/) - Coinop.org maintains a comprehensive database of coin-operated arcade games.
+-   [Terminus](http://luffah.xyz/bidules/Terminus/) - \[FR\] 🇫🇷 funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
+-   [Jeux libres](http://jeuxlibres.net/) - 🇫🇷 \[FR\] un catalogue de jeux vidéos libres principalement sous GNU/Linux
+-   [Abandonware France](https://www.abandonware-france.org/) - 🇫🇷 \[FR\] l'histoire des vieux jeux video et retrogaming
+-   [DHTML Lemmings](https://www.elizium.nu/scripts/lemmings/) - a remake of Lemmings all written in JavaScript, to play in your browser
+-   [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : \* [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
+-   [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
+-   [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
+-   [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
+-   [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
+-   [CARRION](https://store.steampowered.com/app/953490/CARRION/) - is a reverse horror game in which you assume the role of an amorphous creature of unknown origins, stalking and consuming those that imprisoned you.
+-   [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour. The annual event occurs during a week in early March.
+-   [NeoGAF Forum](https://www.neogaf.com/forums/gaming-discussion.2/) - Gaming Discussion Forum
+-   [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
+-   [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Retro SNK NeoGeo games online in your browser | neogeofun is a website let you play your favorite snk neogeo games in your web browser.
+-   [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser
+-   [Good Video Game Interface Screenshots](http://videogameinterfaces.com/) - The best collection of the most beautiful, exceptional and inspiring video game interfaces and screenshots.
+-   [HowLongToBeat.com](https://howlongtobeat.com/#search1) - How long does it take to beat your favorite games?
+-   [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
+-   [Save Coins](https://savecoins.app/) - helps you save money when you make a purchase at Nintendo Switch eShop.
+-   [adiGuba](https://switch.adiguba.com/) - 🇫🇷 \[FR\] Les jeux pour Nintendo Switch au meilleur prix !
+-   [Deku Deals](https://www.dekudeals.com/) - tracks the prices of Nintendo Switch games on the eShop and at major retailers in order to find the best deals. Add items to your wishlist, and Deku Deals sends you an email as soon as they go on sale.
+-   [Keepa](https://keepa.com/) - This Amazon price tracker will enhance your Amazon shopping experience as they provide price history charts, price drop alerts, price watches, daily drops and browser addons. Good for watching games price drops.
+-   [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
+-   [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next.
+-   [Before I Play](https://beforeiplay.com/index.php?title=Category:Games) - tells people about things they should know before they start playing a video game. Some tips contain spoilers !
+-   [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples :
+    -   Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
+    -   Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
+-   [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
+-   [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
+-   [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt. 🎮
+-   [Viking Board Game](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
+-   [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 \[FR\] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
