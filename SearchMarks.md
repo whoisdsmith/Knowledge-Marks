@@ -8,7 +8,7 @@
 - [[awesome-hacker-search-engines]]
 - [[Awesome-Search]]
 - [[Blog Search]]
-- [[Books 2]]
+- [[Books]]
 - [[Certificates]]
 - [[Code Search Engines]]
 - [[Code Search]]
@@ -62,6 +62,6 @@
 - [[Visual Search and Clustering Search Engines]]
 - [[Vulnerabilities]]
 - [[Web History]]
-- [[WiFi Networks 1]]
+- [[WiFi Networks]]
 
 %% End Waypoint %%

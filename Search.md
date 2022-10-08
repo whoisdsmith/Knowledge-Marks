@@ -26,9 +26,9 @@
 
 # Search
 
-[Accessibility 1](Accessibility%201.md)
+[Accessibility](Accessibility.md)
 [Awesome Hacking Search Engines](Awesome%20Hacking%20Search%20Engines.md)
-[Books 2](Books%202.md)
+[Books](Books.md)
 [Content 1](Content%201.md)
 [Courses 1](Courses%201.md)
 [Custom-Search-Engines](SearchMarks/Custom-Search-Engines.md)
@@ -45,7 +45,7 @@
 [Social Media 1](Social%20Media%201.md)
 [Tools & Services](Tools%20&%20Services.md)
 [URL](SearchMarks/URL.md)
-[Videos 1](Videos%201.md)
+[Videos](Videos.md)
 [Awesome Custom Search Engines](Awesome/Awesome-Custom-Search-Engines-master/Awesome%20Custom%20Search%20Engines.md)
 [awesome-custom-search](awesome-custom-search.md)
 [Awesome-Custom-Search-Engines-master](Awesome-Custom-Search-Engines-master.md)

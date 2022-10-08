@@ -37,3 +37,27 @@
 -   [jmc](https://github.com/jcm93/jmc) - jmc is new macOS media organizer. [![swift_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png "Swift language.")](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/icons/swift-16.png)
 -   [shairport-sync](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver. [![c_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png "C language.")](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/icons/c-16.png) [![cpp_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png "C++ language.")](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/icons/cpp-16.png)
 -   [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device. [![swift_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png "Swift language.")](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/icons/swift-16.png)
+
+# Audio 
+---
+[Music DL](Music%20DL.md)
+[Pro Audio](Pro%20Audio.md) ## Audio
+- [AV Linux MX Edition – bandshed.net](http://www.bandshed.net/avlinux)
+- [Export to CSV and Text files with Tag Editor for Mac - Amvidia](https://amvidia.com/guides/music-organising/export-to-csv-text-files)
+- [Home](https://www.serviio.org/)
+- [KooZic | KooZic](https://koozic.net/)
+- [KXStudio](https://kx.studio/)
+- [librosa — librosa 0.9.2 documentation](https://librosa.org/doc/latest/index.html)
+- [mStream - Open Source Music Streaming](https://mstream.io/)
+- [Strix Music • Home](https://www.strixmusic.com/)
+---## Audio
+- [Free Music Search](http://musgle.com/)
+- [Listen Notes](https://www.listennotes.com/)
+- [Museo](https://museo.app/)
+- [Search for Music Using Your Voice](https://www.midomi.com/)
+
+## Audio
+
+- [SoundCloud](https://soundcloud.com/) - Audio hosting with an embeddable player. Up to 3 hours of content is free.
+- [Mixcloud](https://www.mixcloud.com/) - Audio hosting with unlimited uploads and an embeddable player.
+- [Spotify](https://www.spotify.com/) - You can embed any song, album, or playlist with a [Spotify Play Button](https://developer.spotify.com/documentation/widgets/guides/adding-a-spotify-embed/).

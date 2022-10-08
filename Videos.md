@@ -18,3 +18,10 @@ A selection of websites offering high quality video stock.
 -   [Videezy](https://www.videezy.com/) - [©️](https://www.videezy.com/terms) Free stock videos, 4k footage, and free HD video clips.
 -   [Vidsplay](http://www.vidsplay.com/) - [©️](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 -   [VYOO](http://www.veed.io/vyoo) - [©️](http://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
+
+## Videos
+
+- Controls: Add controls to playback and control your video.
+- Embed: Allow others to embed your videos.
+- Transcriptions: Use transcriptions for indexing, usability & content.
+- [Unplayable content](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/unplayable-content) - Avoid unplayable video content. Use HTML5 `<video>` tag instead of Flash.

@@ -17,3 +17,11 @@
     -   **Host**: Daniel Compton @[danielwithmusic](https://twitter.com/danielwithmusic)
     -   **Frequency**: Once a week
     -   **Runtime**: 25 - 95 mins, regularly ~50 mins
+
+## Clojure
+
+### [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva)
+
+> Integrated REPL, linting, inline eval, test runner, and more. Powered by Cider & nRepl.
+
+[![Calva](https://raw.githubusercontent.com/BetterThanTomorrow/calva/master/assets/howto/top-level-comment-eval.gif)](https://raw.githubusercontent.com/BetterThanTomorrow/calva/master/assets/howto/top-level-comment-eval.gif)
