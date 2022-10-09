@@ -28,3 +28,26 @@
 -   [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 -   [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 -   [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+
+## 📦 Backend
+View cheatsheets
+[PHP](Awesome/Awesome-Cheatsheets/PHP.md)
+[Python](Awesome/Awesome-Cheatsheets/Python.md)
+[Javascript](Awesome/Awesome-Cheatsheets/Javascript.md)
+
+## BackEnd
+
+| Repository                                               | Description             | License                                                                |
+| -------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------- |
+| [GraphQL](https://github.com/chentsulin/awesome-graphql) | Awesome list of GraphQL | [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
+
+**[⬆ Back to Index](#index)**
+
+## Backends
+##### Every awesome web app needs an awesome backend.
+
+* [Auth0](https://auth0.com/) - Authentication, done for you.
+* [DigitalOcean](https://www.digitalocean.com/) - A cheap and quality VPS hosting company.
+* [Firebase](https://www.firebase.com) - A real-time front-end database for your sites.
+* [Hasura](https://hasura.io) - Platform to build and deploy app backends fast.
+* [Heroku](https://www.heroku.com) - Cloud application platform; very easy to scale.

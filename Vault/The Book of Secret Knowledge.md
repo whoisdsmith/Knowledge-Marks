@@ -7,7 +7,7 @@
 [ContainersOrchestration](ContainersOrchestration.md)  
 [ManualsHowtosTutorials](ManualsHowtosTutorials.md)  
 [Inspiring Lists](Inspiring%20Lists.md)  
-[BlogsPodcastsVideos](BlogsPodcastsVideos.md)  
+[Blogs](Blogs.md)  
 [HackingPenetration Testing](HackingPenetration%20Testing.md)  
 [Your daily knowledge and news](Your%20daily%20knowledge%20and%20news.md)  
 [Other Cheat Sheets](Other%20Cheat%20Sheets.md)
