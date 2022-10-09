@@ -40,7 +40,7 @@ The book: [https://www.thesprintbook.com/](https://www.google.com/url?q=https://
 [How to conduct a Design Sprint — Good Design](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://medium.com/good-design/how-to-conduct-a-design-sprint-825b798a631b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228546274%26amp;usg%3DAOvVaw1MNCnGyJR3NEwi8zUBOWDn&sa=D&source=docs&ust=1645230228994234&usg=AOvVaw1Wk7MlKEJf2EGdhU9Py8k-) 
 [Design Sprint Resources & Planning Tools + Blog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://voltagecontrol.com/blog/design-sprint-resources-planning-tools/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1645230228547016%26amp;usg%3DAOvVaw0eC_70kWJSOf67nFWRj41K&sa=D&source=docs&ust=1645230228994342&usg=AOvVaw01wmiKtY5T3CT_nR0rwrgK)
 📊 Marketing
-[Analytics  General Marketing](Analytics%20%20General%20Marketing.md)
+[Analytics](Analytics.md)
 [Email](Email.md)
 [Copy](Copy.md)
 ## 

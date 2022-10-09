@@ -3,7 +3,7 @@
 [Apple Device Tools​](Apple%20Device%20Tools​.md)
 [Cloud services​](Cloud%20services​.md)
 [Cryptocurrencies​](Cryptocurrencies​.md)
-[Design​](Design​.md)
+[Design](Design.md)
 [Development​](Development​.md)
 [Experiments​](Experiments​.md)
 [Finance​](Finance​.md)

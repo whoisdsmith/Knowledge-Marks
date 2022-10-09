@@ -75,3 +75,71 @@
 
   * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
   * Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
+
+## Academic and Grey Literature Research Tools
+- [ASCE Library](https://ascelibrary.org/)
+- [citeseer.ist.psu.edu/](https://citeseer.ist.psu.edu/)
+- [Research Guides: Gray Literature: Gray Literature](https://csulb.libguides.com/graylit)
+- [Dissertation.com](https://dissertation.com/)
+- [Europe PMC](https://europepmc.org/)
+- [Get The Research](https://gettheresearch.org/)
+- [Greyguide.isti.cnr.it](https://greyguide.isti.cnr.it/)
+- [Greylitstrategies.info](https://greylitstrategies.info/)
+- [A-Z Databases](https://guides.uflib.ufl.edu/az.php)
+- [Open Access Journals Search Engine (OAJSE) : Social Sciences](https://oajse.com/subjects/social_sciences.html)
+- [Research.omicsgroup.org](https://research.omicsgroup.org/)
+- [Academic Journals](https://www.academicjournals.org/)
+- [African Journals Online (AJOL)](https://www.ajol.info/)
+- [Library (Getty Research Institute)](https://www.getty.edu/research/library)
+- [Greylit.org](https://www.greylit.org/)
+- [Greynet.org](https://www.greynet.org/)
+- [Ispybio.com](https://www.ispybio.com/)
+- [Loadb.org](https://www.loadb.org/)
+- [Biosearch.berkeley.edu](https://biosearch.berkeley.edu/)
+- [LibGuides Community](https://community.libguides.com/)
+---
+
+##  Academic Resources and Grey Literature
+
+* [Academia](https://www.academia.edu)
+* [Academic Journals](http://www.academicjournals.org)
+* [African Journal Online](http://www.ajol.info)
+* [American Society of Civil Engineers](http://ascelibrary.org)
+* [Base](http://www.base-search.net)
+* [Bibsonomy](http://www.bibsonomy.org)
+* [Cambridge Journals](http://journals.cambridge.org)
+* [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
+* [Core](https://core.ac.uk/search)
+* [Elsevier](https://www.elsevier.com)
+* [Google Scholar](https://scholar.google.com)
+* [Grey Guide](http://greyguide.isti.cnr.it)
+* [Grey Literature – List of Gateways](http://csulb.libguides.com/graylit)
+* [Grey Literature Report](http://www.greylit.org)
+* [Grey Literature Strategies](http://greylitstrategies.info)
+* [GreyNet International](http://www.greynet.org)
+* [HighWire: Free Online Full-text Articles](http://highwire.stanford.edu/lists/freeart.dtl)
+* [Journal Guide](https://www.journalguide.com)
+* [Journal Seek](http://journalseek.net)
+* [JSTOR](http://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
+* [Lazy Scholar](http://www.lazyscholar.org)
+* [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
+* [Microsoft Academic](http://academic.research.microsoft.com)
+* [NRC Research Press](http://www.nrcresearchpress.com)
+* [Open Access Scientific Journals](http://www.pagepress.org)
+* [Open Grey](http://www.opengrey.eu)
+* [The Open Syllabus Project](http://opensyllabusproject.org/)
+* [Oxford Journals](http://www.oxfordjournals.org)
+* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books.
+* [Quetzal Search](https://www.quetzal-search.info)
+* [Research Gate](http://www.researchgate.net)
+* [SAGE Journals](http://online.sagepub.com)
+* [ScienceDirect](http://www.sciencedirect.com)
+* [SCIRP](http://www.scirp.org)
+* [Springer](http://link.springer.com)
+* [ScienceDomain](http://www.sciencedomain.org)
+* [Science Publications](http://www.thescipub.com)
+* [Taylor & Francis Online](http://www.tandfonline.com)
+* [Wiley](http://eu.wiley.com)
+* [World Digital Library](http://www.wdl.org)
+* [World Science](http://worldwidescience.org)
+* [Zetoc](http://zetoc.jisc.ac.uk)

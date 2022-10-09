@@ -1,7 +1,7 @@
 # Reference 
 ---
 [Academic](Raindrop/Academic.md)
-[Academic and Grey Literature Research Tools](Academic%20and%20Grey%20Literature%20Research%20Tools.md)
+[Academic](Academic.md)
 [Adderall](Adderall.md)
 [Ancestry Research](Ancestry%20Research.md)
 [Annotation and Highlighting](Annotation%20and%20Highlighting.md)

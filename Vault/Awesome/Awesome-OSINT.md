@@ -1,6 +1,6 @@
 # Awesome OSINT 
 ---
-[Academic Resources and Grey Literature](Academic%20Resources%20and%20Grey%20Literature.md)
+[Academic](Academic.md)
 [Annotation Tools](Annotation%20Tools.md)
 [Blog Search](Blog%20Search.md)
 [Bookmarking](Bookmarking.md)
@@ -59,7 +59,7 @@
 [Project Management Tools](Project%20Management%20Tools.md)
 [Q&A Sites](Q&A%20Sites.md)
 [Radio and Podcasts Tools](Radio%20and%20Podcasts%20Tools.md)
-[Real-Time Search, Social Media Search, and General Social Media Tools](Real-Time%20Search,%20Social%20Media%20Search,%20and%20General%20Social%20Media%20Tools.md)
+[Real-Time Search, Social Media Search](Real-Time%20Search,%20Social%20Media%20Search.md)
 [Similar Sites Search](Similar%20Sites%20Search.md)
 [Slide Show and Presentation Tools](Slide%20Show%20and%20Presentation%20Tools.md)
 [Social Media Tools](Social%20Media%20Tools.md)

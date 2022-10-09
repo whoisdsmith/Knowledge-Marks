@@ -1,5 +1,5 @@
 # AndroidPiracyGuide
-[Android Adblocking](Android%20Adblocking.md)
+[Android](Android.md)
 [► Android Privacy](►%20Android%20Privacy.md)
 [► Android Emulators](►%20Android%20Emulators.md)
 [► Android Tools](►%20Android%20Tools.md)
