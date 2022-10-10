@@ -227,7 +227,7 @@
 - [[Mobile Apps]]
 - [[Mockup's]]
 - [[Motorcyle Assets]]
-- [[Vault/MTHRFCKR]]
+- [[MTHRFCKR]]
 - [[Multimedia]]
 - [[Multiple]]
 - [[Multipurpose OSINT Frameworks]]

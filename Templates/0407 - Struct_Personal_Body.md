@@ -1,2 +1,0 @@
-{ Links to personal content }
-

@@ -1,6 +1,0 @@
-___
-
-## Resources:
-
-| Hyperlink | Info |
-| --------- | ---- |

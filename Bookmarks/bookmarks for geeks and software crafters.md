@@ -1,3 +1,11 @@
+
+---
+title:  bookmarks for geeks and software crafters
+created: 2022-10-10
+---
+# bookmarks for geeks and software crafters
+
+<% tp.file.cursor() %>
 # bookmarks for geeks and software crafters
 ---
 [Contents](Awesome/bookmarks%20for%20geeks%20and%20software%20crafters/Contents.md)

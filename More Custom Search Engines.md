@@ -1,4 +1,16 @@
+---
+Date: 2022-10-10
+Author: Dustin Smith <whoisdsmith@ctrlaltback.space>
+Tags: [Bookmarks, Links, URLs,]
+Alias: []
+---
+
 # More Custom Search Engines
+
+***
+
+## Appendix: Bookmarks and Resources
+
 ----
 
 https://2021.berlinbuzzwords.de/session/how-measure-diversity-search-results

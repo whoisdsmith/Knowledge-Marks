@@ -1,3 +1,11 @@
+---
+---
+title:  "Search Engines - General"
+tags:
+<% tp.file.cursor(1) %>
+programming-languagues:
+created: 2022-10-10
+---
 ## Search engines - General
 - [UVRX](http://www.uvrx.com/)
 - [CLUUZ](http://www.cluuz.com/)

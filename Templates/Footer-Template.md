@@ -1,3 +1,3 @@
 ***
 
-Jimmy Briggs <jimmy.briggs@jimbrig.com> | <% tp.date.now("YYYY") %>
+Dustin Smith <whoisdsmith@ctrlaltback.space> | <% tp.date.now("YYYY") %>

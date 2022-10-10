@@ -1,6 +1,5 @@
 ---
 Date: <% tp.date.now() %>
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: []
-Alias: []
+Author: Dustin Smith <whoisdsmith@ctrlaltback.space>
+Tags: [Bookmarks, Links, URLs,]
 ---
