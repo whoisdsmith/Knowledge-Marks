@@ -472,7 +472,7 @@
 - [[Quokka]]
 - [[R]]
 - [[Rainbow CSV]]
-- [[Raindrops]]
+- [[Vault/Raindrops]]
 - [[Random Sites]]
 - [[Raspberry Pi]]
 - [[README]]
