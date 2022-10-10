@@ -24,7 +24,7 @@
 [JavaScript](Awesome/awesome-podcasts/JavaScript.md)
 [Kotlin](Kotlin.md)
 [Kubernetes](Kubernetes.md)
-[Linux](Linux.md)
+[Linux](OS/Linux.md)
 [PHP](Awesome/awesome-podcasts/PHP.md)
 [Python](Awesome/awesome-podcasts/Python.md)
 [R](R.md)

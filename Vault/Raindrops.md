@@ -142,7 +142,7 @@
 - [[Geolocation]]
 - [[Geospatial datasatelite data]]
 - [[GIT & Github Tools]]
-- [[Git]]
+- [[Developer/Git]]
 - [[Github Tools]]
 - [[github-stars]]
 - [[Gitlab]]

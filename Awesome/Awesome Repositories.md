@@ -9,7 +9,7 @@
 [Cloud](Cloud.md)
 [Competitive Programming](Competitive%20Programming.md)
 [Courses & Certifications](Courses%20&%20Certifications.md)
-[Development](Development.md)
+[Development](Developer/Development.md)
 [Education](Education.md)
 [Frameworks](Frameworks.md)
 [Frontend](Frontend.md)
