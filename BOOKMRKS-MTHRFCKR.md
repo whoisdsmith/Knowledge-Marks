@@ -1,3 +1,9 @@
+---
+banner: "![[BOOKMRKS MTHRFCKR-GITHUB BANNER FULL.png]]"
+banner_y: 0.5
+---
+
+
 # BOOKMRKS-MTHRFCKR
 ---
 # TOC
