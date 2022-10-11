@@ -13,8 +13,8 @@ banner_y: 0.5
 	- [[#Computer Related#Linux|Linux]]
 		- [[#Linux#Distros|Distros]]
 		- [[#Linux#Linux Training|Linux Training]]
-	- [[#Computer Related#OS Other|OS Other]]**
-- **[[#Content|Content]]
+	- [[#Computer Related#OS Other|OS Other]]
+- [[#Content|Content]]
 	- [[#Content#Communities|Communities]]
 		- [[#Communities#Dev.to|Dev.to]]
 		- [[#Communities#Discord|Discord]]
@@ -33,7 +33,7 @@ banner_y: 0.5
 		- [[#Content Blogs, RSS and Feeds#Podcasts|Podcasts]]
 	- [[#Content#Social Media|Social Media]]
 		- [[#Social Media#Instagram|Instagram]]
-		- [[#Social Media#Reddit|Reddit]]**
+		- [[#Social Media#Reddit|Reddit]]
 - **[[#Design|Design]]
 	- [[#Design#Design|Design]]
 	- [[#Design#Fonts|Fonts]]
