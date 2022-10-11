@@ -1,4 +1,5 @@
 ## Resources 
+---
 ### Dev Design
 - [Ai generative art tools](https://pharmapsychotic.com/tools.html)
 - [Coverview - Creating cover images for your blogs is now super easy](https://coverview.vercel.app/editor)

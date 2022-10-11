@@ -252,7 +252,7 @@
 - [[OSINT TOOL SITES]]
 - [[OSINT Toolkit]]
 - [[OSINT]]
-- [[OSINTEARCH]]
+- [[OSINT/OSINT SEARCH]]
 - [[OSX]]
 - [[Pallets]]
 - [[Papers and Journals]]

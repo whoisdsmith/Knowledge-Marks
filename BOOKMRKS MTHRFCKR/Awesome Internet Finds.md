@@ -1,4 +1,5 @@
 ## Awesome Internet Finds
+---
 - [A Dictionary of Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures : Katharine Mary Briggs : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/BriggsKatharineMaryAnEncyclopediaOfFairies/mode/2up)
 - [agentOfChaos/divergence-viewer: Provide a visual hash of the current timeline, useful for theoretical time travellers](https://github.com/agentOfChaos/divergence-viewer)
 - [AI Experiments - Experiments with Google](https://experiments.withgoogle.com/collection/ai)

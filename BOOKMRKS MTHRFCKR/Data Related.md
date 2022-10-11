@@ -1,4 +1,5 @@
-## Projects 
+## Data Related
+
 ### Data Integration and Visualisers
 #### Charts
 - [AnyChart is a lightweight and robust JavaScript charting library](https://www.anychart.com/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
@@ -311,10 +312,6 @@
 - [Lifelogging / Quantified Self | Lifestream Blog](http://lifestreamblog.com/lifelogging)
 - [Meta Journal, achievement list](https://www.metajournal.app/?ref=producthunt)
 - [Org Mode - Organize Your Life In Plain Text!](http://doc.norang.ca/org-mode.html)
-### Lifeline Development
-- [https://withered-thunder-e398.whoisdsmith.workers.dev/](https://withered-thunder-e398.whoisdsmith.workers.dev/0:/)
-- [p4rk0ur/lifeline-vision: My vision of creating a central repository of my digital life. This will include things like my google takeout exports, Facebook, Instagram, and Twitter exports, My Day One Journals, and daily activities.](https://github.com/p4rk0ur/lifeline-vision)
-- [Spaceli - Dashboard](https://app.spaceli.io/dashboard/all)
 ### Location History
 - [CSV to GeoJSON converter](https://odileeds.github.io/CSV2GeoJSON/)
 - [Doing more with your Google Location History](https://scarygami.medium.com/doing-more-with-your-google-location-history-a93e0205f0f1)
